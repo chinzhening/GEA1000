@@ -1,0 +1,1501 @@
+ID,Country,PA_Days,VA_Weekly_Days,VA_Daily_Hours,MIA_Weekly_Days,MIA_Daily_Hours,Sedentary_Daily_Hours,Hours_Slept,Uni_Facilities,Smoking_Habits,Alcohol_Drinks,Fruits,Veg,Fastfood,Sugary_Drinks,Optimism,Relaxedness,Coping,Closeness,University,Year,Gender,BMI,GPA,Campus,Sports_Club
+1577,Singapore,1,2,4,4,4,4,9,2,5,0,1,1,1,2,4,2,3,3,NTU Singapore - National Institute of Education,2,1,27.75510204,3.5,1,2
+1381,Singapore,2,0,0,0,0,12,5,2,3,0,8,8,8,1,3,1,4,2,NTU Singapore - National Institute of Education,3,2,24.02380867,4.5,1,2
+1413,Singapore,2,1,2.75,1,3,15.25,9.5,1,5,0,3,5,3,8,4,5,4,2,NTU Singapore - National Institute of Education,1,1,NA,NA,2,2
+1560,Singapore,3,0,4.75,0,0,5,9,1,5,0,2,1,1,4,4,4,4,4,NTU Singapore - National Institute of Education,3,1,22.40817899,4.5,1,2
+1475,Singapore,6,5,2.5,4,1.75,13.25,3.25,1,5,0,1,1,8,6,4,4,3,3,NTU Singapore - National Institute of Education,3,2,NA,NA,2,1
+1510,Singapore,4,5,3.25,5,4,12.25,5.5,1,5,0,3,2,5,1,3,4,3,2,NTU Singapore - National Institute of Education,2,1,0,5.0,1,1
+1471,Singapore,5,0,0,0,0,9.25,9.5,1,5,0,1,3,3,1,3,4,3,2,NTU Singapore - National Institute of Education,4,1,NA,NA,2,2
+1408,Singapore,1,0,0,0,0,10,7,4,5,0,1,2,3,2,3,2,2,2,NTU Singapore - National Institute of Education,3,1,19.36247266,4.4,2,1
+1368,Singapore,4,2,4,3,4,11,10,1,5,1,2,2,2,2,5,3,4,4,NTU Singapore - National Institute of Education,1,1,18.37682515,3.9,1,2
+1361,Singapore,3,3,4,0,0,5,9,1,5,0,2,2,2,2,3,3,4,3,NTU Singapore - National Institute of Education,1,1,21.5450908,3.9,2,2
+1374,Singapore,0,0,0,0,0,8,7,2,5,0,4,1,2,2,3,2,3,2,NTU Singapore - National Institute of Education,1,1,32.56188509,5.0,2,2
+1562,Singapore,5,0,0,1,4,6,8,1,5,0,2,1,3,1,3,3,4,4,NTU Singapore - National Institute of Education,4,2,32.88888889,2.9,2,2
+1418,Singapore,2,2,4,2,4,10,7,1,5,0,4,1,3,1,4,3,3,4,NTU Singapore - National Institute of Education,4,1,28.40054796,4.6,1,1
+1517,Singapore,2,0,0,0,0,14.75,4,1,4,0,2,3,3,6,4,4,3,3,NTU Singapore - National Institute of Education,1,1,NA,NA,2,1
+1345,Singapore,1,0,0,0,0,13.25,3,3,5,0,1,3,3,2,3,3,3,4,NTU Singapore - National Institute of Education,3,1,NA,NA,1,1
+1595,Singapore,3,3,2.5,3,3,13.25,3,1,5,0,1,2,3,6,3,4,3,4,NTU Singapore - National Institute of Education,1,2,NA,NA,2,2
+1409,Singapore,0,0,0,0,0,14.5,4,1,5,0,1,1,3,6,5,5,3,5,NTU Singapore - National Institute of Education,1,1,18.59113034,NA,1,1
+1476,Singapore,0,1,3,2,1.75,15.25,8.25,1,5,0,1,2,4,2,3,5,1,4,NTU Singapore - National Institute of Education,2,2,16.93703188,4.5,1,1
+1451,Singapore,0,5,2.75,3,2,15.25,3,1,5,3,6,8,7,4,4,4,3,4,NTU Singapore - National Institute of Education,5,2,33.29864724,3.9,1,2
+1555,Singapore,1,0,0,0,0,4,9,1,5,0,2,2,2,4,2,2,3,3,NTU Singapore - National Institute of Education,1,1,21.46915048,4.3,2,2
+1362,Singapore,2,2,4,2,4,6,7,2,5,0,1,1,1,2,4,3,3,3,NTU Singapore - National Institute of Education,3,1,20.06920415,4.0,1,2
+1386,Singapore,5,0,0,0,0,10,7,2,5,1,3,1,3,2,2,2,3,2,NTU Singapore - National Institute of Education,4,2,19.23356075,4.4,2,2
+1452,Singapore,4,0,0,0,0,7,8,2,5,2,8,2,2,2,2,3,2,2,NTU Singapore - National Institute of Education,2,2,24.97398543,4.2,1,1
+1520,Singapore,3,0,0,0,0,13.25,2,1,5,0,4,3,8,6,1,3,3,4,NTU Singapore - National Institute of Education,3,1,NA,NA,1,1
+1536,Singapore,0,0,0,0,0,14.75,3,1,3,0,4,4,4,2,5,4,5,3,NTU Singapore - National Institute of Education,2,1,18.71094925,4.7,2,1
+1572,Singapore,1,0,0,1,1.25,14.75,6,1,5,0,1,5,8,1,4,4,4,4,NTU Singapore - National Institute of Education,1,1,NA,NA,2,1
+1348,Singapore,2,2,3.75,7,2,3.25,8,1,5,0,1,2,3,2,2,1,1,2,NTU Singapore - National Institute of Education,1,1,NA,NA,2,1
+1504,Singapore,4,3,2.5,3,2.75,13.75,8.75,1,5,0,1,1,3,2,3,3,4,4,NTU Singapore - National Institute of Education,3,2,18.58281579,4.3,2,2
+1558,Singapore,2,0,4,0,0,12,8,2,5,1,1,2,2,2,4,4,4,4,NTU Singapore - National Institute of Education,2,1,23.4375,4.9,1,2
+1349,Singapore,2,0,0,0,0,13.75,7.5,2,5,0,1,4,2,1,4,4,4,4,NTU Singapore - National Institute of Education,1,1,20.02884153,3.7,2,2
+1444,Singapore,2,3,4,2,3,15.25,5.25,1,5,0,2,4,8,2,3,3,3,5,NTU Singapore - National Institute of Education,1,2,20.93663912,NA,1,1
+1497,Singapore,4,5,2.5,2,1.75,12.25,3.25,1,5,0,4,3,8,6,5,4,4,4,NTU Singapore - National Institute of Education,3,1,NA,NA,2,1
+1539,Singapore,0,0,0,0,0,15.25,4.5,1,5,0,1,1,1,2,4,3,4,4,NTU Singapore - National Institute of Education,2,1,23.14814815,4.2,1,2
+1515,Singapore,7,0,0,7,4.75,9.75,8.25,1,5,0,2,2,3,2,4,4,4,3,NTU Singapore - National Institute of Education,1,1,NA,NA,2,1
+1499,Singapore,0,0,0,0,0,12,7,2,5,1,4,2,2,3,2,3,4,2,NTU Singapore - National Institute of Education,3,2,28.44095498,3.1,2,2
+1424,Singapore,2,0,0,2,0.75,5,9,1,5,0,1,1,3,3,2,3,4,3,NTU Singapore - National Institute of Education,4,2,19.70553242,3.8,2,1
+1538,Singapore,2,0,0,0,0,13.25,5.5,1,5,0,1,3,1,2,2,4,3,2,NTU Singapore - National Institute of Education,3,1,19.03114187,3.8,2,1
+1461,Singapore,2,3,2.25,3,2.25,10,11.25,1,5,0,3,5,2,6,3,2,3,3,NTU Singapore - National Institute of Education,3,1,21.63331531,NA,2,1
+1568,Singapore,0,0,0,0,0,12.25,4.5,1,5,0,2,1,2,1,5,4,3,5,NTU Singapore - National Institute of Education,1,1,NA,NA,1,1
+1460,Singapore,0,0,0,0,0,1,4.5,1,5,0,2,2,2,2,5,3,4,4,NTU Singapore - National Institute of Education,2,1,23.1206236,4.6,2,2
+1564,Singapore,4,2,2.75,3,1.25,14.25,9.5,1,2,0,1,5,2,6,3,4,3,3,NTU Singapore - National Institute of Education,2,1,NA,NA,2,1
+1389,Singapore,1,0,0,2,4,7,7,1,5,1,1,1,2,1,4,3,2,3,NTU Singapore - National Institute of Education,2,1,27.18089991,4.0,2,2
+1584,Singapore,6,0,0,4,1.75,15.75,6.25,1,3,4,1,2,3,8,4,4,3,3,NTU Singapore - National Institute of Education,1,1,27.44059917,NA,2,1
+1514,Singapore,7,7,2.25,7,2.25,13.5,7.75,1,5,0,8,8,2,8,3,3,3,3,NTU Singapore - National Institute of Education,2,1,29.3877551,3.8,1,2
+1546,Singapore,2,2,4,0,0,12,7,1,5,0,6,2,1,1,1,1,3,1,NTU Singapore - National Institute of Education,3,1,25.25951557,3.5,1,1
+1392,Singapore,5,0,0,0,0,5,5,2,5,1,1,1,3,3,1,1,1,1,NTU Singapore - National Institute of Education,3,2,20.3125,4.0,2,2
+1419,Singapore,1,2,4,2,0,6,9,2,5,4,1,1,2,2,3,3,3,3,NTU Singapore - National Institute of Education,1,2,23.05175491,NA,2,2
+1506,Singapore,2,0,0,0,0,9.25,8,1,5,0,1,1,3,2,3,2,4,2,NTU Singapore - National Institute of Education,2,1,NA,NA,1,1
+1550,Singapore,3,1,4,0,4,9,7,2,5,0,2,4,2,2,4,3,4,4,NTU Singapore - National Institute of Education,3,2,18.81892431,4.5,2,2
+1405,Singapore,0,0,0,0,0,14,6,1,5,0,1,3,3,8,3,4,3,3,NTU Singapore - National Institute of Education,1,1,23.03004535,NA,1,1
+1421,Singapore,2,0,0,2,4,10,7,2,5,4,2,2,3,2,4,2,4,3,NTU Singapore - National Institute of Education,2,1,21.71806609,4.8,2,2
+1466,Singapore,7,0,0,6,2.25,15.25,6.5,2,5,0,1,1,8,6,1,1,1,1,NTU Singapore - National Institute of Education,1,1,NA,NA,1,2
+1552,Singapore,0,0,0,3,4,9,11,1,5,1,1,4,2,1,3,3,3,3,NTU Singapore - National Institute of Education,2,1,23.83673469,4.4,2,2
+1351,Singapore,3,6,1.5,2,2,5.25,13.75,1,5,0,2,1,2,3,4,4,3,3,NTU Singapore - National Institute of Education,1,1,NA,NA,1,1
+1594,Singapore,3,2,1.75,1,2.75,10,3,1,5,0,1,1,3,1,4,4,4,4,NTU Singapore - National Institute of Education,1,2,NA,NA,1,2
+1556,Singapore,5,2,4,1,4,10,9,1,5,0,2,4,1,2,3,4,4,3,NTU Singapore - National Institute of Education,1,2,21.30394858,4.0,1,2
+1399,Singapore,0,2,4,0,0,6,7,2,5,0,1,4,1,1,3,2,3,2,NTU Singapore - National Institute of Education,2,1,20.58966513,4.7,1,2
+1398,Singapore,0,0,0,0,0,6,7,2,5,0,1,1,2,2,3,3,4,3,NTU Singapore - National Institute of Education,1,1,32.21175729,5.0,2,1
+1365,Singapore,1,2,4,0,0,12,8,2,5,0,3,1,3,4,4,3,4,3,NTU Singapore - National Institute of Education,1,1,19.97440779,4.9,1,1
+1357,Singapore,3,0,4,0,0,9,8,1,5,0,1,2,4,3,3,3,3,2,NTU Singapore - National Institute of Education,1,1,23.35563691,4.9,1,2
+1519,Singapore,0,3,0,0,0,2,8,2,5,0,1,1,3,1,2,2,3,4,NTU Singapore - National Institute of Education,1,1,19.13265306,4.5,2,2
+1414,Singapore,3,0,0,0,0,14,8,1,5,0,2,8,8,6,2,1,3,4,NTU Singapore - National Institute of Education,1,1,22.64737696,NA,1,2
+1448,Singapore,2,5,4,0,4.75,14.25,7.25,1,5,0,2,1,2,6,5,5,4,4,NTU Singapore - National Institute of Education,1,2,19.95728441,NA,1,1
+1567,Singapore,1,0,0,2,1.25,15.25,10,1,5,1,1,1,2,2,3,2,2,2,NTU Singapore - National Institute of Education,2,1,23.25501864,3.3,2,2
+1574,Singapore,5,0,0,3,2.75,12.75,2,1,5,0,1,1,8,6,3,3,2,2,NTU Singapore - National Institute of Education,2,1,NA,NA,1,1
+1501,Singapore,0,0,0,0,0,12.25,3.5,1,5,0,2,2,3,6,4,4,3,3,NTU Singapore - National Institute of Education,1,2,NA,NA,1,2
+1359,Singapore,0,0,0,0,0,7,7,1,5,0,3,2,1,1,3,5,4,4,NTU Singapore - National Institute of Education,4,1,29.74419988,3.8,2,2
+1462,Singapore,3,0,0,0,0,12.25,9.75,1,5,0,4,3,8,1,4,5,5,3,NTU Singapore - National Institute of Education,1,1,NA,NA,2,1
+1589,Singapore,1,1,3.25,2,2.75,15.25,5,1,5,1,2,1,8,1,4,3,2,3,NTU Singapore - National Institute of Education,3,1,NA,NA,2,1
+1493,Singapore,5,3,4,3,0,6,8,2,5,0,1,1,1,3,2,2,3,1,NTU Singapore - National Institute of Education,4,1,24.72518293,3.6,2,1
+1478,Singapore,4,4,3.25,1,1.75,10,7.75,1,5,0,3,2,3,2,1,4,3,1,NTU Singapore - National Institute of Education,3,2,24.609375,4.6,1,2
+1530,Singapore,2,2,2,2,4,9.25,2.25,1,5,0,1,5,8,1,2,2,5,2,NTU Singapore - National Institute of Education,2,1,30.77870114,NA,1,1
+1545,Singapore,2,3,0,0,0,4,7,1,5,1,1,1,3,2,3,2,3,3,NTU Singapore - National Institute of Education,3,2,21.09619051,3.8,2,2
+1580,Singapore,1,3,1.25,2,2,14.25,3.5,1,5,4,1,1,3,6,2,3,3,4,NTU Singapore - National Institute of Education,1,2,19.22768787,NA,2,2
+1403,Singapore,0,0,0,0,0,10,9,2,5,5,2,1,2,1,2,5,2,1,NTU Singapore - National Institute of Education,2,1,19.23947488,4.2,2,2
+1511,Singapore,2,1,2.75,2,2,13.25,4.75,1,5,0,2,1,8,6,3,3,4,2,NTU Singapore - National Institute of Education,1,1,24.61810377,NA,2,2
+1395,Singapore,2,0,4.75,0,0,5,7,1,5,0,1,1,1,4,3,3,3,3,NTU Singapore - National Institute of Education,4,2,19.00390835,4.0,1,2
+1503,Singapore,2,2,2.25,2,3.25,13.25,9.25,1,5,0,5,2,8,6,4,5,4,3,NTU Singapore - National Institute of Education,1,1,NA,NA,2,2
+6040,MALAYSIA,1,1,2.75,1,3,3.25,14,1,5,0,5,2,2,7,5,2,5,3,Universiti Putra Malaysia,2,1,18.91447368,4.0,2,2
+6170,MALAYSIA,7,0,0,6,3.75,3,4.75,1,5,0,8,7,2,1,1,1,1,1,Universiti Putra Malaysia,5,2,28.04281659,3.8,1,1
+6149,MALAYSIA,2,2,5,2,2.75,2.25,3,1,5,0,7,6,3,2,5,3,5,4,Universiti Putra Malaysia,5,1,22.86236854,3.1,2,1
+6254,MALAYSIA,3,0,0,0,0,14.25,3,1,5,0,3,2,2,6,2,2,2,3,University of Malaya,1,1,NA,NA,2,2
+6118,MALAYSIA,2,2,1.75,3,4,6.25,4,1,4,0,5,6,4,3,3,4,3,2,Universiti Putra Malaysia,4,2,34.08660523,3.7,1,1
+6117,MALAYSIA,0,0,0,1,2,5.5,2.75,1,4,0,2,1,2,4,4,4,4,4,Universiti Putra Malaysia,5,2,18.92915089,NA,2,1
+6244,MALAYSIA,0,0,0,0,0,15.25,15,3,5,0,1,1,3,8,2,5,2,3,Universiti Putra Malaysia,5,2,21.97133586,2.4,2,1
+6209,MALAYSIA,2,0,0,2,2.25,5.25,3,1,5,0,1,2,2,4,3,4,4,4,Universiti Putra Malaysia,5,1,16.796875,NA,2,1
+6264,MALAYSIA,6,4,3,2,5,9.25,1.75,3,5,0,3,2,1,1,4,4,5,3,University of Malaya,5,1,22.65625,3.7,1,1
+6296,MALAYSIA,3,2,2.75,2,3,6.25,1,1,5,0,4,4,3,4,3,4,4,3,University of Malaya,3,1,23.14725512,3.4,2,1
+6226,MALAYSIA,2,0,0,3,2.25,4.25,4,1,5,0,2,2,3,1,3,2,3,3,Universiti Putra Malaysia,5,1,30.66666667,NA,1,1
+6305,MALAYSIA,5,0,0,5,3.75,6.25,3,1,2,7,4,4,2,1,1,1,2,2,University of Malaya,4,1,27.34375,3.8,2,1
+6050,MALAYSIA,6,1,1.75,5,2.75,11.25,15,1,5,0,1,3,1,1,5,3,4,3,Universiti Putra Malaysia,2,2,20.32443826,3.9,2,1
+6074,MALAYSIA,0,0,0,0,0,3.25,4.25,1,5,0,3,2,3,2,3,2,4,3,Universiti Putra Malaysia,5,2,0,4.0,1,1
+6251,MALAYSIA,2,1,2.5,1,2,2.25,12.5,1,5,0,4,4,3,6,4,2,2,4,University of Malaya,5,2,NA,NA,2,2
+6220,MALAYSIA,1,0,0,4,2.25,14.5,6,1,5,0,6,8,3,1,2,2,2,3,Universiti Putra Malaysia,4,1,20.613131,3.6,1,1
+6088,MALAYSIA,1,0,0,1,2.75,14.25,5.5,1,5,0,4,8,1,3,4,3,5,4,Universiti Putra Malaysia,3,2,23.30668005,NA,1,1
+6255,MALAYSIA,4,4,2.25,2,2.25,9.25,5,2,5,0,2,1,8,1,3,4,3,3,University of Malaya,3,1,NA,NA,1,2
+6035,MALAYSIA,0,0,0,0,0,14.25,6,1,5,0,1,3,1,3,2,4,2,5,Universiti Putra Malaysia,1,1,23.14725512,3.7,2,2
+6177,MALAYSIA,0,2,2,0,0,11.75,2,1,5,0,1,1,2,6,3,4,3,3,Universiti Putra Malaysia,3,2,27.39091856,3.7,1,1
+6127,MALAYSIA,3,3,2.75,2,1.75,12.75,2,1,5,0,2,3,1,5,4,4,4,3,Universiti Putra Malaysia,3,1,15.40062435,NA,2,1
+6256,MALAYSIA,5,0,0,6,4,9.25,14.25,1,5,0,1,1,3,1,3,3,3,2,University of Malaya,1,1,NA,NA,1,2
+6182,MALAYSIA,4,0,0,5,2.75,4.25,14,1,5,0,2,2,4,1,3,4,3,2,Universiti Putra Malaysia,3,1,22.60026298,NA,2,1
+6190,MALAYSIA,1,2,3.25,0,0,3.25,2,1,5,0,8,2,4,1,4,5,3,2,Universiti Putra Malaysia,5,2,17.7154195,NA,2,1
+6310,MALAYSIA,0,0,0,0,0,11.25,4,4,5,0,1,1,1,1,3,3,3,4,University of Malaya,5,1,18.42653421,3.8,2,1
+6108,MALAYSIA,3,0,0,4,2.25,14.25,0.5,1,5,0,1,1,1,8,3,5,2,3,Universiti Putra Malaysia,3,2,34.29355281,3.6,1,1
+6130,MALAYSIA,0,0,0,0,0,11.25,12.5,1,5,0,1,2,1,8,3,4,3,4,Universiti Putra Malaysia,3,1,20.17455375,3.3,2,1
+6240,MALAYSIA,0,3,2,2,2,8.25,6.5,1,5,0,1,1,3,3,4,4,4,4,Universiti Putra Malaysia,3,1,18.02595738,3.9,1,1
+6172,MALAYSIA,1,0,0,0,0,9.25,2.5,1,5,0,1,3,2,5,5,4,3,3,Universiti Putra Malaysia,1,1,21.98989237,NA,2,1
+6263,MALAYSIA,7,5,2.75,2,3.25,5.25,3.75,3,5,0,3,5,2,5,1,5,5,5,University of Malaya,3,1,18.5178041,3.5,2,1
+6282,MALAYSIA,0,2,4,2,3.25,14,5.75,4,5,0,2,2,1,8,2,2,3,2,University of Malaya,5,2,18.5178041,3.8,2,1
+6299,MALAYSIA,5,0,0,0,0,5.75,3.5,1,5,0,2,1,2,1,2,3,2,2,University of Malaya,3,1,23.49523687,3.4,2,1
+6111,MALAYSIA,5,0,0,6,4,3.25,3.5,1,5,0,2,1,2,4,2,2,3,2,Universiti Putra Malaysia,5,2,21.44756785,NA,1,1
+6222,MALAYSIA,6,0,0,6,4.25,6.75,3.5,3,5,0,1,1,8,7,3,4,4,4,Universiti Putra Malaysia,5,1,17.14677641,NA,2,2
+6041,MALAYSIA,1,0,0,0,0,5.25,4,1,5,0,1,3,1,1,3,4,3,3,Universiti Putra Malaysia,2,2,24.44727891,3.9,2,2
+6171,MALAYSIA,1,0,0,0,0,15.25,2.5,1,5,0,2,3,1,2,1,2,2,2,Universiti Putra Malaysia,1,1,32.45567772,NA,1,1
+6157,MALAYSIA,2,2,2.25,4,4.25,8.75,3,1,5,0,2,1,3,1,4,3,5,3,Universiti Putra Malaysia,5,2,24.77209671,NA,1,1
+6124,MALAYSIA,4,2,3.25,0,0,6.25,3,4,5,0,5,5,4,3,3,2,3,4,Universiti Putra Malaysia,5,1,18.67093431,NA,2,1
+6235,MALAYSIA,2,0,0,2,3,6.25,3.25,1,5,0,2,1,2,2,3,4,3,2,Universiti Putra Malaysia,5,1,18.59103675,NA,2,1
+6055,MALAYSIA,3,0,0,4,3.25,7,8,3,4,0,6,6,2,3,5,3,3,4,Universiti Putra Malaysia,5,2,21.2244898,NA,2,1
+6308,MALAYSIA,1,2,3.25,3,2.25,6.25,4,1,4,0,2,1,3,4,1,2,1,1,University of Malaya,5,2,38.9739229,3.5,2,1
+6153,MALAYSIA,0,0,0,0,0,5.25,9,3,5,0,1,1,3,1,4,3,2,5,Universiti Putra Malaysia,5,2,19.03114187,NA,2,1
+6057,MALAYSIA,3,0,0,7,4,9,4,1,5,0,8,8,2,2,5,5,3,3,Universiti Putra Malaysia,5,2,20.28479857,NA,2,1
+6238,MALAYSIA,2,0,0,0,0,14.75,4,2,5,0,1,2,1,1,4,4,4,3,Universiti Putra Malaysia,3,2,16.18427491,NA,2,1
+6032,MALAYSIA,0,0,0,0,0,10.25,13,1,5,0,1,1,3,1,5,5,4,5,Universiti Putra Malaysia,1,1,NA,NA,2,2
+6047,MALAYSIA,4,4,2.5,4,3.25,15,8,1,5,0,1,3,8,1,3,4,4,3,Universiti Putra Malaysia,3,1,NA,NA,1,2
+6048,MALAYSIA,4,1,2.75,0,3,13.25,3,2,5,5,8,8,8,6,4,4,4,5,Universiti Putra Malaysia,4,1,NA,NA,1,2
+6187,MALAYSIA,0,0,0,0,0,5.25,2.5,1,5,0,1,1,2,2,2,5,3,3,Universiti Putra Malaysia,3,1,22.48132907,3.5,1,1
+6080,MALAYSIA,2,1,2.25,3,3.25,13.25,4.5,1,5,0,6,2,2,8,4,3,3,2,Universiti Putra Malaysia,3,1,14.69237833,2.4,1,1
+6201,MALAYSIA,0,0,0,0,0,14.25,1.75,1,5,0,2,1,3,2,3,3,4,2,Universiti Putra Malaysia,5,1,22.48132907,3.8,2,1
+6100,MALAYSIA,3,0,0,0,0,9.25,4.25,1,5,0,1,1,3,4,5,3,3,3,Universiti Putra Malaysia,5,1,0,3.5,1,1
+6301,MALAYSIA,3,0,1.75,4,2.75,9.25,6,1,5,0,1,2,2,4,3,3,2,3,University of Malaya,5,2,22.47120876,3.6,1,1
+6038,MALAYSIA,1,0,0,0,0,6.75,4.5,1,1,0,3,6,1,5,5,4,4,3,Universiti Putra Malaysia,1,1,NA,NA,2,1
+6078,MALAYSIA,1,0,0,2,4.75,6.75,4.5,1,5,0,4,4,1,1,3,4,4,3,Universiti Putra Malaysia,4,1,16.64932362,3.6,2,1
+6242,MALAYSIA,3,1,1.75,3,3,9.25,6,1,5,0,1,2,2,2,3,4,4,4,Universiti Putra Malaysia,5,2,18.49649888,3.8,2,1
+6128,MALAYSIA,7,4,2.25,4,3,6.25,3,1,5,0,5,4,4,1,3,4,3,4,Universiti Putra Malaysia,5,1,18.25631871,3.8,1,1
+6150,MALAYSIA,1,0,0,2,4.25,11.25,1.5,1,5,0,2,2,1,1,4,3,3,2,Universiti Putra Malaysia,3,1,21.75546853,3.7,1,1
+6141,MALAYSIA,1,0,0,1,2.75,4.25,2,1,5,0,1,3,1,2,3,5,4,3,Universiti Putra Malaysia,5,2,19.72318339,3.1,2,1
+6129,MALAYSIA,4,0,0,5,2.75,14.25,2,1,5,0,4,3,1,1,4,3,5,4,Universiti Putra Malaysia,5,2,24.50894577,NA,2,1
+6208,MALAYSIA,4,0,0,7,2.75,3,14.5,4,5,0,4,2,1,5,3,3,3,4,Universiti Putra Malaysia,5,1,17.94181725,NA,2,1
+6273,MALAYSIA,2,1,1.75,1,1.75,4.75,6.5,1,5,0,1,2,4,3,4,4,4,4,University of Malaya,4,1,21.07719523,NA,1,1
+6096,MALAYSIA,0,0,0,0,0,14.25,7,1,5,0,2,3,3,3,3,3,3,5,Universiti Putra Malaysia,5,1,0,NA,2,1
+6167,MALAYSIA,0,0,0,0,0,11.25,4,4,5,0,2,4,1,1,2,2,3,2,Universiti Putra Malaysia,5,2,18.51319863,NA,2,1
+6146,MALAYSIA,1,0,0,0,0,13.25,6.5,1,4,0,1,2,4,3,2,4,3,4,Universiti Putra Malaysia,3,2,19.88385305,3.9,2,1
+6066,MALAYSIA,2,0,0,2,2.25,3.25,1.75,1,5,0,1,1,1,1,4,4,3,3,Universiti Putra Malaysia,5,1,21.64412071,NA,1,1
+6316,MALAYSIA,1,0,0,2,2.75,4.25,3.5,1,5,0,1,3,6,1,3,2,2,3,University of Malaya,4,1,20.82093992,3.3,2,1
+6232,MALAYSIA,0,0,0,0,0,4.25,2,1,5,0,1,8,2,2,2,4,4,4,Universiti Putra Malaysia,4,1,28.62879239,3.3,1,1
+6113,MALAYSIA,7,0,0,7,3,9.75,4.5,1,5,0,2,2,1,3,3,4,3,4,Universiti Putra Malaysia,4,2,21.2962963,NA,1,1
+6269,MALAYSIA,5,3,2.75,2,2.75,3.25,2,1,5,0,4,3,2,1,3,2,3,4,University of Malaya,4,1,23.87511478,NA,1,1
+6054,MALAYSIA,0,0,0,0,0,6.25,5,1,5,0,1,1,1,5,2,3,2,2,Universiti Putra Malaysia,4,1,27.91551882,3.8,2,1
+6131,MALAYSIA,1,0,0,0,3.25,6.25,2.5,1,5,0,1,1,2,8,4,4,4,4,Universiti Putra Malaysia,5,1,18.25631871,NA,2,1
+6193,MALAYSIA,3,1,2.5,0,0,8.25,8,1,5,0,2,2,3,1,2,4,3,2,Universiti Putra Malaysia,4,1,22.265625,3.8,1,1
+6202,MALAYSIA,3,0,0,3,2.25,9.25,2,1,5,0,7,7,2,3,3,4,4,3,Universiti Putra Malaysia,5,1,22.64086462,3.9,1,1
+6196,MALAYSIA,3,5,2.25,7,2.25,11.25,2.75,1,5,0,1,4,2,1,5,5,5,3,Universiti Putra Malaysia,5,2,25.0995016,NA,1,1
+6134,MALAYSIA,0,0,0,0,0,13.25,5,3,5,0,1,3,1,1,4,5,3,2,Universiti Putra Malaysia,5,2,33.56401384,NA,2,1
+6297,MALAYSIA,5,2,3.25,1,2.25,2.25,15,1,5,0,1,1,3,2,4,3,3,4,University of Malaya,5,1,21.484375,4.0,1,1
+6228,MALAYSIA,4,4,2.75,3,2.75,3.25,9.75,1,5,0,3,1,2,4,3,3,3,3,Universiti Putra Malaysia,4,2,23.30668005,3.7,1,1
+6120,MALAYSIA,0,0,0,7,3.25,12,0.5,1,5,0,1,4,1,1,4,5,5,2,Universiti Putra Malaysia,3,1,17.578125,4.0,2,1
+6252,MALAYSIA,2,1,1.75,1,2.75,15.75,3,1,5,0,2,2,3,6,2,3,2,3,University of Malaya,1,2,NA,NA,2,2
+6164,MALAYSIA,0,0,0,4,2.25,3.25,5,1,5,0,5,3,1,2,4,2,3,3,Universiti Putra Malaysia,4,1,19.97918835,3.6,1,1
+6219,MALAYSIA,2,1,2.75,1,4,2.25,1,1,5,0,1,3,1,7,2,2,2,2,Universiti Putra Malaysia,5,1,22.31327843,NA,1,1
+6303,MALAYSIA,2,0,0,4,4.25,13.25,4.5,1,5,0,5,3,4,3,4,4,4,2,University of Malaya,4,1,18.19548277,3.8,1,1
+6095,MALAYSIA,1,0,0,0,0,8,4,1,5,0,1,3,1,1,4,4,4,3,Universiti Putra Malaysia,5,1,18.42653421,3.9,1,1
+6077,MALAYSIA,3,0,0,2,4,6.25,12.75,1,5,0,1,4,4,5,2,5,5,3,Universiti Putra Malaysia,5,1,23.19109462,3.5,2,1
+6181,MALAYSIA,5,5,2.25,5,1.75,4.25,5,1,5,0,3,3,1,3,3,3,3,3,Universiti Putra Malaysia,4,1,17.36111111,3.5,1,1
+6104,MALAYSIA,5,5,3.25,5,3.25,3.75,2.5,1,5,0,2,1,3,4,4,3,4,4,Universiti Putra Malaysia,5,2,28.3446712,NA,1,1
+6033,MALAYSIA,0,0,0,2,3.75,15.25,10,1,5,0,1,1,3,1,2,3,3,2,Universiti Putra Malaysia,1,2,NA,NA,2,2
+2846,Indonesia,1,0,0,1,1.75,12.5,9.75,1,5,0,2,1,1,2,4,3,4,4,Universitas Indonesia,1,1,22.0603538,3.2,2,2
+3057,Indonesia,1,2,1.25,0,0,13.25,6.75,1,4,0,3,4,5,3,3,4,3,4,Universitas Indonesia,1,1,33.32051775,3.4,2,2
+5591,Indonesia,1,5,2.25,0,0,9.25,8.75,1,5,0,1,2,3,8,5,3,3,1,Universitas Indonesia,1,1,NA,NA,2,1
+3744,Indonesia,2,1,2.25,1,2,2.5,4.75,1,4,0,1,3,2,1,3,3,3,2,Universitas Indonesia,1,2,30.24691358,3.5,2,2
+2859,Indonesia,1,0,0,0,0,3.25,3.75,2,5,0,2,1,2,2,3,2,2,4,Universitas Indonesia,1,1,16.33038177,3.3,2,2
+3394,Indonesia,2,0,0,2,2.75,4.25,4,1,5,0,1,1,2,2,3,4,3,4,Universitas Indonesia,1,1,19.70553242,3.6,2,2
+3933,Indonesia,0,0,0,0,0,14.25,6.75,1,5,0,3,5,7,8,3,2,2,2,Universitas Indonesia,1,2,21.5349084,3.9,2,2
+1916,Indonesia,2,1,2.25,0,0,7.25,4.75,1,5,0,5,8,2,2,5,4,4,4,Universitas Gadjah Mada,2,2,21.2244898,3.4,2,2
+2200,Indonesia,5,0,0,0,0,9.25,6.75,1,5,0,3,3,5,8,3,5,5,5,Universitas Gadjah Mada,1,1,20.57613169,3.3,1,2
+5465,Indonesia,0,1,3.75,1,1.75,15.25,6,3,5,0,1,1,2,8,4,5,3,2,Universitas Indonesia,1,1,27.40765728,3.3,2,2
+2117,Indonesia,2,0,0,1,3.25,11.25,4.75,1,5,0,1,3,3,8,5,3,4,3,Universitas Gadjah Mada,3,1,27.54820937,3.5,2,2
+4152,Indonesia,2,1,2.5,1,2,9.25,8,2,5,0,1,1,5,4,5,3,4,4,Universitas Indonesia,1,1,17.578125,3.9,2,1
+5011,Indonesia,4,4,4.75,1,2.25,4.25,4.75,1,5,0,2,1,3,3,4,4,3,5,Universitas Indonesia,1,2,30.27371181,3.8,2,1
+3151,Indonesia,1,0,0,0,0,5.25,3.75,1,5,0,2,2,5,2,3,4,4,4,Universitas Indonesia,1,1,33.29864724,3.7,2,2
+4558,Indonesia,2,0,0,2,2.25,14.25,7.75,1,5,0,5,3,3,3,2,3,3,4,Universitas Indonesia,1,1,19.31295201,3.7,2,2
+4345,Indonesia,0,0,0,0,0,15.25,7.75,1,5,0,1,1,3,3,5,4,4,3,Universitas Indonesia,1,1,24.8357635,3.8,2,2
+5866,Indonesia,3,0,0,4,2.75,7.25,8.75,1,5,0,2,4,1,2,3,3,4,4,Unviersitas Airlangga,1,1,26.03749399,4.0,2,2
+3423,Indonesia,0,0,0,0,0,13.25,8.25,1,5,0,3,3,3,2,5,4,4,4,Universitas Indonesia,1,1,23.12467037,3.9,2,2
+3532,Indonesia,0,0,0,0,0,4.25,9.25,1,5,0,1,1,4,1,5,3,4,4,Universitas Indonesia,1,1,0,3.8,2,2
+2697,Indonesia,2,0,0,0,0,4.25,8.25,1,5,0,1,1,4,3,4,4,4,3,Universitas Indonesia,2,1,21.51385851,3.9,2,2
+5933,Indonesia,0,0,0,0,0,9.25,7.25,1,5,0,8,1,3,1,1,1,2,3,Unviersitas Airlangga,1,1,33.29864724,3.7,2,2
+5439,Indonesia,7,0,0,7,4,6,4.75,1,1,0,3,8,1,1,5,5,5,5,Universitas Indonesia,1,2,20.57142857,3.4,2,1
+3341,Indonesia,2,3,1.5,6,1.75,11.25,9.75,2,5,0,3,5,2,1,4,2,4,3,Universitas Indonesia,1,1,21.45357371,3.9,2,2
+2505,Indonesia,3,2,3.75,3,2.75,6.75,7.75,1,5,0,1,2,4,2,3,2,3,2,Universitas Gadjah Mada,2,1,30.078125,3.8,2,2
+2208,Indonesia,0,0,0,2,3,2.25,7.75,1,5,0,1,3,1,2,3,3,4,3,Universitas Gadjah Mada,1,1,18.66201469,3.5,2,2
+4680,Indonesia,1,1,2.5,0,0,5.25,6.75,1,5,0,2,3,4,4,3,3,4,2,Universitas Indonesia,1,1,14.82134273,3.3,2,2
+2029,Indonesia,1,0,0,1,1.75,13,9,1,5,0,5,3,1,4,5,4,4,5,Universitas Gadjah Mada,1,1,19.22768787,3.5,2,2
+5612,Indonesia,1,0,0,0,0,7.25,9.25,1,5,0,3,4,3,3,3,5,3,3,Universitas Indonesia,1,2,NA,NA,2,2
+1832,Indonesia,2,1,3.25,2,2.75,7.25,7.75,1,3,0,2,2,2,1,1,1,4,2,Universitas Gadjah Mada,1,2,17.91508924,3.8,2,2
+4509,Indonesia,3,6,3.25,2,3,10.25,7.75,2,5,0,7,7,4,1,5,5,5,5,Universitas Indonesia,1,2,27.04164413,3.7,2,2
+5639,Indonesia,2,0,0,1,4.25,14.25,2,1,4,0,1,3,8,8,3,3,2,1,Universitas Indonesia,2,2,NA,NA,2,1
+4036,Indonesia,3,1,2.75,0,0,13.25,11.25,2,3,0,2,4,2,2,4,3,4,4,Universitas Indonesia,1,2,18.36547291,3.5,2,1
+3003,Indonesia,3,0,0,0,0,10.25,7.75,2,5,0,8,6,2,2,5,3,3,3,Universitas Indonesia,1,1,21.75546853,3.3,2,2
+5302,Indonesia,2,0,0,1,2.25,14,3.75,1,4,3,2,2,5,8,3,5,4,4,Universitas Indonesia,1,1,16.52892562,4.0,2,2
+4786,Indonesia,5,5,2.25,0,0,2.25,7.75,1,5,0,6,7,1,3,5,3,5,4,Universitas Indonesia,1,2,24.25867407,3.7,2,2
+4934,Indonesia,5,0,0,7,2.25,3.25,8.75,2,5,0,2,2,1,3,4,3,3,3,Universitas Indonesia,1,2,34.71783866,3.4,2,2
+5256,Indonesia,0,0,0,0,0,6.25,7.75,1,5,0,3,2,3,3,2,4,3,2,Universitas Indonesia,1,1,18.42653421,3.3,2,2
+5097,Indonesia,0,0,0,0,0,8.25,4.75,2,5,0,2,4,6,4,3,3,3,3,Universitas Indonesia,1,1,20.02884153,3.8,2,2
+2451,Indonesia,1,0,0,0,0,8.25,10.75,2,5,0,3,3,2,3,4,3,3,2,Universitas Gadjah Mada,1,1,29.296875,NA,2,2
+2315,Indonesia,1,0,0,1,3.75,10,5.75,1,5,0,1,2,3,4,3,4,4,3,Universitas Gadjah Mada,1,1,19.06771066,3.6,1,2
+4952,Indonesia,2,4,4.5,2,3.25,2.25,6.75,1,5,0,2,3,2,2,1,2,1,1,Universitas Indonesia,1,2,16.01418399,3.8,2,2
+1725,Indonesia,3,2,4.75,2,3.25,4.5,3.5,1,5,0,2,2,1,2,4,5,3,5,Universitas Gadjah Mada,1,2,20.3125,3.6,2,2
+3576,Indonesia,0,0,0,0,0,11.25,6.75,2,5,0,3,3,1,1,3,3,3,2,Universitas Indonesia,1,2,24.77209671,3.8,2,2
+2821,Indonesia,1,1,2.75,1,1.75,9.25,2.5,1,2,0,1,1,3,4,4,5,3,2,Universitas Indonesia,1,2,22.4996371,3.5,2,2
+5898,Indonesia,1,2,2.5,2,2.75,5.25,10.75,2,5,0,1,2,4,6,4,4,4,4,Unviersitas Airlangga,1,1,20.54988662,3.9,2,2
+2151,Indonesia,0,0,0,0,0,14.25,5.75,1,5,0,1,2,1,2,4,1,4,3,Universitas Gadjah Mada,1,1,17.578125,3.5,2,2
+4101,Indonesia,5,0,0,3,2,3.25,8,1,5,0,2,3,2,2,4,2,3,4,Universitas Indonesia,1,1,20.703125,3.4,2,2
+3349,Indonesia,0,0,0,0,0,6.25,4.5,2,5,0,2,3,4,1,3,2,3,3,Universitas Indonesia,1,2,25.2493372,3.9,2,2
+1757,Indonesia,1,0,0,0,0,4.25,7.25,1,3,0,1,3,1,3,3,4,4,4,Universitas Gadjah Mada,2,2,19.46740129,3.2,2,2
+5758,Indonesia,0,0,0,0,0,11.25,6.25,1,5,0,4,5,2,3,3,4,3,4,Unviersitas Airlangga,1,1,17.22480372,NA,2,2
+3200,Indonesia,3,1,3,1,1.75,4.5,7.75,2,5,0,1,1,2,1,3,3,3,3,Universitas Indonesia,1,2,22.03856749,3.7,2,1
+4021,Indonesia,2,0,0,0,2.25,15.25,7.75,1,5,0,2,2,3,2,4,3,4,4,Universitas Indonesia,1,2,18.59012493,3.5,2,2
+5970,Indonesia,1,0,0,0,0,3.5,7.75,1,5,0,1,3,3,2,5,2,4,4,Unviersitas Airlangga,3,1,19.72386588,3.6,2,2
+2393,Indonesia,3,0,0,0,0,12.75,8,1,5,0,1,2,2,4,3,2,3,4,Universitas Gadjah Mada,1,1,20.44674202,3.5,2,2
+2860,Indonesia,2,0,0,1,2.25,5.25,6.75,1,5,0,1,1,5,4,3,3,3,3,Universitas Indonesia,1,1,20.54569362,3.6,2,2
+5094,Indonesia,0,0,0,0,0,14.25,8.25,1,5,0,1,1,2,3,5,3,4,4,Universitas Indonesia,1,1,24.609375,3.6,2,2
+4234,Indonesia,5,0,0,5,1.75,8,6,1,5,0,1,1,4,3,4,4,4,4,Universitas Indonesia,1,1,22.22222222,3.8,2,2
+4809,Indonesia,1,0,0,1,2.25,8.25,7.75,1,5,0,4,4,4,2,4,5,3,4,Universitas Indonesia,1,1,21.08281329,3.2,2,2
+3085,Indonesia,3,0,0,0,0,6.25,8.25,1,5,0,2,3,4,5,4,4,3,3,Universitas Indonesia,1,2,17.64705882,3.6,2,2
+2448,Indonesia,3,3,3.25,3,3.25,6.25,8,1,5,0,1,2,3,3,3,3,4,3,Universitas Gadjah Mada,3,2,25.25951557,3.8,2,2
+4448,Indonesia,4,0,0,5,4.75,10.5,9.25,2,5,0,1,1,1,1,3,3,3,3,Universitas Indonesia,1,2,27.54820937,3.9,2,1
+2256,Indonesia,0,0,0,0,0,8.25,5.75,1,5,0,2,2,4,4,3,4,3,2,Universitas Gadjah Mada,1,1,29.296875,3.8,2,2
+5568,Indonesia,0,0,0,0,1.75,15.75,7.75,1,5,0,1,5,3,6,3,3,4,4,Universitas Indonesia,3,1,NA,NA,1,2
+2688,Indonesia,0,0,0,0,0,5.25,6.75,1,5,0,1,2,2,3,3,4,3,3,Universitas Indonesia,1,1,21.78649237,3.5,2,2
+4551,Indonesia,2,0,0,4,5,6.5,8.25,1,5,0,2,8,1,3,5,2,5,2,Universitas Indonesia,1,2,21.96712018,3.4,2,2
+4665,Indonesia,0,0,0,0,0,6.5,7,2,5,0,1,1,4,2,3,4,3,4,Universitas Indonesia,1,1,20,3.9,2,2
+5056,Indonesia,2,0,0,2,4.75,3.25,10.25,1,5,0,1,2,1,2,3,2,4,4,Universitas Indonesia,1,1,17.4817898,3.6,2,2
+5257,Indonesia,2,2,1.75,2,2,2,6,1,4,0,3,2,4,4,4,4,4,4,Universitas Indonesia,1,2,17.13137996,3.3,2,2
+6026,Indonesia,3,0,0,4,2,14.25,10.25,1,5,0,2,8,6,2,3,2,3,4,Unviersitas Airlangga,1,1,21.77843524,3.9,2,2
+2156,Indonesia,2,2,2.75,2,1.75,5.25,4.75,1,5,0,1,1,3,3,3,3,4,3,Universitas Gadjah Mada,1,1,28.125,3.5,2,1
+3044,Indonesia,4,4,3.25,3,2.25,13.5,9.25,1,5,0,5,3,4,3,3,3,4,4,Universitas Indonesia,1,2,25.2493372,3.6,2,2
+4914,Indonesia,0,0,0,0,0,15.25,2.75,1,5,0,2,1,4,1,4,4,4,4,Universitas Indonesia,1,1,20.19509221,3.9,2,2
+4964,Indonesia,2,0,0,0,0,1.25,7,1,5,0,6,5,4,8,5,5,5,4,Universitas Indonesia,1,1,22.31327843,3.9,2,1
+4134,Indonesia,2,0,0,0,0,7.25,6.75,1,5,0,1,3,1,2,2,3,5,2,Universitas Indonesia,1,1,19.10009183,3.7,2,2
+4158,Indonesia,2,2,3.5,1,2,5.25,7.25,1,5,0,2,2,2,1,4,3,3,5,Universitas Indonesia,1,1,22.20633069,3.7,2,2
+4797,Indonesia,0,0,0,0,0,8.25,2.75,1,5,0,1,1,4,3,3,5,3,2,Universitas Indonesia,1,2,17.04330261,3.9,2,2
+5817,Indonesia,1,0,0,1,3,4,8.75,2,5,0,1,2,1,3,3,4,4,2,Unviersitas Airlangga,1,2,20.32443826,4.0,2,2
+3300,Indonesia,0,0,0,0,0,8.25,9,1,5,0,2,3,3,1,4,4,4,4,Universitas Indonesia,1,1,19.81405274,4.0,2,2
+2810,Indonesia,0,0,0,1,4.25,13.75,7.75,1,5,10,1,1,3,3,2,4,3,3,Universitas Indonesia,1,1,20.17325264,3.6,2,2
+5641,Indonesia,2,0,0,0,0,5.25,6.75,2,5,0,1,1,1,1,3,3,3,3,Universitas Indonesia,2,2,NA,NA,2,2
+1895,Indonesia,1,0,0,0,0,3.25,7.25,1,5,0,2,3,1,1,2,3,4,2,Universitas Gadjah Mada,1,1,18.59012493,3.8,2,2
+3723,Indonesia,3,0,0,3,2.25,13.5,4.75,1,5,0,3,3,3,4,4,5,3,5,Universitas Indonesia,1,1,19.14672216,3.7,2,2
+5921,Indonesia,2,0,0,0,0,9.75,6.75,2,5,0,1,2,1,1,3,4,2,4,Unviersitas Airlangga,1,1,21.60410478,3.7,2,2
+3356,Indonesia,1,0,0,1,4.25,4.25,8.75,1,5,0,1,1,2,2,4,2,3,3,Universitas Indonesia,1,1,19.46740129,3.7,2,2
+5841,Indonesia,1,0,0,1,2.25,4.25,10.25,1,5,0,3,3,4,1,4,4,4,4,Unviersitas Airlangga,1,1,19.22768787,3.9,2,2
+1664,Indonesia,1,1,3.25,3,3.75,9.25,9.25,1,4,0,3,3,2,1,4,4,2,3,Universitas Gadjah Mada,1,2,24.22145329,3.9,2,2
+2542,Indonesia,2,2,3.25,2,3.25,9.25,7.75,1,2,1,2,4,3,2,5,5,5,3,Universitas Gadjah Mada,1,2,22.49134948,3.8,2,2
+5484,Indonesia,1,3,2.25,3,1.75,7.25,8.75,2,5,0,1,1,3,2,4,2,4,4,Universitas Indonesia,1,2,21.2585034,3.6,2,2
+2352,Indonesia,3,0,0,0,0,12.25,10.25,1,5,0,2,6,3,4,3,5,3,3,Universitas Gadjah Mada,4,1,19.11111111,3.7,2,2
+4366,Indonesia,0,0,0,0,0,6.25,9.5,1,5,0,1,2,4,4,4,4,3,3,Universitas Indonesia,1,1,26.37023814,3.7,2,2
+3640,Indonesia,3,1,2.25,1,1.75,4.25,7.75,1,5,0,1,1,4,8,3,4,4,4,Universitas Indonesia,1,2,19.13580247,3.9,2,2
+2463,Indonesia,5,5,2.75,5,2.75,9.25,7.25,1,5,0,1,1,1,2,4,5,4,2,Universitas Gadjah Mada,1,2,20.51508648,3.3,2,2
+2258,Indonesia,1,0,0,0,0,13.25,8.75,2,5,0,2,3,1,4,3,3,3,2,Universitas Gadjah Mada,1,1,19.11111111,3.8,2,2
+3875,Indonesia,0,1,2.25,0,0,6.5,5.75,1,5,0,2,2,1,4,5,3,4,3,Universitas Indonesia,1,1,18.02595738,3.4,2,2
+3754,Indonesia,0,0,0,0,0,15.25,3.75,1,4,0,1,1,4,7,3,3,2,2,Universitas Indonesia,1,1,21.8299522,3.8,2,2
+4320,Indonesia,1,1,3.75,5,3,13.5,10.5,2,5,0,1,1,1,4,3,3,3,4,Universitas Indonesia,1,1,19.47340663,3.2,2,2
+2921,Indonesia,0,0,0,1,1.75,13.25,5.5,1,5,0,2,1,8,3,3,3,3,3,Universitas Indonesia,1,1,20.3125,3.6,2,2
+1679,Indonesia,2,0,0,0,0,12.25,9.75,1,5,0,1,8,6,8,3,3,4,4,Universitas Gadjah Mada,1,1,21.09375,3.8,2,2
+4191,Indonesia,3,1,2.75,2,2.75,4.25,8.25,1,5,0,3,3,4,2,5,5,5,4,Universitas Indonesia,1,1,23.23345618,3.9,2,2
+2626,Indonesia,1,0,0,2,4.25,3.25,9.75,1,5,0,2,2,2,4,2,2,3,4,Universitas Indonesia,1,1,27.88761707,3.8,2,2
+1638,Indonesia,7,0,0,0,0,7,9.75,1,5,0,1,1,2,3,5,5,3,5,Universitas Gadjah Mada,1,1,18.73048907,3.8,2,2
+2143,Indonesia,1,0,0,0,0,5.25,7.75,1,5,0,1,2,2,4,3,4,4,5,Universitas Gadjah Mada,1,1,21.92612582,3.6,2,2
+5750,Indonesia,0,0,0,0,0,5.25,2.25,1,5,0,1,1,5,4,3,4,4,4,Unviersitas Airlangga,1,1,19.23356075,3.3,2,2
+5577,Indonesia,0,0,0,6,2.25,13.25,10.75,1,5,0,1,1,3,6,4,4,2,3,Universitas Indonesia,1,1,NA,NA,2,2
+2301,Indonesia,3,0,0,6,1.75,2.25,2.75,1,5,0,3,3,2,2,5,5,5,5,Universitas Gadjah Mada,1,1,20,3.5,1,2
+5170,Indonesia,1,0,1.25,0,1.25,4.25,4.25,1,5,0,1,1,2,2,2,3,2,4,Universitas Indonesia,1,1,24.4646016,3.8,2,2
+5715,Indonesia,0,0,0,0,0,13.25,4.75,2,4,0,1,1,5,1,3,5,4,3,Unviersitas Airlangga,1,2,18.37682515,NA,2,2
+2619,Indonesia,5,5,3.25,5,3.25,9.25,2.75,1,5,0,3,3,3,2,3,2,3,2,Universitas Indonesia,4,1,26.50211621,3.8,2,2
+4410,Indonesia,4,3,1.5,4,2,5.25,8.75,1,5,0,2,2,3,3,4,4,3,2,Universitas Indonesia,1,2,26.7755102,3.9,2,1
+5411,Indonesia,2,2,2.5,0,0,5.5,8,1,5,0,3,4,6,5,4,4,3,4,Universitas Indonesia,1,1,25.390625,3.4,2,2
+5002,Indonesia,4,1,3.25,1,3.25,5.25,7.75,1,5,0,3,2,1,2,5,5,4,4,Universitas Indonesia,1,2,22.58955144,3.8,2,1
+3211,Indonesia,0,0,0,0,0,13.25,8.75,2,5,0,2,1,2,1,3,3,3,3,Universitas Indonesia,1,1,23.14725512,3.5,2,2
+4556,Indonesia,0,0,0,0,0,11.25,2.75,1,5,0,3,2,2,4,4,4,4,4,Universitas Indonesia,1,1,24.97704316,3.4,2,1
+4368,Indonesia,4,4,3.25,0,0,3.75,6.75,1,5,0,1,1,2,2,3,4,4,4,Universitas Indonesia,1,2,25.92592593,3.9,2,2
+3644,Indonesia,1,0,0,0,0,3.25,8.5,1,5,0,3,1,1,2,4,3,4,4,Universitas Indonesia,1,1,22.0603538,3.2,2,2
+2199,Indonesia,1,0,0,0,0,5.25,7.25,1,5,0,1,6,1,3,3,4,3,3,Universitas Gadjah Mada,1,1,22.21296682,3.4,2,2
+5959,Indonesia,2,0,0,0,0,6.25,9.75,1,5,0,3,2,2,3,3,4,3,4,Unviersitas Airlangga,3,1,17.64705882,3.3,1,2
+3315,Indonesia,1,1,2.25,1,3.25,4.25,6.75,1,5,0,3,3,2,2,3,5,5,5,Universitas Indonesia,1,1,21.09375,3.7,2,2
+5818,Indonesia,1,1,2.25,1,2.25,3.25,9.75,2,5,0,1,2,3,3,3,3,3,3,Unviersitas Airlangga,1,1,22.94811574,3.7,2,2
+3538,Indonesia,2,2,1.75,2,3,5.25,10.75,1,4,0,8,3,2,2,3,3,3,3,Universitas Indonesia,1,2,18.5178041,3.9,2,1
+4034,Indonesia,1,2,2.25,2,2.75,10,7.5,1,5,0,3,3,3,3,4,5,2,2,Universitas Indonesia,1,2,25.82644628,3.3,2,2
+5335,Indonesia,2,0,0,1,2.75,15.25,9.25,1,5,0,1,1,1,2,3,3,4,4,Universitas Indonesia,1,1,23.01117686,3.5,2,2
+3772,Indonesia,0,0,0,0,0,5.25,8,1,5,0,2,5,6,5,2,4,2,4,Universitas Indonesia,1,1,20.66115702,3.8,2,2
+4755,Indonesia,5,3,3.25,3,3.25,7.25,8.25,2,5,0,1,1,1,1,3,4,3,2,Universitas Indonesia,1,2,17.30103806,3.9,2,2
+5703,Indonesia,7,0,0,7,4,6.25,8.75,2,5,0,1,2,1,1,4,4,4,4,Unviersitas Airlangga,2,1,29.38475666,3.2,2,2
+2678,Indonesia,1,1,2.25,1,2.25,4.25,9.75,1,5,0,1,1,3,3,3,4,3,3,Universitas Indonesia,4,1,21.40309156,3.7,1,2
+4970,Indonesia,7,1,4.75,5,3.75,5.75,9.75,1,5,0,3,2,2,1,3,3,3,2,Universitas Indonesia,1,1,23.10843458,3.9,2,2
+5748,Indonesia,0,0,0,0,0,5.25,6.75,1,5,0,3,5,1,3,4,4,4,4,Unviersitas Airlangga,1,1,20.02884153,3.6,2,1
+3226,Indonesia,1,0,0,0,0,2.5,2.75,1,5,0,1,1,1,1,5,5,5,5,Universitas Indonesia,1,2,19.13265306,3.4,1,2
+2032,Indonesia,0,0,0,0,0,5.75,5.75,1,5,0,3,3,1,1,3,3,3,3,Universitas Gadjah Mada,1,1,19.56295525,3.6,2,2
+1708,Indonesia,0,0,0,0,0,5.75,2.75,1,5,0,2,2,6,3,5,5,5,5,Universitas Gadjah Mada,1,1,19.22768787,3.8,2,2
+3134,Indonesia,1,0,0,0,0,6.25,6.75,1,5,0,1,3,3,4,2,3,4,3,Universitas Indonesia,1,1,23.87511478,3.4,2,2
+1729,Indonesia,2,3,2.25,2,2,7.25,7.75,1,4,0,1,2,1,3,4,3,4,3,Universitas Gadjah Mada,2,2,27.70083102,3.9,2,1
+2183,Indonesia,1,0,0,0,0,4.25,6.75,2,5,0,2,3,1,2,4,5,3,2,Universitas Gadjah Mada,1,2,22.40817899,3.5,2,2
+3625,Indonesia,2,4,1.5,0,0,10.75,11.5,1,5,0,2,2,2,3,4,3,4,4,Universitas Indonesia,1,1,23.33546614,3.2,2,2
+4087,Indonesia,3,2,3.25,5,2.25,9.25,9.75,1,2,0,3,3,2,6,5,5,5,5,Universitas Indonesia,1,2,18.9370029,3.2,2,1
+2129,Indonesia,3,0,0,3,2.25,6.25,10.5,1,5,0,3,3,3,3,3,4,3,2,Universitas Gadjah Mada,1,1,23.63403301,3.7,2,2
+5385,Indonesia,2,0,0,1,2.25,11.25,3.25,2,5,0,1,3,3,3,3,4,4,4,Universitas Indonesia,1,2,17.56965112,3.6,2,2
+3095,Indonesia,1,1,3.75,5,2.75,13.25,7.75,2,5,0,1,2,3,3,4,4,4,3,Universitas Indonesia,1,2,23.38868656,3.9,2,2
+2242,Indonesia,3,0,0,2,2.75,4.25,8.75,1,5,0,1,2,1,3,3,4,3,4,Universitas Gadjah Mada,1,1,16.44736842,3.5,2,2
+5912,Indonesia,7,0,0,5,1.75,13.25,8.25,2,5,0,1,4,1,4,5,1,3,3,Unviersitas Airlangga,1,2,23.10843458,4.0,2,2
+5273,Indonesia,0,0,0,0,0,5.25,8.5,2,5,0,4,2,4,4,2,3,3,4,Universitas Indonesia,1,1,25.390625,3.5,2,2
+2780,Indonesia,3,3,2.25,0,0,9.25,5.25,1,5,0,1,1,6,4,4,4,3,4,Universitas Indonesia,4,2,22.85714286,3.6,2,2
+2963,Indonesia,6,4,1.5,2,2,1.25,6.75,2,5,0,1,1,3,1,4,5,2,4,Universitas Indonesia,1,2,22.20408163,3.4,2,2
+3230,Indonesia,3,0,0,3,1.75,6.25,8.75,1,5,0,1,1,5,6,2,3,2,2,Universitas Indonesia,1,2,18.36900337,3.5,2,2
+2284,Indonesia,1,0,0,0,0,2.5,10,1,5,0,6,6,3,2,1,1,3,5,Universitas Gadjah Mada,1,1,22.58270917,3.4,2,1
+3599,Indonesia,0,0,0,0,0,2.25,8.75,1,5,0,1,2,3,3,3,3,3,3,Universitas Indonesia,1,1,19.13265306,3.9,2,2
+5754,Indonesia,3,4,1.75,4,4.75,5.25,8.75,1,5,0,1,1,2,3,3,4,4,5,Unviersitas Airlangga,1,1,21.23057202,NA,2,2
+2652,Indonesia,2,1,2.75,2,1.75,9.25,9.5,1,5,0,1,1,3,3,4,4,4,4,Universitas Indonesia,3,1,19.13265306,NA,2,2
+4528,Indonesia,0,0,0,0,0,5.75,8,1,5,0,1,1,4,1,4,2,3,3,Universitas Indonesia,1,2,22.30814991,3.8,2,2
+1688,Indonesia,1,0,0,0,0,13.25,7.75,2,5,0,1,1,3,6,4,1,3,3,Universitas Gadjah Mada,1,1,23.11111111,3.7,2,1
+2103,Indonesia,1,1,3.25,1,2.25,15.25,9.25,1,4,0,1,2,2,2,4,4,3,3,Universitas Gadjah Mada,1,2,NA,3.5,2,1
+5968,Indonesia,3,0,0,0,0,11.75,2.75,1,5,0,2,4,2,8,4,4,4,4,Unviersitas Airlangga,1,2,30.42184965,3.8,2,2
+2809,Indonesia,3,2,2.25,1,2.25,5.25,7.25,1,5,1,3,3,1,3,4,3,4,5,Universitas Indonesia,3,1,23.828125,3.6,2,1
+5732,Indonesia,1,0,0,1,2.75,6.75,5.75,1,5,0,2,1,1,2,4,4,4,4,Unviersitas Airlangga,3,1,26.5625,3.5,2,2
+2036,Indonesia,1,0,0,0,0,8.75,7.75,1,5,0,3,3,3,4,4,2,3,4,Universitas Gadjah Mada,1,1,17.83590963,3.7,2,2
+3882,Indonesia,2,1,1.75,1,2,2.25,7.25,1,5,0,3,3,5,3,3,4,3,4,Universitas Indonesia,1,1,21.71925011,3.3,2,2
+3728,Indonesia,4,0,0,2,2,11.25,7,1,5,0,1,1,1,7,2,3,2,2,Universitas Indonesia,1,1,18.73048907,3.3,2,2
+3175,Indonesia,0,0,0,0,0,6.25,6.75,1,4,0,1,1,2,2,3,4,3,3,Universitas Indonesia,1,2,27.10204082,3.2,2,2
+3408,Indonesia,1,0,0,0,0,7.5,8.75,1,5,0,2,1,3,2,3,4,3,4,Universitas Indonesia,1,1,19.11111111,3.6,2,1
+5941,Indonesia,2,0,0,0,0,6.25,8.75,1,5,0,1,2,3,2,4,3,2,2,Unviersitas Airlangga,1,2,18.59113034,3.7,2,2
+6003,Indonesia,0,0,0,0,0,14.25,3,1,5,0,1,3,1,3,2,1,2,4,Unviersitas Airlangga,3,1,20.82465639,3.9,2,2
+5768,Indonesia,2,2,2.25,2,2.25,3.25,7.75,1,5,0,3,3,4,4,4,5,4,3,Unviersitas Airlangga,2,1,22.65625,3.5,2,1
+4615,Indonesia,3,0,0,0,0,8.25,9.75,2,4,1,1,2,2,2,4,4,4,3,Universitas Indonesia,1,1,20.93212012,3.8,2,1
+3992,Indonesia,2,2,2.25,1,2.25,6.25,6.25,1,3,0,1,1,1,2,3,3,3,3,Universitas Indonesia,1,1,18.02595738,3.9,2,2
+4159,Indonesia,4,0,0,7,2.25,4.25,4.25,2,4,0,6,7,6,2,4,4,3,5,Universitas Indonesia,1,1,18.28989483,3.8,2,1
+1873,Indonesia,4,0,0,0,0,6.25,7.75,1,5,0,1,2,1,4,3,5,4,2,Universitas Gadjah Mada,1,2,26.7299275,3.5,2,2
+4668,Indonesia,2,1,1.75,1,2.75,3.75,7.75,1,5,0,1,1,2,4,4,4,4,4,Universitas Indonesia,1,1,18.75,3.5,2,2
+5845,Indonesia,2,0,0,1,2,7.25,6.25,2,5,0,3,2,5,4,3,5,4,3,Unviersitas Airlangga,1,1,19.53125,3.9,2,2
+5547,Indonesia,0,0,0,0,0,15.25,5,1,5,0,1,1,8,8,4,5,5,3,Universitas Indonesia,1,1,NA,NA,2,2
+4927,Indonesia,0,1,3.5,0,0,12,5.75,1,5,0,1,1,3,5,3,2,2,3,Universitas Indonesia,1,2,17.7154195,3.5,2,2
+1990,Indonesia,0,3,2.25,0,0,13.25,8.5,1,1,0,2,1,2,8,4,2,4,4,Universitas Gadjah Mada,2,2,29.41176471,3.5,2,2
+4099,Indonesia,2,0,0,2,3,9.5,9.5,2,5,0,1,2,4,3,4,4,3,4,Universitas Indonesia,1,1,20.39542144,3.7,2,2
+5326,Indonesia,0,0,0,0,0,15.5,8,2,5,0,1,2,2,1,4,3,3,2,Universitas Indonesia,1,1,23.30558859,3.6,2,2
+3505,Indonesia,7,0,0,5,2.25,8.25,7.75,1,5,2,6,3,4,7,5,4,4,3,Universitas Indonesia,1,2,23.26869806,3.8,2,2
+4445,Indonesia,1,0,0,1,2.25,4.25,9,1,5,0,1,1,2,2,4,4,3,3,Universitas Indonesia,1,1,20.19509221,3.6,2,2
+4474,Indonesia,3,3,1.75,3,1.75,9.25,8.25,1,5,0,2,1,3,1,3,4,3,4,Universitas Indonesia,1,1,23.62444749,3.7,2,2
+2299,Indonesia,3,0,0,0,0,3.75,7.75,1,5,0,2,4,1,1,2,1,4,3,Universitas Gadjah Mada,1,1,19.22337562,3.9,2,2
+3993,Indonesia,3,2,2.5,1,3,2.75,10.75,1,5,0,2,2,4,2,3,3,3,3,Universitas Indonesia,1,2,23.19831507,3.4,2,2
+4373,Indonesia,1,0,0,0,0,6.75,6.75,1,5,0,4,1,4,2,3,4,3,2,Universitas Indonesia,1,1,20.56880661,3.5,2,2
+5792,Indonesia,3,3,2.25,1,2,9.25,9,1,5,0,1,2,2,2,5,3,4,2,Unviersitas Airlangga,3,1,21.484375,3.7,2,1
+2917,Indonesia,0,0,0,0,0,11.25,5.75,2,5,0,1,1,2,2,2,1,2,1,Universitas Indonesia,1,1,17.89802289,3.7,2,2
+5618,Indonesia,1,0,0,7,2,12.75,8.25,1,3,0,8,8,8,8,1,3,3,4,Universitas Indonesia,1,2,19.03114187,3.5,2,2
+5255,Indonesia,1,1,1.75,1,1.75,3.25,7.75,1,5,0,1,3,1,1,4,4,3,3,Universitas Indonesia,1,1,18.81892431,NA,2,2
+3967,Indonesia,1,0,0,0,0,3.25,9.75,1,5,0,1,1,3,3,3,5,3,3,Universitas Indonesia,1,2,25.2493372,3.4,2,2
+5670,Indonesia,7,0,0,7,2.25,14.25,7.25,1,5,0,2,3,3,1,2,3,3,2,Universitas Indonesia,1,1,NA,NA,1,1
+5672,Indonesia,7,0,0,1,2.25,6.25,7.75,1,5,0,1,2,1,2,3,4,3,3,Universitas Indonesia,2,1,20.2020202,NA,2,2
+3357,Indonesia,4,0,0,6,3.75,15.25,10.5,1,2,6,2,7,8,8,5,4,3,5,Universitas Indonesia,1,2,NA,NA,1,2
+5005,Indonesia,3,5,2.25,0,0,14.25,4.75,2,5,0,5,3,4,4,2,3,3,4,Universitas Indonesia,1,1,24.97398543,3.8,2,2
+6008,Indonesia,3,0,0,0,0,11.25,9.25,1,5,0,4,6,1,1,4,4,3,2,Unviersitas Airlangga,1,2,22.86236854,3.5,2,2
+5369,Indonesia,0,0,0,0,0,5.25,9.5,1,1,0,8,8,6,1,1,4,1,1,Universitas Indonesia,1,1,22.65625,3.5,2,2
+5406,Indonesia,2,0,0,1,1.75,6.25,7.75,1,5,0,2,1,4,2,2,4,3,4,Universitas Indonesia,1,2,21.51385851,3.4,2,2
+1794,Indonesia,2,2,2.25,1,2.25,4.5,7.75,1,5,0,3,4,3,1,5,4,4,5,Universitas Gadjah Mada,1,1,22.75830678,3.9,2,1
+5665,Indonesia,5,0,0,0,0,13.25,7.25,1,5,0,8,8,2,2,5,5,4,5,Universitas Indonesia,3,1,NA,NA,1,2
+3146,Indonesia,1,1,2,1,2,14,2.75,1,5,0,3,5,3,8,4,3,4,5,Universitas Indonesia,1,1,18.31425598,3.7,2,2
+4826,Indonesia,1,1,2.25,1,2.25,3.25,5.75,1,5,0,2,2,3,3,2,3,3,2,Universitas Indonesia,1,1,17.06555671,3.4,2,2
+2191,Indonesia,2,1,1.75,0,0,8.25,9.25,1,5,0,2,1,3,2,2,5,3,3,Universitas Gadjah Mada,1,2,18.51851852,3.5,2,2
+1973,Indonesia,3,2,2,0,0,9.25,8.75,1,5,0,1,1,1,3,4,5,4,3,Universitas Gadjah Mada,4,2,23.37257618,NA,2,2
+4908,Indonesia,3,2,2.25,2,2.25,4.25,4.75,1,5,0,4,2,4,1,4,3,4,5,Universitas Indonesia,1,1,22.89281998,3.8,2,2
+2310,Indonesia,0,0,0,0,0,8,3.25,1,5,0,1,1,1,8,3,4,4,3,Universitas Gadjah Mada,2,1,20.28479857,3.6,2,2
+3168,Indonesia,3,0,0,0,0,5.25,7.75,2,5,0,1,1,3,3,3,3,3,3,Universitas Indonesia,1,1,17.7154195,3.8,2,2
+5677,Indonesia,7,0,0,0,0,7,6.75,1,5,0,3,3,2,4,4,3,3,3,Universitas Indonesia,2,1,24.65483235,NA,2,2
+2387,Indonesia,1,0,0,0,0,13.25,7,1,5,0,1,2,1,2,2,2,2,2,Universitas Gadjah Mada,1,1,24.43518667,3.5,2,2
+5951,Indonesia,2,2,2,6,1.75,11.5,7.5,2,5,0,2,3,3,2,4,3,2,3,Unviersitas Airlangga,1,1,21.2585034,3.7,2,2
+4734,Indonesia,3,3,2.75,0,0,13.25,9,2,5,0,3,6,6,3,4,4,4,5,Universitas Indonesia,1,1,19.22768787,3.8,2,2
+4336,Indonesia,5,2,2.25,1,2.25,2.25,5.75,1,2,0,7,1,2,6,1,3,4,4,Universitas Indonesia,1,2,24.44727891,3.4,2,2
+1863,Indonesia,2,2,3.25,2,3.75,11.75,7.25,1,5,0,1,2,8,4,4,5,5,5,Universitas Gadjah Mada,2,2,22.12973973,3.1,2,2
+4063,Indonesia,0,0,0,0,0,14.25,9.75,1,5,0,1,5,3,2,3,4,3,2,Universitas Indonesia,1,1,32.8731098,3.1,2,2
+3897,Indonesia,1,0,0,0,0,9.25,2.75,2,5,0,3,3,4,7,3,3,3,3,Universitas Indonesia,1,1,16.64932362,3.3,2,2
+2337,Indonesia,0,0,0,0,0,9.25,4.25,1,5,0,1,1,2,8,3,5,4,3,Universitas Gadjah Mada,2,1,18.73048907,3.7,1,2
+4696,Indonesia,1,1,2.75,1,2.25,5.25,8.5,1,5,0,3,2,3,2,4,4,4,5,Universitas Indonesia,1,1,24.74093729,3.7,2,2
+3155,Indonesia,4,0,0,3,3.25,9.25,6.75,1,5,0,3,6,5,3,3,3,3,4,Universitas Indonesia,1,2,26.57312925,3.7,2,2
+3058,Indonesia,0,0,0,0,0,4.25,11.25,1,5,0,1,1,2,1,4,4,4,3,Universitas Indonesia,1,1,21.35930625,3.7,2,2
+5423,Indonesia,3,0,0,7,4.25,3.25,10,1,5,0,1,2,2,1,3,3,3,3,Universitas Indonesia,1,2,18.64534404,3.8,2,2
+3969,Indonesia,1,0,0,0,0,6.25,9.75,1,3,0,2,2,2,2,4,4,3,3,Universitas Indonesia,1,2,25.30864198,3.5,2,2
+1744,Indonesia,3,0,0,2,2.75,6.25,6.75,1,5,0,5,5,3,5,4,5,4,3,Universitas Gadjah Mada,1,1,26.70940171,3.8,2,2
+2215,Indonesia,0,0,0,0,1.25,4.25,8.75,1,5,0,3,2,1,3,2,2,3,2,Universitas Gadjah Mada,1,1,19.05197378,3.9,2,2
+4009,Indonesia,7,0,0,0,0,3.25,9.75,1,5,0,2,1,4,4,3,4,3,3,Universitas Indonesia,1,2,17.14677641,3.2,2,1
+5572,Indonesia,0,0,0,0,0,3.25,11.25,2,5,0,3,4,2,3,3,2,3,3,Universitas Indonesia,1,1,22.0603538,3.6,2,2
+4118,Indonesia,1,1,2.25,0,0,8.25,3.75,1,5,0,3,1,2,3,4,5,3,5,Universitas Indonesia,1,1,21.21831719,3.7,2,1
+2573,Indonesia,0,0,0,0,0,13.25,6.25,2,3,0,1,4,1,8,1,3,2,1,Universitas Gadjah Mada,4,2,19.72103697,3.5,2,2
+4856,Indonesia,0,1,1.75,1,2,13.25,3,1,5,0,1,2,6,1,3,4,3,5,Universitas Indonesia,1,1,21.875,3.3,2,2
+3590,Indonesia,3,3,2.25,1,2,2.25,3.75,2,3,0,1,1,2,3,4,4,3,4,Universitas Indonesia,1,2,22.75830678,3.4,2,2
+2272,Indonesia,1,0,0,0,0,7.25,10.75,1,5,0,6,3,5,3,3,4,3,2,Universitas Gadjah Mada,2,1,34.17489,3.7,2,2
+4814,Indonesia,2,1,2.75,3,2.25,5.25,10.25,1,5,0,1,1,3,3,3,2,4,2,Universitas Indonesia,1,1,17.89802289,3.5,2,2
+5914,Indonesia,2,0,0,0,0,4.25,9.75,2,5,0,2,1,2,1,4,4,3,4,Unviersitas Airlangga,1,1,30.44383913,3.4,2,2
+2869,Indonesia,5,3,2.25,1,2.25,8.25,3,1,5,0,3,4,2,1,5,3,4,5,Universitas Indonesia,1,2,28.07504294,4.0,2,2
+5502,Indonesia,3,0,0,0,0,7.25,6.75,2,5,0,1,2,4,3,3,3,4,3,Universitas Indonesia,1,1,17.89802289,3.2,2,2
+1737,Indonesia,1,3,4.75,3,5,3.25,10.25,1,5,0,8,1,2,3,2,2,2,2,Universitas Gadjah Mada,1,2,20.80856124,3.7,2,1
+5223,Indonesia,2,0,4.75,0,0,15.25,2,1,5,0,1,1,1,4,4,5,4,4,Universitas Indonesia,1,1,21.484375,3.5,2,2
+1761,Indonesia,0,0,0,0,0,15.25,7.75,1,5,0,1,1,1,5,3,4,3,3,Universitas Gadjah Mada,3,1,20.66115702,3.3,2,2
+4781,Indonesia,0,0,0,0,0,13.25,9.75,1,5,0,2,3,2,3,4,3,4,3,Universitas Indonesia,1,2,15.625,3.7,2,1
+4670,Indonesia,1,0,0,1,1.75,14.25,9.25,2,5,0,2,2,3,6,2,4,2,2,Universitas Indonesia,1,2,14.3636886,3.8,2,2
+3186,Indonesia,3,0,0,3,2.25,3.75,5.25,2,5,0,1,3,4,1,5,4,3,5,Universitas Indonesia,1,1,19.1953028,3.8,2,2
+5862,Indonesia,3,0,0,7,1.75,2.25,8,1,5,0,1,3,4,8,5,3,3,4,Unviersitas Airlangga,1,2,29.38475666,4.0,2,2
+3527,Indonesia,2,0,0,2,2,3.25,4.25,1,5,0,5,8,3,1,3,5,3,3,Universitas Indonesia,1,2,27.1177686,3.2,2,2
+5389,Indonesia,2,0,0,1,1.75,4.75,6.5,2,5,0,3,1,3,3,4,3,4,3,Universitas Indonesia,1,1,NA,NA,2,2
+4224,Indonesia,0,0,0,0,0,9,9,1,5,0,1,1,3,1,3,4,3,4,Universitas Indonesia,1,1,19.8791026,3.1,2,2
+5481,Indonesia,2,0,0,4,4.75,5.25,8,1,5,6,5,2,7,7,2,2,2,2,Universitas Indonesia,1,2,28.02768166,NA,2,1
+1773,Indonesia,2,2,3.25,2,2.75,4.25,9.75,1,5,0,4,3,1,2,5,3,2,5,Universitas Gadjah Mada,1,2,23.38868656,3.8,2,1
+5312,Indonesia,0,0,0,0,0,3.25,7.75,1,5,0,2,2,1,2,3,2,3,3,Universitas Indonesia,1,1,21.08281329,3.3,2,2
+1745,Indonesia,2,0,0,0,0,4.25,10.75,1,5,0,1,2,3,2,3,4,3,3,Universitas Gadjah Mada,1,1,18.82711104,3.6,1,2
+3648,Indonesia,3,4,2,3,2,6.25,9.75,1,5,0,2,1,4,1,2,2,2,2,Universitas Indonesia,1,1,25.91068435,3.4,2,2
+5843,Indonesia,0,0,0,1,2.25,3.25,7.75,1,5,0,1,3,1,3,3,4,4,3,Unviersitas Airlangga,1,1,27.88761707,3.9,2,2
+4216,Indonesia,1,1,2.75,0,0,6.25,6.25,1,5,0,1,2,1,2,4,3,4,2,Universitas Indonesia,1,2,19.37716263,3.3,2,2
+2411,Indonesia,1,0,0,0,0,13.25,8.75,2,5,0,1,3,1,3,3,3,3,2,Universitas Gadjah Mada,1,1,18.73048907,3.7,2,2
+3741,Indonesia,0,0,0,0,0,9.25,6.75,1,5,0,1,1,4,4,3,4,3,4,Universitas Indonesia,1,1,18.61149584,3.6,2,1
+3299,Indonesia,3,5,2.5,5,3,9.25,6,1,5,0,1,2,2,1,4,2,4,2,Universitas Indonesia,1,2,20.07960128,3.6,1,2
+2004,Indonesia,0,0,0,0,0,13.75,6.75,1,5,0,1,1,3,6,3,3,3,2,Universitas Gadjah Mada,1,1,18.08021039,3.3,2,2
+1756,Indonesia,2,0,0,0,0,11.75,2.75,1,2,0,3,1,1,4,3,5,3,3,Universitas Gadjah Mada,2,2,22.79032897,3.5,2,2
+5175,Indonesia,0,0,0,0,0,15.25,8.5,1,4,0,2,2,2,2,3,4,3,4,Universitas Indonesia,1,2,21.55102041,3.6,2,2
+3153,Indonesia,0,0,0,1,2.25,7.75,8.75,1,1,2,1,4,4,2,3,4,4,2,Universitas Indonesia,1,1,16.16161616,3.6,2,2
+2577,Indonesia,1,0,0,0,0,14.25,2.75,1,5,0,1,3,8,1,4,5,3,1,Universitas Gadjah Mada,1,1,NA,NA,1,2
+2008,Indonesia,1,3,3.25,1,4,3.5,4.5,1,5,0,3,4,4,5,4,5,5,5,Universitas Gadjah Mada,1,2,23.25501864,3.6,2,1
+3294,Indonesia,3,3,4.75,3,4.75,6.75,6.75,1,5,0,5,2,4,5,4,4,4,2,Universitas Indonesia,1,2,20.0617284,4.0,2,2
+3025,Indonesia,2,0,0,0,0,11.25,9.5,2,4,0,1,1,5,1,2,5,4,4,Universitas Indonesia,1,1,19.11111111,3.5,2,2
+5140,Indonesia,0,1,3.75,0,0,16,10.75,2,5,0,1,3,1,2,4,5,5,2,Universitas Indonesia,1,2,17.7154195,3.6,2,1
+2717,Indonesia,1,0,0,0,0,9.25,8.25,1,5,0,2,1,4,3,4,4,3,3,Universitas Indonesia,3,1,21.49028551,3.8,2,2
+4098,Indonesia,0,0,0,0,0,5.75,8.75,2,5,0,1,3,5,6,3,3,3,3,Universitas Indonesia,1,2,18.06616734,3.5,2,2
+3154,Indonesia,0,0,0,0,0,3.25,6.75,1,5,0,2,2,4,1,2,3,2,2,Universitas Indonesia,1,1,23.19109462,3.7,2,2
+1987,Indonesia,6,1,1.5,1,3,13.25,7.75,1,5,0,3,1,3,2,2,4,2,4,Universitas Gadjah Mada,1,2,18.36547291,3.5,2,2
+2311,Indonesia,1,0,0,0,0,3.25,2.75,1,5,0,3,3,1,2,3,3,3,3,Universitas Gadjah Mada,2,1,18.75,3.8,2,2
+5565,Indonesia,0,0,0,0,0,13.5,5.25,1,5,0,8,8,2,2,5,4,3,5,Universitas Indonesia,1,2,NA,NA,1,2
+5650,Indonesia,3,0,0,0,0,16,7.25,1,5,0,6,5,8,2,3,4,3,4,Universitas Indonesia,1,1,NA,NA,1,2
+3503,Indonesia,3,1,2.25,2,3,4.25,6.75,1,5,0,3,3,4,4,4,3,3,5,Universitas Indonesia,1,1,21.875,3.4,2,2
+3700,Indonesia,2,0,0,0,0,6.75,4.75,1,5,0,1,3,2,1,4,4,4,3,Universitas Indonesia,1,1,24.65483235,3.3,2,2
+4055,Indonesia,1,0,0,0,0,3.5,4.25,1,1,3,3,3,3,3,4,3,4,4,Universitas Indonesia,1,2,24.25867407,3.8,2,1
+4567,Indonesia,0,0,0,0,0,13.25,2.75,1,5,0,2,2,2,4,4,5,4,5,Universitas Indonesia,1,1,22.89281998,3.7,2,2
+5680,Indonesia,0,6,1.25,5,2.25,11.25,9.25,1,5,0,3,3,3,4,4,4,4,3,Universitas Indonesia,3,2,31.53344671,3.5,2,1
+3331,Indonesia,0,0,0,0,0,5.75,8.5,1,5,0,1,1,4,1,3,4,3,4,Universitas Indonesia,1,1,20.13477975,3.1,2,2
+4254,Indonesia,1,0,0,0,0,11.75,8.75,2,5,0,2,1,2,1,3,2,3,3,Universitas Indonesia,1,1,0,3.9,2,2
+2046,Indonesia,0,0,0,0,0,15.25,7.75,1,5,0,8,8,2,4,4,5,4,4,Universitas Gadjah Mada,1,1,26.171875,3.9,2,2
+2216,Indonesia,5,0,0,6,3,4.25,10.25,1,5,0,5,5,1,3,4,3,4,3,Universitas Gadjah Mada,1,2,23.14814815,3.3,2,2
+3384,Indonesia,4,4,2.25,2,4,6.25,7.25,2,5,0,1,1,4,4,4,4,3,5,Universitas Indonesia,1,2,20.33832645,3.7,2,2
+2817,Indonesia,1,1,3.75,0,0,13.25,7.25,1,5,0,1,1,2,2,5,5,4,5,Universitas Indonesia,2,1,19.140625,3.5,2,2
+5460,Indonesia,2,2,2.25,2,2.25,4.25,11,1,5,0,2,1,3,4,3,4,3,3,Universitas Indonesia,1,2,20.38156971,3.5,2,2
+3791,Indonesia,1,0,0,0,0,3.25,8.75,1,5,0,2,3,1,8,4,2,4,2,Universitas Indonesia,1,1,0,3.2,2,2
+2407,Indonesia,1,0,0,1,2.25,5.25,9.25,1,5,0,1,5,1,2,3,4,3,2,Universitas Gadjah Mada,1,1,23.50780533,3.7,2,2
+3332,Indonesia,2,1,1.75,3,2,3.25,10.25,1,5,0,1,1,3,1,4,4,3,3,Universitas Indonesia,1,1,18.02595738,3.7,2,2
+4153,Indonesia,1,1,2.5,0,0,14.25,7.25,2,5,0,3,2,3,2,4,4,3,4,Universitas Indonesia,1,1,26.83518006,3.9,2,1
+2257,Indonesia,1,0,0,2,2,14.25,2.75,1,5,0,8,8,1,6,2,1,3,1,Universitas Gadjah Mada,1,1,16.02307323,3.8,2,2
+3578,Indonesia,0,0,0,0,0,13.25,7.75,1,5,0,1,1,4,3,3,3,3,3,Universitas Indonesia,1,1,19.97918835,3.8,2,2
+2980,Indonesia,1,1,2.75,1,2.25,7,3.75,1,5,0,4,1,4,3,4,3,4,4,Universitas Indonesia,1,1,23.42355741,3.7,2,2
+5709,Indonesia,0,0,0,1,3.75,13.25,10,1,5,0,2,2,2,1,3,4,3,4,Unviersitas Airlangga,2,1,21.484375,3.6,2,2
+5901,Indonesia,2,3,2.5,0,0,7.25,6.75,1,5,0,1,1,3,1,3,4,3,2,Unviersitas Airlangga,1,1,26.50211621,4.0,2,2
+4965,Indonesia,1,0,0,4,4.25,6.25,9.75,1,5,0,2,4,3,3,5,4,4,4,Universitas Indonesia,1,1,16.21771291,3.3,2,2
+2227,Indonesia,0,3,2,1,3,3.25,7.75,1,5,0,1,2,3,3,4,4,3,2,Universitas Gadjah Mada,2,2,26.57312925,3.1,2,2
+3285,Indonesia,3,2,1.75,0,0,2.75,8.75,2,5,0,1,2,4,5,4,4,3,2,Universitas Indonesia,1,2,21.383942,3.6,2,2
+5265,Indonesia,1,0,0,0,0,9.25,8.75,1,5,0,2,3,2,2,2,2,2,3,Universitas Indonesia,1,1,17.62538055,3.5,2,2
+2495,Indonesia,0,0,0,0,0,3.25,5.75,2,5,0,2,2,1,2,3,4,2,1,Universitas Gadjah Mada,1,1,21.22788762,3.8,2,2
+4243,Indonesia,0,0,0,2,2,7.25,10.75,1,5,0,1,1,2,1,3,5,3,3,Universitas Indonesia,1,1,16.76573693,3.8,2,2
+4912,Indonesia,1,0,0,0,0,6.5,11.25,1,5,0,1,1,1,3,4,4,4,4,Universitas Indonesia,1,2,22.09317005,3.1,2,2
+4692,Indonesia,3,0,0,3,1.75,9.25,11.25,1,5,0,3,1,2,4,3,4,3,4,Universitas Indonesia,1,2,23.73866213,3.2,2,2
+2562,Indonesia,2,0,0,0,0,13.25,8.25,2,5,0,1,3,8,1,3,2,2,3,Universitas Gadjah Mada,1,2,NA,NA,1,2
+4470,Indonesia,0,0,0,0,0,6.25,10.75,2,5,0,6,6,2,5,4,4,4,4,Universitas Indonesia,1,1,19.72103697,3.6,2,2
+4649,Indonesia,1,1,3.75,1,3,14,8,2,5,0,2,2,2,2,2,3,3,2,Universitas Indonesia,1,2,18.82716049,3.7,2,2
+2566,Indonesia,1,1,3.25,0,0,10.25,6.75,1,5,0,1,1,3,2,2,4,4,4,Universitas Gadjah Mada,1,1,17.1875,3.5,2,2
+3831,Indonesia,0,0,0,0,0,14.25,6.75,1,5,0,2,1,2,3,3,4,3,2,Universitas Indonesia,1,2,17.04032878,3.6,2,1
+4520,Indonesia,3,3,2.25,3,1.75,1.75,8.75,1,5,0,8,8,2,4,3,4,4,4,Universitas Indonesia,1,1,18.59103675,3.4,2,2
+2757,Indonesia,1,0,0,0,0,6.25,8.75,2,5,0,2,1,6,7,1,4,3,3,Universitas Indonesia,1,1,19.6282647,3.1,2,2
+1723,Indonesia,6,0,0,6,5,9.25,8.25,1,5,0,2,3,1,1,4,4,3,3,Universitas Gadjah Mada,1,2,17.30103806,3.5,2,2
+4765,Indonesia,4,4,2.75,4,4.75,4.25,5.75,2,5,0,3,3,4,1,3,3,3,3,Universitas Indonesia,1,2,25.01352082,3.7,2,2
+4563,Indonesia,0,0,0,0,0,13.75,6,2,5,0,1,1,4,3,4,4,3,4,Universitas Indonesia,1,1,18.73278237,3.5,2,2
+1821,Indonesia,0,0,0,0,0,3.25,8.75,1,5,0,1,1,3,2,2,3,3,2,Universitas Gadjah Mada,2,1,20.93663912,3.5,2,2
+5807,Indonesia,5,6,2.75,6,1.75,11.25,7.75,2,5,0,3,3,3,2,4,3,4,4,Unviersitas Airlangga,1,2,19.05197378,3.9,2,2
+2973,Indonesia,0,0,0,0,0,9.25,6.75,1,5,0,1,1,3,6,4,5,4,3,Universitas Indonesia,1,2,21.51385851,4.0,2,2
+1837,Indonesia,1,0,0,0,0,7.25,7.25,1,5,0,4,3,3,2,3,2,3,2,Universitas Gadjah Mada,1,1,19.28937927,3.6,2,2
+2019,Indonesia,1,2,3.25,1,2.25,7.25,7.25,1,5,0,3,2,2,3,5,3,5,4,Universitas Gadjah Mada,1,1,18.66666667,3.7,2,2
+3364,Indonesia,0,0,0,0,0,2.25,9.75,1,5,0,1,3,1,8,4,1,3,2,Universitas Indonesia,1,1,19.53125,NA,2,2
+3173,Indonesia,0,0,0,0,0,5.25,9.75,1,5,0,1,1,1,2,4,4,4,4,Universitas Indonesia,1,2,16.04938272,3.9,2,2
+3780,Indonesia,0,0,0,0,0,14.25,7.75,1,5,0,1,2,5,8,3,3,3,3,Universitas Indonesia,1,1,23.63403301,3.5,2,2
+3781,Indonesia,0,0,0,0,0,5.75,4.75,1,5,0,1,1,4,2,3,2,2,4,Universitas Indonesia,1,1,19.94805977,4.0,2,2
+3596,Indonesia,1,0,0,0,0,9.25,7.25,1,5,0,2,1,2,1,2,2,2,1,Universitas Indonesia,1,2,18.55677322,3.7,2,1
+5451,Indonesia,3,0,0,3,2.75,6.25,7.25,1,5,0,2,2,5,1,4,4,4,4,Universitas Indonesia,1,1,21.8299522,3.3,2,2
+5834,Indonesia,1,1,2.75,1,2.75,6,9.75,2,5,0,3,2,4,6,3,4,4,4,Unviersitas Airlangga,1,2,20.41522491,3.9,2,1
+3616,Indonesia,3,3,1.75,2,3,3.25,7,2,5,0,1,3,4,3,4,4,4,4,Universitas Indonesia,1,1,18.02595738,3.8,2,2
+3573,Indonesia,2,1,3.75,1,1.75,2,6.5,1,5,0,3,3,2,2,1,1,5,1,Universitas Indonesia,1,1,24.69040546,3.2,2,2
+2104,Indonesia,3,0,0,0,0,13.25,7.25,2,5,0,1,2,1,1,4,4,5,3,Universitas Gadjah Mada,1,1,21.67125803,3.8,2,2
+2001,Indonesia,2,0,0,1,2.75,5.25,5.75,1,5,0,1,1,2,4,3,4,4,3,Universitas Gadjah Mada,2,1,20.504934,3.7,2,2
+2926,Indonesia,1,0,0,0,0,13.25,10,1,5,0,1,1,3,2,3,2,4,3,Universitas Indonesia,1,1,16.4365549,3.6,2,2
+5154,Indonesia,1,1,2.25,1,2.25,2.25,4.75,1,5,0,3,2,2,2,3,3,3,3,Universitas Indonesia,1,1,25.390625,3.6,2,2
+4894,Indonesia,3,3,3.25,5,4.25,4.25,9.75,2,5,0,1,2,4,5,4,4,3,4,Universitas Indonesia,1,1,25.25951557,3.6,2,2
+4568,Indonesia,0,0,0,0,0,5.25,7.75,1,5,0,3,3,4,4,4,5,3,3,Universitas Indonesia,1,1,22.65625,3.2,2,2
+3893,Indonesia,3,0,0,4,2.75,3.25,7.5,1,5,0,4,4,2,2,4,3,4,4,Universitas Indonesia,1,1,23.03004535,3.8,2,2
+3011,Indonesia,1,0,0,0,0,15.25,9.5,2,5,0,3,2,6,4,3,3,3,3,Universitas Indonesia,1,1,19.97918835,3.5,2,2
+3317,Indonesia,0,0,0,1,3,6.25,2.75,2,5,0,1,1,3,2,3,3,2,3,Universitas Indonesia,1,1,22.89281998,3.3,2,2
+5808,Indonesia,1,0,0,1,2,3.25,9.75,2,5,0,3,1,3,2,3,4,3,4,Unviersitas Airlangga,1,1,16.02307323,4.0,2,2
+3965,Indonesia,6,0,0,3,3.75,3.25,10,1,5,0,3,3,1,5,4,3,3,3,Universitas Indonesia,1,2,25.95155709,3.6,2,1
+2534,Indonesia,1,3,1.75,4,1.75,2,5.75,1,5,0,1,2,4,4,3,5,3,2,Universitas Gadjah Mada,2,2,26.98961938,3.6,2,2
+1624,Indonesia,2,0,0,2,3,3.25,7.75,1,4,0,2,4,1,2,4,4,3,4,Universitas Gadjah Mada,1,2,22.14532872,3.5,2,2
+2749,Indonesia,1,0,0,1,3,4.25,4.75,1,5,0,1,2,2,1,4,2,3,3,Universitas Indonesia,1,1,22.0603538,3.7,2,1
+5238,Indonesia,2,0,0,2,2,9.75,4.25,1,5,0,2,3,1,2,3,4,4,2,Universitas Indonesia,1,1,18.42653421,3.1,2,2
+2285,Indonesia,0,1,1.5,0,0,11.25,6.75,1,5,0,1,1,1,1,3,5,4,4,Universitas Gadjah Mada,1,2,16.93703188,3.6,2,2
+5607,Indonesia,1,0,0,0,0,14.25,8.75,3,4,0,1,1,2,1,4,4,4,3,Universitas Indonesia,1,1,NA,NA,2,1
+5486,Indonesia,3,3,2,3,2,3.25,6.75,1,5,0,2,3,3,3,4,3,4,3,Universitas Indonesia,1,1,30.1102789,3.7,2,2
+4175,Indonesia,0,0,0,0,0,3.25,6.75,1,5,0,1,2,1,3,3,2,2,2,Universitas Indonesia,1,1,22.47658689,3.4,2,2
+2147,Indonesia,0,0,0,0,0,9.25,7.75,1,5,0,1,1,2,2,4,4,4,4,Universitas Gadjah Mada,1,1,18.73048907,3.8,2,2
+2536,Indonesia,0,0,0,0,0,4.25,4.25,1,2,0,3,4,1,1,3,4,4,4,Universitas Gadjah Mada,2,2,20.06920415,3.8,2,2
+1730,Indonesia,0,0,0,1,1.75,9.25,8,1,5,0,1,3,1,1,4,4,3,2,Universitas Gadjah Mada,3,1,18.82711104,3.6,2,2
+4264,Indonesia,0,0,0,0,0,11.25,2,1,5,0,3,2,3,1,2,3,3,4,Universitas Indonesia,1,1,26.34649403,3.5,2,1
+2416,Indonesia,0,0,0,0,0,13.25,6.25,1,5,0,1,3,2,8,3,1,3,2,Universitas Gadjah Mada,1,1,24.65483235,3.3,1,2
+2871,Indonesia,0,0,0,0,0,9.25,8.75,1,3,0,2,2,2,8,5,5,5,5,Universitas Indonesia,1,2,22.76146754,3.9,2,2
+2113,Indonesia,4,0,0,4,3.25,3.25,6.25,1,5,0,3,2,3,3,4,4,3,3,Universitas Gadjah Mada,2,2,28.73174689,3.8,2,2
+2056,Indonesia,1,0,0,3,2,15.25,10.75,1,5,0,2,5,2,6,3,5,4,2,Universitas Gadjah Mada,1,1,30.85320992,3.7,2,2
+4549,Indonesia,4,2,2.25,2,1.75,11.25,6.5,1,5,0,3,7,1,1,5,5,5,5,Universitas Indonesia,1,2,25.95155709,3.9,2,2
+3798,Indonesia,0,0,0,0,0,9.25,4.75,1,5,0,2,1,4,2,4,3,3,3,Universitas Indonesia,1,1,40.4040404,3.7,2,2
+5504,Indonesia,4,4,2.25,4,2.25,7.25,3.25,2,5,0,3,4,2,3,3,3,3,2,Universitas Indonesia,1,1,27.23922448,3.7,2,2
+2734,Indonesia,2,0,0,2,5,10,3,1,5,0,2,2,2,2,5,2,5,5,Universitas Indonesia,1,2,19.72103697,3.7,2,2
+3523,Indonesia,1,0,0,0,0,11.25,9.25,1,5,0,2,5,2,5,3,2,3,4,Universitas Indonesia,1,1,23.01117686,3.1,2,2
+1653,Indonesia,1,0,0,1,3.75,13.25,9.75,1,3,0,2,3,3,2,3,4,4,3,Universitas Gadjah Mada,1,2,33.21799308,3.3,2,2
+3539,Indonesia,1,0,0,2,4.25,13.25,5.75,1,5,0,3,1,7,7,3,3,2,3,Universitas Indonesia,1,1,19.84126984,3.9,2,2
+2074,Indonesia,3,3,2.75,3,1.75,4.75,10.75,2,5,0,1,3,1,2,3,4,3,4,Universitas Gadjah Mada,1,2,18.04270106,3.5,2,2
+4599,Indonesia,1,0,0,1,2.75,13.25,9.75,2,5,0,1,2,3,4,3,3,4,3,Universitas Indonesia,1,1,22.93975069,3.3,2,2
+2420,Indonesia,1,0,0,1,2.75,3.75,3.75,1,5,0,2,2,3,3,3,4,3,3,Universitas Gadjah Mada,1,1,19.11111111,3.7,2,2
+4775,Indonesia,2,0,0,0,0,3.5,3,2,4,1,1,1,2,3,5,5,5,3,Universitas Indonesia,1,2,29.00059488,3.6,2,2
+4393,Indonesia,1,0,0,0,0,15.25,3.75,1,5,0,1,2,4,2,2,3,2,2,Universitas Indonesia,1,1,25.5588462,3.4,2,2
+4130,Indonesia,1,2,3.25,0,1.25,4.25,6.75,1,5,0,3,1,2,3,4,4,4,4,Universitas Indonesia,1,1,16.64932362,3.8,2,2
+4977,Indonesia,1,2,3.25,1,3.25,3.25,7.75,2,5,0,2,2,2,2,3,4,4,1,Universitas Indonesia,1,2,18.75,3.5,2,2
+4925,Indonesia,1,0,0,0,0,11.25,7.75,1,5,0,1,3,2,2,1,4,2,3,Universitas Indonesia,1,1,14.84375,3.6,2,2
+2622,Indonesia,1,2,2.75,0,0,14.25,5.75,1,4,0,2,3,2,8,3,4,4,3,Universitas Indonesia,4,1,23.42355741,3.7,2,2
+3841,Indonesia,0,0,0,0,0,4.25,6.5,1,5,0,2,2,1,2,3,2,3,2,Universitas Indonesia,1,1,17.36044134,3.8,2,2
+2459,Indonesia,1,0,0,0,0,14.25,7.75,1,5,0,1,2,1,1,2,5,2,4,Universitas Gadjah Mada,1,2,25.4580659,3.4,2,2
+3204,Indonesia,2,1,3.25,1,2.25,5.75,5.25,1,5,0,5,3,2,1,4,3,4,3,Universitas Indonesia,1,1,0,3.7,2,2
+5440,Indonesia,0,0,0,0,0,7.25,3,1,5,0,2,1,4,6,4,5,3,4,Universitas Indonesia,1,1,20.81165453,3.4,2,2
+5309,Indonesia,0,0,0,1,3,16,6.25,2,5,0,1,1,1,8,4,5,3,3,Universitas Indonesia,1,1,17.89802289,3.6,2,2
+4711,Indonesia,0,1,1.5,0,0,6.25,6.75,1,5,0,1,2,2,2,5,3,3,4,Universitas Indonesia,1,1,27.339912,3.7,2,2
+2582,Indonesia,3,0,0,2,2.75,6.25,4.75,1,5,0,3,5,4,6,4,2,4,3,Universitas Indonesia,1,1,19.47714681,3.6,2,2
+5266,Indonesia,2,0,0,0,0,3.5,8.5,1,5,0,2,1,3,3,3,4,3,5,Universitas Indonesia,1,1,17.89802289,3.8,2,2
+1759,Indonesia,3,3,3.25,0,0,7.25,6.75,1,5,0,1,4,4,3,4,5,4,3,Universitas Gadjah Mada,1,2,23.183391,3.5,2,1
+3853,Indonesia,6,7,2,7,2,11,4.75,1,5,0,2,4,1,4,3,5,3,5,Universitas Indonesia,1,1,24.44727891,3.4,2,1
+5922,Indonesia,2,0,0,1,5,5.25,7.75,1,5,0,3,1,2,3,3,4,3,3,Unviersitas Airlangga,1,1,23.72528616,3.9,2,2
+5371,Indonesia,1,0,0,0,0,5.25,7.75,1,5,0,1,1,2,2,3,4,2,2,Universitas Indonesia,1,1,19.46740129,3.1,2,2
+5187,Indonesia,0,0,0,0,0,10.25,8.25,1,5,0,1,1,4,5,2,5,3,3,Universitas Indonesia,1,1,19.28937927,3.6,2,2
+2514,Indonesia,2,0,0,1,2.25,13.25,9.75,1,5,0,3,3,3,4,3,5,2,3,Universitas Gadjah Mada,1,1,19.81892708,3.8,2,2
+5993,Indonesia,0,2,2.5,2,2,6.25,8.25,1,5,0,2,1,5,2,2,4,3,3,Unviersitas Airlangga,1,1,23.33768443,3.7,2,2
+3736,Indonesia,1,0,0,2,2,3.25,7.75,1,5,0,1,3,4,7,2,2,3,4,Universitas Indonesia,1,1,20.82093992,3.8,2,2
+5182,Indonesia,0,0,0,0,0,13.25,7.75,2,5,0,1,2,1,2,3,4,4,4,Universitas Indonesia,1,1,20.56932966,3.9,2,2
+5027,Indonesia,0,0,0,0,0,9.25,6.75,1,5,0,1,3,3,3,2,3,1,2,Universitas Indonesia,1,1,22.265625,3.1,2,2
+5239,Indonesia,2,1,3,3,3,2.25,7.75,1,5,0,2,1,6,8,3,4,4,2,Universitas Indonesia,1,1,27.53122945,3.1,2,2
+5328,Indonesia,2,2,2.75,0,0,2.25,6,1,2,0,3,1,5,3,2,2,3,4,Universitas Indonesia,1,2,22.49134948,4.0,2,1
+5429,Indonesia,2,2,4.25,1,2.25,11.25,9.75,1,5,0,8,2,3,4,3,4,4,4,Universitas Indonesia,1,1,23.87543253,3.9,2,2
+2730,Indonesia,3,2,2,2,3,5,7.75,1,5,0,1,1,3,3,2,3,3,1,Universitas Indonesia,3,1,21.35930625,3.7,2,2
+4174,Indonesia,0,0,0,0,0,15.25,5.25,1,5,0,1,1,6,1,5,1,5,5,Universitas Indonesia,1,1,19.53125,3.6,2,2
+5253,Indonesia,2,2,3.25,2,3.25,4.5,7.75,1,5,0,3,3,3,3,4,4,4,4,Universitas Indonesia,1,2,28.3446712,3.7,2,2
+4418,Indonesia,1,0,0,0,0,16,9.25,2,5,0,3,2,2,4,3,4,3,3,Universitas Indonesia,1,1,18.98659072,3.9,2,2
+4189,Indonesia,1,2,4.25,2,4.25,15.25,4.75,2,5,0,2,4,4,3,4,3,3,4,Universitas Indonesia,1,2,19.71332153,3.9,2,2
+2886,Indonesia,0,0,0,0,0,15.25,8,1,5,0,2,4,6,4,3,2,4,5,Universitas Indonesia,1,1,22.03856749,4.0,2,2
+4839,Indonesia,1,0,0,0,0,15.25,7.75,1,5,0,1,2,2,3,3,3,3,3,Universitas Indonesia,1,1,NA,NA,2,2
+5008,Indonesia,0,0,0,0,0,13.25,6.25,2,5,0,1,1,1,1,1,1,1,1,Universitas Indonesia,1,2,22.66666667,NA,2,2
+2209,Indonesia,1,0,0,1,2,15.75,5.75,1,5,0,1,1,3,1,2,4,3,3,Universitas Gadjah Mada,1,1,20.42941836,3.6,2,2
+4654,Indonesia,3,1,2.25,3,2.25,4.25,9.5,1,5,0,3,3,2,3,3,3,4,4,Universitas Indonesia,1,1,21.63114885,3.2,2,2
+5668,Indonesia,5,0,0,4,5,2.25,9.25,1,5,0,7,3,1,1,3,4,3,4,Universitas Indonesia,1,2,23.4375,NA,1,1
+3277,Indonesia,0,1,2.25,1,2.25,13.25,7.75,2,5,0,1,1,2,4,4,4,3,3,Universitas Indonesia,1,2,17.95918367,3.4,2,2
+5875,Indonesia,1,0,0,0,0,12.25,7.75,1,5,0,2,3,1,1,4,4,4,3,Unviersitas Airlangga,1,1,17.68978885,4.0,2,2
+4333,Indonesia,4,2,5,1,1.75,5.25,8.75,1,5,0,2,4,2,1,3,3,4,4,Universitas Indonesia,1,1,25.6311675,3.7,2,2
+4004,Indonesia,0,0,3.25,0,0,3.25,7.75,1,5,0,3,2,5,2,4,4,4,3,Universitas Indonesia,1,1,17.63085399,NA,2,2
+1944,Indonesia,0,0,0,1,2,6.25,4,1,5,0,2,3,2,3,4,3,4,3,Universitas Gadjah Mada,1,1,21.21831719,3.8,2,2
+5305,Indonesia,1,0,2.5,0,0,9.5,2.75,1,5,0,2,2,2,2,4,3,3,3,Universitas Indonesia,1,1,19.97918835,3.5,2,2
+1824,Indonesia,2,0,1.25,0,0,3.25,3,1,5,0,2,2,5,4,3,1,4,1,Universitas Gadjah Mada,1,1,18.49112426,NA,1,2
+2424,Indonesia,0,0,0,0,0,4.25,10.25,1,5,0,2,2,6,6,3,5,4,3,Universitas Gadjah Mada,1,1,18.359375,3.5,2,2
+2703,Indonesia,2,0,0,2,2.75,9,8,1,5,0,8,3,1,3,4,2,4,5,Universitas Indonesia,3,1,25.5588462,3.4,2,2
+1828,Indonesia,2,2,3.5,0,0,12,2.75,1,5,0,1,2,1,3,4,4,4,3,Universitas Gadjah Mada,2,2,18.68512111,NA,2,1
+5029,Indonesia,0,0,0,0,0,3.25,7.75,1,5,0,1,1,1,2,3,3,2,2,Universitas Indonesia,1,1,18.73048907,3.6,2,2
+5543,Indonesia,0,0,0,0,0,14.25,7.75,1,5,0,1,3,2,6,4,5,3,3,Universitas Indonesia,1,1,NA,NA,1,1
+5322,Indonesia,7,0,0,7,4.25,4.25,8.75,1,4,0,8,3,6,1,4,4,4,3,Universitas Indonesia,1,2,28.7037037,3.2,2,1
+3274,Indonesia,1,0,0,1,1.75,3.25,9.75,2,5,0,3,2,2,4,3,3,3,3,Universitas Indonesia,1,1,21.09375,3.7,2,2
+3939,Indonesia,3,0,0,4,1.75,11.25,8.75,2,5,0,2,2,3,5,3,4,4,3,Universitas Indonesia,1,1,17.62538055,3.6,2,2
+4828,Indonesia,0,0,0,0,0,9.25,9.75,1,5,0,1,1,1,1,3,4,2,2,Universitas Indonesia,1,2,18.49649888,3.1,2,2
+2217,Indonesia,2,0,0,3,2,3.25,7.75,1,5,0,1,2,4,3,4,2,3,4,Universitas Gadjah Mada,1,1,26.48553975,3.3,2,2
+4978,Indonesia,0,0,0,0,0,5.25,8.75,2,5,0,2,2,2,2,3,3,4,4,Universitas Indonesia,1,2,22.20633069,3.7,2,2
+4290,Indonesia,0,0,0,0,0,14.25,4.75,2,5,0,4,1,2,8,2,5,5,5,Universitas Indonesia,1,1,17.62538055,3.7,2,2
+2686,Indonesia,3,6,1.75,4,2,11.25,6.75,1,5,0,2,6,4,4,1,4,2,1,Universitas Indonesia,2,2,29.4022733,3.9,2,2
+3149,Indonesia,0,0,0,0,0,5.25,2.75,2,5,0,3,3,4,1,1,1,1,1,Universitas Indonesia,1,2,16.89623508,3.8,2,2
+5869,Indonesia,4,0,0,0,0,5.25,6.75,2,5,0,3,3,2,2,4,3,4,4,Unviersitas Airlangga,1,1,25.21735858,3.8,2,2
+4953,Indonesia,3,4,4.5,2,4,8,6.75,1,5,0,6,6,3,3,3,3,2,5,Universitas Indonesia,1,2,26.29757785,3.6,2,1
+4424,Indonesia,0,1,2.5,0,1.25,13.25,11.25,1,5,0,1,1,8,6,3,4,3,1,Universitas Indonesia,1,2,20.07960128,3.9,2,2
+5681,Indonesia,0,0,0,0,0,4.25,3.75,1,5,0,2,6,4,1,2,3,3,2,Universitas Indonesia,1,2,NA,NA,1,1
+3684,Indonesia,0,0,0,1,2.25,14.25,6.75,1,5,0,1,3,4,3,5,5,4,4,Universitas Indonesia,1,1,18.90203813,3.7,2,2
+1870,Indonesia,1,1,1.5,0,0,9.5,8.75,2,5,0,2,4,1,1,3,2,3,2,Universitas Gadjah Mada,1,2,17.1875,3.7,2,2
+4341,Indonesia,1,0,0,2,2,7.25,7.25,1,5,0,3,5,2,2,4,4,3,4,Universitas Indonesia,1,1,21.484375,3.3,2,2
+3964,Indonesia,0,0,0,0,0,14,6.25,2,5,0,2,2,8,8,3,4,3,4,Universitas Indonesia,1,1,18.82711104,3.5,2,2
+1767,Indonesia,1,0,0,0,0,3.25,10.75,1,5,0,1,1,1,8,3,2,5,2,Universitas Gadjah Mada,1,1,20.73688272,3.3,2,2
+3820,Indonesia,3,0,0,3,1.75,4,7.25,1,5,0,1,3,2,1,5,5,5,5,Universitas Indonesia,1,1,24.03460984,3.8,2,2
+4564,Indonesia,1,0,0,2,2.75,4,9.75,1,5,0,2,3,1,1,4,3,3,2,Universitas Indonesia,1,1,17.51463112,3.3,2,2
+2236,Indonesia,7,5,2.75,5,3.75,4.25,10.25,2,5,0,2,3,6,1,5,4,5,3,Universitas Gadjah Mada,1,2,25.5036157,3.6,2,2
+5796,Indonesia,3,3,2.75,3,1.75,6.25,8.75,1,5,0,4,2,7,4,4,2,3,3,Unviersitas Airlangga,1,1,23.7332384,3.6,2,2
+5327,Indonesia,2,0,0,0,0,13.25,7.25,2,5,0,1,3,2,2,3,4,2,2,Universitas Indonesia,1,1,20.2020202,3.6,2,1
+5887,Indonesia,3,0,0,3,2,13.25,7.75,1,5,0,4,4,4,5,5,4,3,5,Unviersitas Airlangga,1,1,20.81165453,3.9,2,2
+4588,Indonesia,0,3,2.75,0,0,13.25,11.5,1,5,0,1,1,8,6,3,4,3,1,Universitas Indonesia,1,2,20.07960128,3.9,2,2
+4295,Indonesia,1,0,0,0,0,11.25,4.75,2,5,0,1,3,1,1,3,3,3,3,Universitas Indonesia,1,2,21.71806609,3.9,2,2
+1937,Indonesia,4,1,2.25,0,0,3.25,5.75,1,2,0,5,4,2,3,4,4,3,3,Universitas Gadjah Mada,2,2,31.14186851,3.8,2,2
+2928,Indonesia,1,0,0,1,2.25,6.25,2.75,1,5,0,3,2,3,3,4,3,4,4,Universitas Indonesia,1,2,19.84126984,3.4,2,1
+2550,Indonesia,3,0,0,0,0,8.25,9.75,1,4,0,1,2,3,4,3,1,3,2,Universitas Gadjah Mada,1,1,24.76756592,NA,2,2
+2722,Indonesia,2,2,5,0,0,8,9.75,1,4,0,6,4,3,8,4,4,3,3,Universitas Indonesia,1,1,21.77384236,3.2,2,2
+1907,Indonesia,4,2,4.25,1,3.25,13.25,8.75,1,4,0,2,3,5,1,4,3,4,3,Universitas Gadjah Mada,2,2,21.13885586,3.4,2,1
+4811,Indonesia,6,0,0,5,2,5,6.5,1,1,3,2,3,3,3,3,3,3,3,Universitas Indonesia,1,2,25.46938776,3.6,2,2
+5456,Indonesia,0,0,0,0,0,4.25,10.75,1,5,0,8,8,8,1,2,4,1,5,Universitas Indonesia,1,1,23.4375,3.6,2,1
+4030,Indonesia,1,0,0,0,3.25,15.25,1.5,1,3,0,1,3,3,8,3,2,2,4,Universitas Indonesia,1,2,NA,NA,2,2
+2076,Indonesia,1,2,2.5,1,1.75,4.75,7.75,1,5,0,2,2,2,4,5,3,4,4,Universitas Gadjah Mada,1,2,17.26354454,3.2,2,2
+2399,Indonesia,1,0,0,0,0,6.75,3.75,2,5,0,4,6,4,1,3,4,5,4,Universitas Gadjah Mada,1,1,24.09297052,3.7,2,2
+4898,Indonesia,1,0,0,0,0,14.5,7.5,1,5,0,1,1,8,8,3,4,4,5,Universitas Indonesia,1,2,30.07116843,NA,1,2
+1811,Indonesia,0,0,0,0,0,9.25,5.5,1,5,0,1,2,1,2,3,4,3,4,Universitas Gadjah Mada,1,2,29.40292024,3.5,2,2
+5395,Indonesia,4,0,0,1,3.25,8.25,6.75,1,5,0,1,1,3,2,4,4,3,3,Universitas Indonesia,1,1,16.82422689,3.6,2,2
+4778,Indonesia,0,0,0,0,0,14.25,8.75,1,5,0,3,3,3,3,3,3,2,2,Universitas Indonesia,1,2,0,3.8,2,2
+4395,Indonesia,3,2,2.25,3,2.25,12.25,7.75,1,5,0,3,3,2,3,4,2,2,3,Universitas Indonesia,1,1,21.36752137,3.5,2,2
+3296,Indonesia,1,0,0,0,0,6.25,9.75,1,1,0,1,1,3,1,3,2,3,4,Universitas Indonesia,1,2,17.30103806,3.5,2,2
+5757,Indonesia,1,0,0,0,0,14.25,9.75,2,5,0,2,1,1,4,4,2,3,4,Unviersitas Airlangga,1,1,16.97465376,NA,2,1
+2833,Indonesia,0,0,0,0,0,15.25,5.25,1,5,0,1,2,2,6,1,4,2,1,Universitas Indonesia,1,2,25.0995016,3.4,2,2
+4383,Indonesia,2,0,0,0,0,4.25,6.5,2,5,0,3,2,3,3,2,2,3,5,Universitas Indonesia,1,1,35.49215792,3.8,2,2
+5619,Indonesia,1,0,0,0,0,13.25,7.75,1,5,0,6,5,1,1,3,2,4,3,Universitas Indonesia,1,1,24.97398543,3.5,2,2
+3510,Indonesia,3,0,0,4,1.75,4,4.25,1,5,0,3,3,2,4,4,4,4,3,Universitas Indonesia,1,1,23.183391,3.2,2,2
+3943,Indonesia,4,0,0,0,0,6.25,8.75,2,5,0,2,8,3,4,3,4,3,4,Universitas Indonesia,1,1,20.93663912,3.7,2,2
+3761,Indonesia,0,0,0,0,0,8.25,3.75,1,5,0,1,2,1,5,2,4,2,4,Universitas Indonesia,1,1,18.42653421,3.5,2,2
+2097,Indonesia,5,0,0,5,2,4.25,5,1,5,0,2,2,1,2,2,4,2,2,Universitas Gadjah Mada,1,1,21.36752137,3.6,2,2
+2694,Indonesia,0,0,0,0,0,14.25,8.25,1,5,0,1,3,2,1,2,2,2,3,Universitas Indonesia,4,1,20.44913742,3.8,2,2
+3932,Indonesia,0,0,0,0,0,15,5.25,1,5,0,1,1,6,1,3,2,4,5,Universitas Indonesia,1,1,19.53125,3.6,2,2
+3400,Indonesia,2,1,2.5,1,3,2.5,10.75,1,5,0,2,2,2,2,4,4,4,4,Universitas Indonesia,1,1,23.4375,3.3,2,2
+5621,Indonesia,2,0,0,0,0,11.25,6.75,1,5,0,1,1,4,1,3,2,3,2,Universitas Indonesia,1,1,14.95151437,NA,2,2
+3215,Indonesia,2,2,4.25,2,2.25,9.25,2.75,1,5,0,1,1,2,1,4,5,3,2,Universitas Indonesia,1,2,18.68512111,3.7,2,2
+2443,Indonesia,0,0,0,0,0,12.25,6.5,1,5,0,2,1,1,3,2,3,2,1,Universitas Gadjah Mada,1,1,32.46191136,3.8,2,2
+2378,Indonesia,3,0,0,0,0,4.25,5.75,1,5,0,2,2,1,1,4,3,3,2,Universitas Gadjah Mada,2,1,24.97398543,3.6,2,2
+2790,Indonesia,4,0,3.75,0,0,13.75,9.25,1,5,0,1,1,8,8,3,4,3,4,Universitas Indonesia,1,1,17.22480372,3.6,2,2
+4398,Indonesia,1,0,0,0,0,7.25,6.75,1,5,0,2,2,3,6,2,4,2,2,Universitas Indonesia,1,1,29.296875,3.7,2,2
+3705,Indonesia,2,0,0,2,3.25,11.25,10.75,1,5,0,3,2,5,6,4,4,4,3,Universitas Indonesia,1,1,16.40625,3.1,2,2
+2655,Indonesia,5,0,0,5,4.75,5,4.25,1,4,0,1,1,6,8,3,4,3,2,Universitas Indonesia,3,1,16.40625,3.5,2,2
+3874,Indonesia,5,0,0,5,2.25,15.25,3.25,1,5,0,1,1,1,6,2,4,2,3,Universitas Indonesia,1,1,19.56295525,3.5,2,2
+3646,Indonesia,1,1,2.75,1,2.25,15.25,6.75,1,5,0,1,2,6,8,5,3,4,3,Universitas Indonesia,1,1,31.62627648,3.5,2,2
+1789,Indonesia,2,0,0,1,2,13.25,8.5,1,5,0,2,1,2,2,4,3,3,4,Universitas Gadjah Mada,2,2,26.12861083,3.5,2,2
+2850,Indonesia,0,0,0,0,0,2.5,8.25,1,5,0,1,1,4,3,4,2,4,4,Universitas Indonesia,2,1,20.23950076,3.6,2,2
+5334,Indonesia,3,3,2.75,1,2.75,14,8.75,2,2,0,1,1,4,4,5,2,4,5,Universitas Indonesia,1,2,21.0498179,3.7,2,1
+2333,Indonesia,0,0,0,0,0,7.25,10.75,1,5,0,1,1,1,8,4,5,3,2,Universitas Gadjah Mada,2,1,18.06616734,2.5,2,2
+2327,Indonesia,0,0,0,0,0,14.25,6.75,1,5,0,4,4,1,1,4,5,3,3,Universitas Gadjah Mada,1,1,23.71184463,3.7,2,2
+5883,Indonesia,2,0,0,0,0,5.25,8.75,1,5,0,5,1,1,2,3,2,3,3,Unviersitas Airlangga,1,1,23.55555556,3.8,2,2
+3509,Indonesia,0,0,0,0,1.25,4.25,7.75,1,5,0,2,2,5,4,3,2,3,4,Universitas Indonesia,1,1,30.86300683,3.5,2,2
+4866,Indonesia,2,2,2.25,2,2.25,7.25,7.5,1,5,0,2,2,2,6,3,4,4,4,Universitas Indonesia,1,1,17.96875,3.4,2,2
+2639,Indonesia,5,1,2.25,5,2.25,6.25,6,1,5,0,1,2,8,1,2,3,2,3,Universitas Indonesia,3,2,23.98687034,3.8,2,2
+5555,Indonesia,0,0,0,0,0,9.25,6.75,1,3,0,1,1,8,1,4,4,4,4,Universitas Indonesia,1,2,NA,NA,2,2
+5091,Indonesia,1,0,0,1,2.25,7.25,2.75,1,5,0,2,3,2,1,2,3,3,5,Universitas Indonesia,1,1,19.22768787,3.7,2,2
+2494,Indonesia,2,0,0,0,0,9.75,9.5,1,5,0,1,1,3,7,3,4,2,3,Universitas Gadjah Mada,1,2,24.44727891,3.4,2,1
+5260,Indonesia,3,0,0,0,0,5.25,7.75,1,5,0,3,5,4,4,3,4,2,4,Universitas Indonesia,1,2,20.54988662,3.5,2,2
+3920,Indonesia,2,0,0,2,2.75,13.25,7.75,1,5,0,2,1,2,1,3,4,3,4,Universitas Indonesia,1,1,23.87511478,3.9,2,2
+1862,Indonesia,3,2,2.75,5,3.25,6.25,8.25,1,5,0,2,1,3,6,4,4,3,3,Universitas Gadjah Mada,2,1,22.31327843,NA,2,1
+4682,Indonesia,1,0,0,5,1.75,4.75,11.25,1,1,0,7,7,8,8,5,4,4,5,Universitas Indonesia,1,2,24.44727891,3.6,1,2
+2112,Indonesia,3,0,0,3,3.75,5.25,5.5,1,5,0,4,4,2,2,5,3,5,4,Universitas Gadjah Mada,1,1,27.34375,3.7,2,2
+4816,Indonesia,0,0,1.5,0,0,14.25,8.75,1,5,0,1,5,2,2,4,2,4,4,Universitas Indonesia,1,1,20.2020202,3.4,2,2
+1607,Indonesia,4,4,2.75,2,3.75,14,8.75,1,4,4,2,3,3,4,3,3,3,5,Universitas Gadjah Mada,2,2,29.296875,3.7,2,2
+2648,Indonesia,0,0,0,0,0,15.75,7.75,1,5,0,3,1,3,6,3,4,3,4,Universitas Indonesia,4,2,20.71569381,3.8,2,2
+3106,Indonesia,1,0,0,0,0,9,7.5,1,5,0,1,1,3,3,2,1,1,1,Universitas Indonesia,1,1,17.89802289,3.4,2,2
+3083,Indonesia,1,1,1.5,0,2.75,6,11.25,1,5,0,1,2,2,3,3,3,3,4,Universitas Indonesia,1,1,NA,NA,2,2
+4266,Indonesia,6,2,2.75,1,3.75,7.25,7.5,1,5,0,2,4,2,2,3,5,5,4,Universitas Indonesia,1,2,23.38435374,3.6,2,1
+4727,Indonesia,0,0,0,0,0,14.5,3.5,1,1,0,8,5,6,7,2,2,2,2,Universitas Indonesia,1,2,18.25631871,3.5,2,2
+5783,Indonesia,5,0,0,0,0,9.25,9.75,1,5,0,1,1,3,1,2,4,4,3,Unviersitas Airlangga,2,1,23.37257618,3.7,2,2
+3729,Indonesia,1,0,0,0,0,5.5,7.5,1,5,0,3,1,3,6,3,2,4,3,Universitas Indonesia,1,1,19.10009183,3.2,2,2
+2348,Indonesia,2,0,0,0,0,6.5,4.75,1,5,0,3,3,2,3,4,4,4,3,Universitas Gadjah Mada,4,1,18.19548277,3.7,2,2
+5996,Indonesia,4,3,3.25,3,2.25,8.25,11.25,1,2,0,3,4,3,4,5,4,5,5,Unviersitas Airlangga,3,2,21.07719523,3.9,2,2
+5720,Indonesia,2,7,2.25,7,2.25,3.25,8.75,1,5,0,8,4,1,2,4,3,4,4,Unviersitas Airlangga,1,1,20.3125,NA,2,2
+5316,Indonesia,2,0,0,0,0,3.25,8.75,1,5,0,1,3,3,2,3,3,3,3,Universitas Indonesia,1,1,19.11111111,3.4,2,2
+3120,Indonesia,1,0,1.25,1,1.75,5.25,6.25,2,5,0,2,2,2,2,2,3,3,3,Universitas Indonesia,1,1,16.22783886,3.7,2,2
+4131,Indonesia,0,0,0,0,0,6.25,9.25,2,5,0,2,1,5,4,2,2,3,4,Universitas Indonesia,1,1,19.72318339,3.4,2,2
+4750,Indonesia,2,0,0,0,0,4.25,8.75,1,4,0,2,2,2,2,3,4,3,3,Universitas Indonesia,1,2,23.87511478,3.3,2,1
+5282,Indonesia,1,1,3,0,0,13.25,8.5,1,5,0,1,2,3,1,4,4,3,2,Universitas Indonesia,1,2,21.60493827,3.8,2,2
+4392,Indonesia,3,0,0,1,4.25,13.25,6.75,1,5,0,6,5,2,2,4,4,2,2,Universitas Indonesia,1,1,21.40309156,3.1,2,2
+5166,Indonesia,2,1,2,3,3.25,6.25,4.75,1,5,0,1,4,3,8,2,4,2,4,Universitas Indonesia,1,2,28.36752366,3.9,2,2
+5663,Indonesia,5,0,0,6,2.75,12.75,10.75,1,5,0,1,3,2,8,3,4,3,5,Universitas Indonesia,1,1,NA,NA,1,2
+1763,Indonesia,0,0,0,0,0,15.25,6.75,1,5,0,4,3,4,4,3,4,3,3,Universitas Gadjah Mada,1,1,22.60026298,3.6,1,2
+5879,Indonesia,3,3,1.75,0,0,12,9,1,5,0,1,1,1,1,5,4,3,5,Unviersitas Airlangga,1,1,27.6816609,3.6,2,2
+4324,Indonesia,1,1,2.25,1,2.25,3.25,10,1,5,0,1,1,2,1,4,4,4,4,Universitas Indonesia,1,2,17.64705882,3.6,2,2
+2000,Indonesia,3,0,0,0,0,14.25,9.75,1,5,0,1,1,1,5,4,5,4,2,Universitas Gadjah Mada,1,2,19.25702882,3.4,2,2
+3987,Indonesia,5,5,2,6,1.75,4.25,6.75,1,4,0,4,3,4,3,2,2,2,4,Universitas Indonesia,1,1,25.78125,3.5,2,2
+5719,Indonesia,3,1,3.75,3,4.75,6.25,8.25,2,5,0,2,2,1,1,3,3,3,2,Unviersitas Airlangga,1,1,21.63114885,NA,2,2
+6019,Indonesia,2,0,0,0,0,4.75,9.5,1,5,0,3,3,2,2,3,2,2,2,Unviersitas Airlangga,2,1,18.66666667,3.7,2,2
+6007,Indonesia,0,0,0,0,0,9.25,10.25,1,5,0,1,1,7,1,3,4,3,2,Unviersitas Airlangga,3,1,24.03460984,3.8,2,2
+5916,Indonesia,0,0,0,0,0,5.25,7.25,1,5,0,1,2,2,4,3,4,4,3,Unviersitas Airlangga,1,1,18.61149584,3.9,2,2
+5274,Indonesia,0,0,0,5,4.75,3.75,9.75,1,5,0,8,7,1,1,3,2,4,2,Universitas Indonesia,1,1,17.578125,NA,2,2
+4877,Indonesia,4,0,0,6,4,4.5,5.25,1,2,0,4,4,2,4,3,2,3,4,Universitas Indonesia,1,2,23.87511478,3.8,2,2
+2372,Indonesia,1,1,1.75,7,5,14.75,10.25,1,5,0,1,1,4,2,4,4,3,2,Universitas Gadjah Mada,1,1,18.61149584,3.5,2,2
+4167,Indonesia,1,0,0,0,0,15,10.75,1,5,0,5,5,1,4,3,2,3,3,Universitas Indonesia,1,1,25.59373706,3.5,2,2
+4319,Indonesia,4,0,0,2,2.25,12.25,8.75,1,2,3,6,6,2,7,3,4,4,5,Universitas Indonesia,1,2,NA,NA,1,2
+4527,Indonesia,2,1,1.5,1,2,14.25,5.25,1,5,0,1,1,4,8,4,4,4,2,Universitas Indonesia,1,1,22.94811574,3.9,2,2
+3347,Indonesia,0,0,0,0,0,6.25,6.75,1,5,0,2,1,1,3,2,4,3,1,Universitas Indonesia,1,1,15.81685744,3.4,2,2
+5104,Indonesia,2,0,0,0,0,11.25,6,2,5,0,1,1,3,7,3,4,4,3,Universitas Indonesia,1,1,21.13885586,3.4,2,2
+3238,Indonesia,1,0,0,1,3.25,3.25,2,1,5,0,2,2,3,4,3,3,3,4,Universitas Indonesia,1,2,16.13539388,3.8,2,1
+3469,Indonesia,1,0,0,0,0,5.25,3,2,5,0,1,2,2,2,2,4,2,2,Universitas Indonesia,1,1,16.88019391,3.9,2,2
+3570,Indonesia,0,0,0,0,0,10.25,11,2,5,0,1,1,1,1,3,3,3,3,Universitas Indonesia,1,2,19.140625,3.5,2,1
+3671,Indonesia,0,0,0,0,0,6.25,5.75,1,5,0,1,2,3,5,5,3,4,4,Universitas Indonesia,1,1,17.84651993,3.4,2,2
+4536,Indonesia,0,0,0,0,0,5.25,9.75,1,5,0,6,5,1,2,4,3,5,2,Universitas Indonesia,1,1,23.62444749,3.8,2,2
+1626,Indonesia,3,2,3.75,2,3.25,4.75,9.75,1,5,0,1,1,2,4,3,4,3,3,Universitas Gadjah Mada,1,2,16.78719008,3.8,2,2
+5386,Indonesia,0,0,0,0,0,11.25,8.75,2,4,0,1,2,2,3,3,4,3,2,Universitas Indonesia,1,2,20.98765432,3.3,2,2
+5587,Indonesia,1,0,0,0,0,3.25,7.75,1,5,0,3,8,4,1,5,4,4,2,Universitas Indonesia,1,1,NA,NA,1,2
+1983,Indonesia,3,2,2.75,2,3,4.25,8.5,1,1,1,8,8,1,1,5,4,4,3,Universitas Gadjah Mada,2,2,28.37370242,3.4,2,1
+2449,Indonesia,0,0,0,2,3,5.25,7.75,1,5,0,1,2,1,4,3,3,3,3,Universitas Gadjah Mada,1,1,24.14151925,3.8,2,2
+5736,Indonesia,1,0,0,0,0,13.25,8.5,1,5,0,2,1,1,2,4,2,4,2,Unviersitas Airlangga,2,1,20.45184304,3.5,2,2
+3635,Indonesia,3,1,2.5,1,3,9.25,7.75,1,5,0,2,2,2,2,3,4,4,2,Universitas Indonesia,1,1,20.17325264,3.6,2,2
+5776,Indonesia,1,0,0,0,0,9.25,11,1,5,0,2,1,1,4,3,4,3,5,Unviersitas Airlangga,1,1,19.97918835,3.9,2,2
+5981,Indonesia,1,0,0,0,2.75,8,9.5,1,5,0,1,2,1,3,4,4,3,2,Unviersitas Airlangga,1,1,26.47918188,4.0,2,2
+3008,Indonesia,0,0,0,0,0,12,6.75,1,5,0,1,1,3,1,3,1,2,2,Universitas Indonesia,1,1,18.5178041,4.0,2,2
+4852,Indonesia,2,0,0,0,0,9.25,9.25,2,5,0,2,5,1,1,3,3,3,3,Universitas Indonesia,1,2,19.59183673,3.5,2,2
+1925,Indonesia,3,0,0,1,1.75,9.25,10.75,1,5,0,1,2,1,3,3,4,4,2,Universitas Gadjah Mada,1,1,17.51463112,3.4,2,2
+4011,Indonesia,1,0,0,1,2.25,15.75,8.75,1,5,0,2,1,2,8,3,1,2,2,Universitas Indonesia,1,2,31.64431787,3.5,2,2
+5358,Indonesia,0,0,0,1,1.75,6.25,9.75,1,5,0,2,1,2,1,4,4,3,3,Universitas Indonesia,1,1,20.77562327,3.5,2,2
+1632,Indonesia,1,0,4,1,4.75,3.25,11,1,5,0,1,1,1,4,3,2,2,5,Universitas Gadjah Mada,2,2,32.60475788,3.8,2,2
+2989,Indonesia,3,0,0,0,0,14.25,8.75,1,5,0,2,3,5,1,5,4,4,5,Universitas Indonesia,1,1,19.47340663,3.5,2,1
+2951,Indonesia,1,0,0,1,3,6.25,10.75,1,5,0,1,1,3,3,3,3,5,4,Universitas Indonesia,1,1,19.31295201,3.8,2,2
+3402,Indonesia,0,0,0,0,0,6.25,7.5,1,3,3,3,5,6,3,3,2,3,5,Universitas Indonesia,1,2,25.390625,3.5,2,2
+4307,Indonesia,0,0,0,0,0,8.25,4.75,1,5,0,1,1,3,8,3,4,4,4,Universitas Indonesia,1,1,18.31425598,3.5,2,2
+1935,Indonesia,4,4,2,2,2.25,13.25,5.75,1,5,0,1,1,6,8,3,3,5,5,Universitas Gadjah Mada,1,1,18.85882198,3.7,2,1
+5801,Indonesia,2,1,4.75,1,3,3.25,2.75,1,5,0,2,4,2,4,3,5,3,3,Unviersitas Airlangga,1,1,21.33333333,3.8,2,2
+4739,Indonesia,2,1,2.25,0,1.25,11.25,10.75,2,5,0,4,2,5,4,2,2,3,3,Universitas Indonesia,1,1,19.33372992,3.8,2,2
+4067,Indonesia,0,0,0,0,0,7.25,8.5,1,5,0,1,1,4,5,4,4,3,3,Universitas Indonesia,1,1,18.36900337,3.5,2,2
+1814,Indonesia,4,0,2.75,0,3.25,6,7.75,1,5,0,1,1,5,1,5,5,5,4,Universitas Gadjah Mada,2,1,22.89281998,3.6,1,2
+3406,Indonesia,2,2,2.25,2,2.25,3.25,7.25,1,5,0,1,2,3,1,5,2,4,5,Universitas Indonesia,1,1,19.10009183,3.7,2,2
+6010,Indonesia,3,3,1.75,0,0,6.25,8.75,1,5,0,2,1,1,1,3,3,3,2,Unviersitas Airlangga,3,2,18.77834467,3.4,2,2
+3609,Indonesia,3,0,0,0,0,10.25,9.75,1,5,0,4,5,2,3,3,2,3,2,Universitas Indonesia,1,1,20.3125,3.4,2,2
+5764,Indonesia,1,1,2.25,1,3,6.25,8.75,1,2,0,3,1,1,4,3,3,3,3,Unviersitas Airlangga,4,2,23.183391,3.2,2,2
+1979,Indonesia,3,3,1.75,3,1.75,3.25,3.75,1,5,0,1,2,2,6,2,4,4,5,Universitas Gadjah Mada,2,1,21.484375,3.2,2,2
+5635,Indonesia,2,2,3.25,2,3.25,11.25,8.25,1,5,0,2,2,1,4,4,3,4,2,Universitas Indonesia,1,2,NA,NA,2,2
+4190,Indonesia,7,5,2.25,0,1.25,13.25,3,1,5,0,1,3,8,1,5,5,5,5,Universitas Indonesia,1,2,17.04330261,3.8,2,2
+4263,Indonesia,1,0,0,0,0,15.25,4.25,1,5,0,5,6,6,6,4,5,4,4,Universitas Indonesia,1,1,20.39542144,3.9,2,2
+2450,Indonesia,2,0,0,2,2,14.25,8.75,1,5,0,1,1,4,3,3,4,3,3,Universitas Gadjah Mada,1,1,20.39542144,3.6,2,2
+5350,Indonesia,1,0,0,0,0,11.25,10.75,1,5,0,1,1,4,4,3,4,3,4,Universitas Indonesia,1,1,22.64086462,3.4,2,2
+4923,Indonesia,0,0,0,1,3.75,5.25,8.25,1,5,0,2,2,2,1,3,3,3,3,Universitas Indonesia,1,1,34.17489,3.5,2,2
+3602,Indonesia,1,1,4.25,1,4.25,8.25,9.75,1,5,0,2,3,4,4,5,5,5,5,Universitas Indonesia,1,2,21.2244898,3.7,2,1
+2531,Indonesia,4,3,1.75,0,0,5.75,6.25,1,5,0,2,4,2,3,4,4,4,3,Universitas Gadjah Mada,1,2,20.65754,3.5,2,1
+2918,Indonesia,2,2,3.75,0,0,5.75,9.75,1,5,0,1,2,5,4,5,5,5,3,Universitas Indonesia,1,2,17.50561501,3.7,2,1
+1934,Indonesia,2,0,0,2,4.75,3.25,7.75,2,5,0,2,3,1,1,2,2,3,2,Universitas Gadjah Mada,1,1,16.63353483,3.5,2,2
+2298,Indonesia,0,0,0,0,0,7,8.75,1,5,0,3,4,3,2,4,4,5,5,Universitas Gadjah Mada,1,1,19.83471074,3.6,2,2
+5733,Indonesia,1,0,0,0,0,3.25,7.75,2,5,0,2,4,1,1,5,4,4,4,Unviersitas Airlangga,1,2,21.79930796,NA,2,2
+2228,Indonesia,3,0,0,1,1.75,15.25,9.75,1,5,0,1,1,3,3,3,4,3,3,Universitas Gadjah Mada,1,2,21.46915048,3.2,2,2
+4888,Indonesia,0,0,3,1,2.25,9.25,7.5,1,5,0,1,1,2,1,3,3,4,3,Universitas Indonesia,1,2,26.70362358,3.8,2,2
+1960,Indonesia,2,2,4.25,5,3.25,3.25,10.75,2,5,0,2,5,3,4,2,4,3,5,Universitas Gadjah Mada,1,1,20.2020202,3.5,2,2
+4049,Indonesia,3,1,4.25,0,1.25,4.25,9.75,1,5,0,1,1,4,4,3,2,3,3,Universitas Indonesia,1,1,17.99816345,3.8,2,2
+3604,Indonesia,0,0,0,0,0,9.25,2.25,1,5,0,1,3,4,5,3,2,3,2,Universitas Indonesia,1,1,20,3.8,2,2
+1913,Indonesia,2,0,0,0,0,4.25,8.5,2,5,0,2,4,2,2,2,4,3,3,Universitas Gadjah Mada,1,2,22.49134948,3.1,2,1
+5785,Indonesia,7,0,0,0,0,7.25,8.75,1,5,0,2,3,2,3,4,3,4,3,Unviersitas Airlangga,3,1,19.22768787,3.4,2,2
+4981,Indonesia,0,0,0,0,0,5.25,6.75,2,4,0,1,2,3,1,4,3,4,5,Universitas Indonesia,1,1,22.77318641,3.4,2,2
+5815,Indonesia,3,0,0,4,2.25,10.25,10,1,5,0,2,3,5,3,4,3,4,3,Unviersitas Airlangga,1,1,22.49134948,3.9,2,2
+5570,Indonesia,0,0,0,6,4.25,12.25,8,1,5,0,3,2,3,6,3,4,3,4,Universitas Indonesia,1,2,16.78825433,3.9,2,2
+1896,Indonesia,1,0,1.25,2,2.75,5.25,8.75,1,5,0,2,2,1,2,3,2,3,3,Universitas Gadjah Mada,1,1,18.66666667,3.5,2,2
+4722,Indonesia,7,0,0,2,2,4.75,9.25,1,5,0,3,2,1,1,3,3,3,4,Universitas Indonesia,1,1,19.03114187,3.6,2,1
+4119,Indonesia,1,0,0,0,0,13.25,3,2,5,0,1,5,1,3,3,4,4,4,Universitas Indonesia,1,1,20.02884153,3.9,2,2
+5401,Indonesia,2,2,2.25,2,2.25,7.25,8.75,1,5,0,3,3,2,3,5,4,4,4,Universitas Indonesia,1,2,29.6875,3.8,2,2
+4580,Indonesia,7,0,0,0,0,6.5,5.25,2,5,0,1,1,4,4,4,3,3,4,Universitas Indonesia,1,2,0,3.5,2,2
+5813,Indonesia,7,0,0,7,4.25,11.25,7.75,2,5,0,1,1,1,2,4,3,4,2,Unviersitas Airlangga,1,1,18.36900337,3.9,2,2
+4114,Indonesia,1,1,1.75,1,2,4.5,5.75,1,5,0,7,8,3,2,3,1,1,3,Universitas Indonesia,1,2,25.25951557,3.8,2,2
+5613,Indonesia,1,0,0,0,0,9,5.75,2,5,0,1,2,3,8,3,4,5,4,Universitas Indonesia,1,1,NA,NA,1,1
+2464,Indonesia,2,0,0,0,0,13.25,6.75,1,5,0,1,2,1,6,3,5,2,2,Universitas Gadjah Mada,1,1,22.0603538,3.7,2,2
+3842,Indonesia,1,0,0,0,0,9.5,6.25,1,5,0,1,1,3,7,2,3,2,3,Universitas Indonesia,1,1,17.06555671,3.7,2,2
+3068,Indonesia,1,1,2.75,0,0,10.25,9.5,1,5,0,1,3,1,1,4,4,3,3,Universitas Indonesia,1,1,20.02884153,3.6,2,2
+3702,Indonesia,1,0,0,0,0,3.25,8.75,1,5,0,2,3,2,2,4,3,4,4,Universitas Indonesia,1,1,18.19548277,3.5,2,2
+4467,Indonesia,0,0,0,2,2,8.75,3,2,5,0,6,3,3,3,3,3,2,3,Universitas Indonesia,1,1,18.59103675,3.3,2,2
+3370,Indonesia,0,0,0,0,0,4.25,9,1,5,0,1,1,3,2,1,4,3,3,Universitas Indonesia,1,1,18.42653421,3.7,2,2
+4361,Indonesia,2,1,5,2,5,14.25,9.75,1,5,0,2,1,2,3,4,3,4,4,Universitas Indonesia,1,1,23.03004535,3.9,2,2
+4472,Indonesia,1,0,0,1,2.25,7.25,7.25,2,5,0,2,1,3,3,3,4,4,4,Universitas Indonesia,1,1,22.03856749,NA,2,2
+4000,Indonesia,3,3,4.25,2,3.25,9.25,5.75,2,5,0,4,4,1,1,5,4,4,5,Universitas Indonesia,1,2,32.11195241,3.9,2,2
+4533,Indonesia,0,0,0,0,0,5.25,8.75,1,5,0,3,6,3,3,4,1,4,5,Universitas Indonesia,1,2,23.80869017,3.4,2,2
+5105,Indonesia,3,4,1.75,5,1.75,2.25,7.5,1,5,0,1,1,1,3,4,3,4,4,Universitas Indonesia,1,1,19.06771066,3.6,2,2
+4321,Indonesia,2,0,0,0,0,4.25,3.75,1,5,0,2,3,4,4,3,4,5,5,Universitas Indonesia,1,1,18.28677973,3.9,2,2
+5115,Indonesia,0,0,0,0,0,14.25,7.75,1,5,0,7,7,3,1,3,3,3,3,Universitas Indonesia,1,1,19.53125,3.6,2,2
+3976,Indonesia,1,0,0,1,3,5.75,3.75,1,5,0,1,1,2,1,4,4,3,3,Universitas Indonesia,1,2,15.61472715,3.7,2,2
+5728,Indonesia,0,0,0,0,0,4.25,9.75,1,5,0,1,1,1,7,4,4,3,3,Unviersitas Airlangga,2,1,17.22480372,NA,2,2
+4299,Indonesia,0,0,0,0,0,14.25,7.25,1,5,0,3,8,1,3,4,3,2,5,Universitas Indonesia,1,2,34.06360931,3.7,2,2
+4883,Indonesia,2,0,0,1,3.25,11.25,4.75,1,3,0,5,4,2,1,2,4,2,3,Universitas Indonesia,1,2,24.16326531,3.7,2,2
+3103,Indonesia,3,2,4,2,2.75,4.25,2.75,1,5,0,1,2,3,6,4,4,3,4,Universitas Indonesia,1,1,16.49395819,3.8,2,2
+4033,Indonesia,7,2,1.25,0,0,10,9.75,1,5,0,1,1,3,4,5,4,5,5,Universitas Indonesia,1,2,22.49134948,3.7,2,2
+5574,Indonesia,0,0,0,0,0,14.25,7.75,1,5,0,1,1,3,2,4,3,3,4,Universitas Indonesia,1,2,NA,NA,2,2
+3489,Indonesia,4,0,0,0,0,6.25,7.5,1,5,0,1,1,6,5,3,4,1,3,Universitas Indonesia,1,2,23.14049587,3.5,2,2
+4408,Indonesia,0,0,0,1,5,7.25,8.75,1,5,0,1,1,8,1,4,2,2,2,Universitas Indonesia,1,1,17.36044134,3.9,2,1
+3917,Indonesia,0,0,0,0,0,3.25,4.75,1,5,0,1,2,2,1,5,3,3,4,Universitas Indonesia,1,2,21.30394858,3.7,2,2
+5006,Indonesia,2,0,0,0,0,8.25,10.5,1,5,0,4,5,4,4,4,5,4,3,Universitas Indonesia,1,1,20.28479857,3.5,2,2
+5331,Indonesia,7,0,0,0,4,9.25,2.75,1,5,0,3,4,1,2,4,3,3,2,Universitas Indonesia,1,1,17.89802289,3.4,2,2
+3785,Indonesia,2,0,0,0,0,6.25,9.5,1,5,0,2,2,3,3,4,3,3,3,Universitas Indonesia,1,2,26.7299275,3.3,2,2
+3571,Indonesia,5,0,0,5,4.75,14.25,5.5,1,2,0,8,7,3,8,4,4,4,4,Universitas Indonesia,3,2,33.59312013,3.3,2,1
+2538,Indonesia,4,4,2.25,4,2,7.25,10.5,1,5,0,1,6,1,6,3,2,2,3,Universitas Gadjah Mada,1,1,22.86236854,3.7,2,1
+3353,Indonesia,3,2,2.25,5,2.25,6,6.75,1,4,0,1,2,3,4,5,2,2,2,Universitas Indonesia,1,2,24.09297052,3.4,2,2
+2390,Indonesia,0,0,0,0,0,4.5,9,1,5,0,1,1,1,7,4,4,2,4,Universitas Gadjah Mada,2,2,20.61925365,3.8,2,2
+5861,Indonesia,3,0,0,3,3,6.25,5.25,2,5,0,2,3,2,4,3,4,3,3,Unviersitas Airlangga,1,1,27.76709812,3.8,2,2
+4893,Indonesia,1,1,4.25,1,5,7.25,6.75,1,5,0,2,2,2,2,2,2,2,2,Universitas Indonesia,1,1,22.64086462,3.3,2,1
+5786,Indonesia,4,4,1.5,0,0,3.25,7.75,2,5,0,1,2,2,3,3,4,3,3,Unviersitas Airlangga,1,2,24.24242424,3.6,2,2
+5838,Indonesia,0,0,0,7,2.25,4,7.75,1,5,0,8,2,3,1,4,3,3,3,Unviersitas Airlangga,1,1,16.88888889,4.0,2,2
+1620,Indonesia,4,0,0,7,3,6.25,8.25,1,5,0,2,2,3,4,4,3,3,2,Universitas Gadjah Mada,2,2,20.41522491,3.5,2,1
+4861,Indonesia,2,0,0,1,4.25,5.75,7.75,1,5,0,1,2,3,3,2,1,2,3,Universitas Indonesia,1,1,21.71925011,3.4,2,2
+1911,Indonesia,5,5,3.25,5,3.25,7.25,4.75,1,5,0,1,2,3,2,3,4,4,5,Universitas Gadjah Mada,1,1,28.398718,3.9,2,2
+3335,Indonesia,1,3,1.25,1,2.25,6.75,9.25,1,5,0,1,2,4,3,5,4,4,4,Universitas Indonesia,1,1,19.83471074,3.5,2,2
+4614,Indonesia,1,2,1.5,2,2,3.25,6.25,2,5,0,1,2,2,2,3,3,3,3,Universitas Indonesia,1,1,18.96192742,3.5,2,2
+2932,Indonesia,1,0,0,1,2,8,7.5,1,4,0,2,1,4,4,2,4,3,2,Universitas Indonesia,1,1,16.18427491,3.5,2,2
+3907,Indonesia,0,0,0,1,2,9.25,6.75,2,5,0,1,1,3,3,5,3,3,4,Universitas Indonesia,1,2,30.67932798,3.8,2,2
+1931,Indonesia,1,0,0,0,0,9.25,7.75,1,4,0,1,2,3,4,5,3,4,4,Universitas Gadjah Mada,1,2,18.06972789,4.7,2,2
+2590,Indonesia,4,0,0,2,2.25,9.25,9.75,1,5,0,1,2,1,5,4,5,4,4,Universitas Indonesia,1,1,20.91836735,3.8,2,2
+4535,Indonesia,5,1,2.25,1,1.75,2.5,6.25,1,4,0,4,4,2,2,4,4,4,4,Universitas Indonesia,1,2,29.05475207,3.5,2,1
+1898,Indonesia,3,3,3.75,3,2.25,3.25,10.75,1,5,0,2,2,1,3,3,4,3,4,Universitas Gadjah Mada,2,1,20.77562327,3.8,1,2
+2414,Indonesia,2,0,0,0,0,5.25,1.5,1,5,0,1,1,2,2,3,3,4,3,Universitas Gadjah Mada,1,1,19.53125,3.8,2,1
+2207,Indonesia,2,2,3.75,0,0,12.25,8.75,1,5,0,1,1,1,8,5,3,4,4,Universitas Gadjah Mada,1,2,17.578125,3.5,2,1
+5323,Indonesia,4,0,0,0,0,9.5,2.75,1,5,0,1,2,5,3,4,5,4,4,Universitas Indonesia,1,2,27.33564014,3.8,2,2
+2837,Indonesia,1,0,0,1,2,6.25,4.25,1,5,0,3,1,1,5,3,3,3,2,Universitas Indonesia,1,1,32.03125,3.6,2,2
+4018,Indonesia,1,1,2.5,1,3,6.25,9.25,1,3,0,2,4,4,5,3,2,4,5,Universitas Indonesia,1,2,19.84126984,3.2,2,2
+5184,Indonesia,2,1,2.25,1,2.25,6.25,7.25,2,4,0,2,2,3,3,3,4,4,4,Universitas Indonesia,1,1,24.14151925,3.2,2,2
+4372,Indonesia,0,1,3.25,1,3.25,7.25,2.75,1,5,0,2,2,1,2,4,4,3,4,Universitas Indonesia,1,2,20.76124567,3.8,2,2
+2832,Indonesia,0,0,0,0,0,11.25,8,1,5,0,1,1,1,1,2,2,3,3,Universitas Indonesia,1,1,17.26354454,3.8,2,2
+4170,Indonesia,1,0,0,5,2.25,3.75,1.75,1,5,6,2,2,2,6,2,4,2,3,Universitas Indonesia,1,1,33.203125,3.8,2,1
+4228,Indonesia,1,0,0,0,0,6.25,7.75,1,5,0,1,2,2,4,2,3,3,3,Universitas Indonesia,1,1,20.96436059,3.8,2,2
+3929,Indonesia,3,3,4.25,0,0,6.25,4.75,1,1,1,1,2,2,4,4,5,4,5,Universitas Indonesia,1,2,23.1206236,3.2,2,2
+2297,Indonesia,0,0,0,0,0,4,7.25,2,5,0,2,2,3,1,4,2,3,4,Universitas Gadjah Mada,1,1,19.57168128,3.4,2,1
+5013,Indonesia,1,0,0,0,0,11.25,6.25,1,5,0,1,1,3,2,4,4,4,4,Universitas Indonesia,1,1,24.44444444,3.8,2,2
+2319,Indonesia,1,0,0,0,0,4.25,5.25,2,5,0,1,1,3,3,4,4,3,3,Universitas Gadjah Mada,1,1,18.91806675,3.3,2,2
+2835,Indonesia,4,1,1,3,1.75,9.75,7.75,1,5,0,1,4,2,2,3,3,4,4,Universitas Indonesia,1,1,21.09375,3.6,2,2
+2857,Indonesia,3,2,3.25,2,2.25,5.75,2.75,1,5,0,2,2,6,3,3,4,3,3,Universitas Indonesia,1,2,31.1613739,3.5,2,2
+5871,Indonesia,2,0,0,0,0,3.25,7.75,2,5,0,2,2,2,2,4,2,2,3,Unviersitas Airlangga,1,1,22.75830678,3.4,2,2
+5539,Indonesia,0,0,0,0,0,9.75,2,1,5,0,1,1,2,1,4,5,4,4,Universitas Indonesia,1,1,NA,NA,2,2
+4540,Indonesia,1,0,0,2,2.25,4.25,8.75,1,5,0,8,4,2,4,3,2,3,2,Universitas Indonesia,1,1,21.09619051,3.6,2,2
+2323,Indonesia,0,0,0,0,0,3.25,5.75,2,5,0,2,1,1,6,4,4,4,4,Universitas Gadjah Mada,1,1,19.03114187,3.5,2,2
+5713,Indonesia,3,0,0,2,3.75,6.25,10.25,1,5,0,7,3,1,4,3,3,3,2,Unviersitas Airlangga,3,1,20.95717116,3.8,2,2
+2808,Indonesia,2,0,0,0,1.75,13.25,10.75,1,5,0,1,1,4,5,4,4,3,4,Universitas Indonesia,2,1,20.703125,3.6,1,2
+3717,Indonesia,1,0,0,0,0,15,8.75,1,5,0,3,2,2,1,4,4,4,4,Universitas Indonesia,1,1,15.625,3.1,2,2
+2384,Indonesia,3,0,0,0,0,3.25,8.25,1,5,0,1,1,3,3,2,4,3,3,Universitas Gadjah Mada,2,1,19.17457999,3.5,2,2
+5642,Indonesia,2,0,0,2,2.25,5.25,2.75,1,5,0,1,3,1,3,4,5,4,2,Universitas Indonesia,3,1,23.30905307,3.9,2,2
+2376,Indonesia,1,0,0,0,0,15,8.75,1,5,0,5,5,3,8,5,2,2,2,Universitas Gadjah Mada,2,2,18.55677322,3.8,2,2
+1829,Indonesia,0,0,0,0,0,9.25,4.75,1,5,0,3,3,3,3,3,4,2,3,Universitas Gadjah Mada,1,1,17.77777778,3.9,2,2
+2984,Indonesia,0,0,0,0,0,6.25,7.75,1,5,0,1,1,1,3,5,4,4,4,Universitas Indonesia,1,2,21.50188649,3.8,2,2
+5347,Indonesia,0,0,0,0,0,13.75,5.75,1,1,4,4,1,4,6,4,5,2,2,Universitas Indonesia,1,2,23.83673469,3.7,2,2
+5763,Indonesia,7,0,0,0,0,3.25,8.75,1,5,0,1,1,2,3,3,4,4,5,Unviersitas Airlangga,2,1,16.796875,NA,2,2
+5731,Indonesia,0,0,0,0,0,6.5,8.75,1,5,0,2,1,2,2,3,3,3,3,Unviersitas Airlangga,3,2,30.04081633,3.1,2,2
+5467,Indonesia,6,0,0,2,5,12.25,8.75,2,5,0,1,1,1,1,5,3,3,4,Universitas Indonesia,1,2,20.76124567,3.2,2,2
+3392,Indonesia,1,0,0,0,0,15.25,9.25,1,5,0,1,1,4,3,3,4,3,2,Universitas Indonesia,1,1,19.8791026,NA,2,2
+3076,Indonesia,1,0,0,0,0,4.25,5.75,1,5,0,3,4,1,1,3,4,3,2,Universitas Indonesia,1,1,23.12467037,3.5,2,2
+3931,Indonesia,3,1,3.25,0,0,2.25,9.75,1,5,0,2,1,3,1,2,4,5,4,Universitas Indonesia,1,2,21.07719523,3.4,2,1
+5020,Indonesia,3,0,0,4,4.25,7.5,9,1,3,0,1,2,2,3,4,1,3,4,Universitas Indonesia,1,2,25.35925613,3.7,2,2
+5202,Indonesia,0,0,0,0,0,6,9,2,5,0,1,1,5,3,4,4,3,2,Universitas Indonesia,1,2,0,3.6,2,2
+3147,Indonesia,1,0,0,1,4,13.25,3,1,5,0,1,1,4,4,3,4,3,4,Universitas Indonesia,1,1,25.23634033,3.6,2,2
+4027,Indonesia,0,0,0,0,0,15.25,6.75,1,4,0,3,1,2,3,3,3,4,3,Universitas Indonesia,1,2,19.48738275,3.7,2,2
+2478,Indonesia,3,3,2.5,2,3.75,3.75,10.25,1,5,0,2,5,2,2,5,3,3,3,Universitas Gadjah Mada,1,2,21.484375,3.8,2,2
+5744,Indonesia,2,2,2.75,0,0,7.25,9.75,2,5,0,2,5,1,4,4,4,4,3,Unviersitas Airlangga,1,2,19.37716263,NA,2,2
+2110,Indonesia,0,0,0,0,0,13.25,5.75,1,4,0,1,1,3,3,3,4,3,3,Universitas Gadjah Mada,2,1,18.36900337,3.7,2,2
+2249,Indonesia,2,2,3.75,0,0,3.25,3.75,1,1,2,5,3,3,4,2,5,3,1,Universitas Gadjah Mada,1,2,18.44254582,3.1,2,2
+5059,Indonesia,1,0,0,0,0,15.25,9.5,1,5,0,1,1,2,2,3,4,3,4,Universitas Indonesia,1,2,22.5981405,3.3,2,2
+5799,Indonesia,0,0,0,0,0,13.75,9.75,1,5,0,1,1,1,2,3,4,5,3,Unviersitas Airlangga,1,1,17.0392308,4.0,2,2
+5911,Indonesia,2,1,2.25,2,1.25,8.25,8.25,2,5,0,3,3,3,1,3,3,3,4,Unviersitas Airlangga,1,1,NA,3.9,2,2
+2094,Indonesia,3,3,4.25,2,3.25,11.25,2.75,1,5,0,4,3,1,2,4,2,4,2,Universitas Gadjah Mada,1,2,31.8877551,3.7,2,2
+4771,Indonesia,0,0,0,0,0,14.25,5.75,1,1,0,1,4,3,6,3,2,2,3,Universitas Indonesia,1,2,24.69040546,3.9,2,2
+2533,Indonesia,1,1,1.5,1,1.75,13.25,3.25,1,2,0,2,1,1,8,1,5,1,1,Universitas Gadjah Mada,1,2,16.42330317,3.6,2,2
+3131,Indonesia,3,0,0,0,0,3.25,7.25,1,5,0,4,1,3,3,3,5,4,4,Universitas Indonesia,1,1,21.09375,3.7,2,2
+5753,Indonesia,5,2,2.5,2,3,7.25,8.75,1,5,0,2,1,2,2,4,3,4,4,Unviersitas Airlangga,2,1,22.48132907,3.2,2,2
+2718,Indonesia,0,1,3.75,1,4.75,9.75,9.75,1,5,0,2,3,1,4,4,4,3,3,Universitas Indonesia,1,1,18.90203813,3.3,2,2
+4219,Indonesia,4,4,1.75,4,1.75,11.25,6,2,5,0,2,1,2,3,3,2,3,2,Universitas Indonesia,1,1,22.03856749,3.8,2,2
+5659,Indonesia,4,0,1.75,2,3,13.75,8.5,1,5,0,1,1,8,6,2,3,2,3,Universitas Indonesia,2,2,NA,NA,2,1
+3790,Indonesia,2,0,0,2,3,8,7.75,1,5,0,3,2,4,3,3,2,4,4,Universitas Indonesia,1,1,24.38652644,3.1,2,2
+5795,Indonesia,4,0,1.25,0,3.25,3,6.75,1,1,1,8,5,5,6,1,2,4,4,Unviersitas Airlangga,1,2,20.41522491,2.8,1,1
+3434,Indonesia,6,2,1.5,1,2,2.25,8.75,1,5,0,4,6,1,8,4,3,3,4,Universitas Indonesia,1,2,24.15881797,3.9,2,2
+2368,Indonesia,3,3,2.25,0,0,6.25,8.75,1,1,0,2,1,1,4,3,3,2,3,Universitas Gadjah Mada,2,2,27.04164413,3.7,2,1
+4227,Indonesia,2,0,0,3,2,7.25,8,1,5,0,1,2,3,8,4,4,3,2,Universitas Indonesia,1,2,16.60899654,3.6,2,2
+3442,Indonesia,3,0,0,0,0,7.75,10.75,1,5,0,2,3,4,2,2,4,3,2,Universitas Indonesia,1,1,17.36111111,3.3,2,2
+2358,Indonesia,2,0,0,0,0,3.25,4.75,1,5,0,1,3,1,6,3,3,4,3,Universitas Gadjah Mada,1,1,22.80601728,3.7,2,2
+1853,Indonesia,1,0,0,0,3.75,9.75,6.25,2,5,0,2,4,4,3,5,4,3,4,Universitas Gadjah Mada,1,1,17.4817898,3.6,2,2
+3229,Indonesia,4,0,0,4,2.25,12.25,9.75,1,5,0,1,1,3,4,4,4,4,4,Universitas Indonesia,1,2,25.9043101,3.6,2,2
+3608,Indonesia,3,1,4,0,0,5.5,7.75,1,5,0,3,2,2,1,3,2,4,2,Universitas Indonesia,1,1,23.4375,3.8,2,2
+5946,Indonesia,3,0,0,0,0,6.5,9.5,2,5,0,2,3,3,1,4,3,3,2,Unviersitas Airlangga,1,1,0,4.0,2,2
+1780,Indonesia,4,5,1.5,5,3,4.25,7.75,1,5,0,2,2,3,4,2,3,4,4,Universitas Gadjah Mada,1,2,27.77031264,3.6,2,2
+4301,Indonesia,2,2,1.5,2,2,7.25,8.75,1,5,0,6,3,1,1,3,4,5,4,Universitas Indonesia,1,1,21.484375,3.1,2,2
+3046,Indonesia,4,1,2.5,1,1.75,2.25,9.75,1,5,0,2,1,2,2,4,4,4,3,Universitas Indonesia,1,2,19.10009183,3.5,2,2
+3560,Indonesia,0,0,0,0,0,14.25,4.25,1,2,0,2,1,1,4,3,5,4,2,Universitas Indonesia,1,1,20.19557823,3.6,2,2
+6011,Indonesia,0,0,0,0,0,15.25,9.75,1,5,0,2,1,3,1,4,4,3,2,Unviersitas Airlangga,3,1,18.61149584,3.9,2,2
+2371,Indonesia,2,0,0,1,2.25,4.25,10.75,1,5,0,1,2,2,2,4,4,5,4,Universitas Gadjah Mada,1,1,27.05515088,3.2,2,2
+3071,Indonesia,4,3,2.25,1,3.25,11.25,10.5,1,5,0,4,2,4,7,4,4,4,4,Universitas Indonesia,1,2,22.22222222,3.4,2,1
+4378,Indonesia,0,0,0,0,0,5.25,4.75,1,5,0,1,1,2,1,4,4,4,4,Universitas Indonesia,1,1,16.52892562,3.2,2,2
+4184,Indonesia,2,0,0,0,0,8.25,10.75,1,5,0,1,1,3,2,4,3,4,4,Universitas Indonesia,1,2,17.99816345,3.8,2,2
+5826,Indonesia,3,0,0,0,0,9.25,7.75,1,5,0,2,3,3,2,4,3,3,2,Unviersitas Airlangga,1,1,19.72386588,3.8,2,2
+2687,Indonesia,3,1,3.5,2,4,4.25,7.75,1,5,0,1,1,3,5,4,4,4,4,Universitas Indonesia,3,1,21.35930625,3.5,2,2
+1807,Indonesia,1,2,2.25,0,0,7.75,8.5,1,5,0,1,1,1,8,4,2,4,3,Universitas Gadjah Mada,2,1,18.28989483,3.1,2,1
+4728,Indonesia,5,0,0,0,0,15.25,8.25,2,5,0,1,3,1,2,2,3,3,4,Universitas Indonesia,1,1,21.67125803,3.8,2,2
+5545,Indonesia,0,0,0,0,0,15.5,11.25,1,5,0,2,1,8,1,3,4,3,3,Universitas Indonesia,1,1,NA,NA,2,2
+4155,Indonesia,3,2,3.25,0,0,5.25,8.75,1,5,0,1,3,2,1,4,3,3,5,Universitas Indonesia,1,1,21.33821064,3.8,2,2
+3295,Indonesia,0,0,0,0,0,4.25,7.75,1,5,0,1,1,1,1,3,3,4,3,Universitas Indonesia,1,2,26.64359862,4.0,2,2
+4557,Indonesia,4,0,0,5,2.25,9.25,4.75,2,5,0,5,5,6,7,5,4,5,5,Universitas Indonesia,1,2,30.47796622,NA,2,2
+2138,Indonesia,2,1,3.25,3,3.25,2.25,8.75,1,5,0,3,4,2,2,4,3,3,4,Universitas Gadjah Mada,1,2,23.40750913,3.2,2,2
+3244,Indonesia,0,0,0,0,0,15.25,4.75,1,5,0,1,1,4,4,3,2,3,1,Universitas Indonesia,1,1,22.2136785,3.1,2,2
+4940,Indonesia,3,0,0,3,2.25,2.5,7.75,2,5,0,3,4,3,1,3,3,3,3,Universitas Indonesia,1,1,19.81405274,3.6,2,2
+4306,Indonesia,3,2,2.25,5,2.25,5.25,6.75,1,5,0,2,2,2,1,3,4,3,4,Universitas Indonesia,1,1,23.4375,4.0,2,2
+3007,Indonesia,1,0,0,0,0,3.25,2,1,5,0,1,3,1,4,4,4,4,3,Universitas Indonesia,1,1,19.13265306,3.6,2,2
+5252,Indonesia,0,0,0,0,0,12,10.5,1,5,0,2,1,1,3,3,4,3,3,Universitas Indonesia,1,2,33.203125,3.3,2,2
+4690,Indonesia,1,1,1.75,0,0,5.5,8.75,1,5,0,2,8,4,3,3,4,3,3,Universitas Indonesia,1,2,26.54320988,3.4,2,2
+3678,Indonesia,0,0,0,0,0,4.75,4.25,1,5,0,1,1,1,1,1,1,1,1,Universitas Indonesia,1,2,17.85651763,3.7,2,1
+3052,Indonesia,1,0,0,0,0,4.25,3.75,2,5,0,1,1,3,2,4,4,4,4,Universitas Indonesia,1,1,20.504934,3.8,2,1
+2518,Indonesia,0,0,0,0,0,5.25,3,2,5,0,1,3,1,1,3,3,4,4,Universitas Gadjah Mada,1,1,23.42236836,3.9,2,2
+4656,Indonesia,1,0,0,0,0,3.75,6.75,1,5,0,3,3,2,3,3,1,1,3,Universitas Indonesia,1,1,18.44254582,3.5,2,2
+5421,Indonesia,7,0,0,0,0,8.25,11,2,5,0,3,8,1,1,3,5,5,4,Universitas Indonesia,1,2,29.38475666,3.7,2,2
+3439,Indonesia,2,0,0,3,2.25,8,6.5,1,5,0,2,2,3,3,4,4,4,5,Universitas Indonesia,1,1,19.81784449,3.7,2,2
+4758,Indonesia,2,0,0,0,2.25,12.25,1.5,1,4,0,2,8,3,1,2,2,3,2,Universitas Indonesia,1,1,NA,NA,2,2
+4825,Indonesia,1,1,3.25,1,2,4.75,5.5,1,5,0,1,1,4,4,4,5,4,3,Universitas Indonesia,1,1,27.00513097,3.6,2,2
+3968,Indonesia,0,3,2.25,0,0,6.25,5.25,2,5,0,1,5,1,2,3,3,3,2,Universitas Indonesia,1,1,24.00548697,3.8,2,2
+2885,Indonesia,2,0,0,0,0,13.75,8.75,1,5,0,1,2,1,1,3,4,3,4,Universitas Indonesia,1,1,18.90359168,3.8,2,2
+3437,Indonesia,1,1,3.25,1,3.25,7.25,3.75,2,5,0,1,1,4,3,2,4,1,1,Universitas Indonesia,1,1,20.3125,3.7,2,2
+3876,Indonesia,0,0,0,0,0,6.25,10,1,5,0,1,1,2,3,4,4,4,3,Universitas Indonesia,1,2,16.32653061,3.7,2,2
+4399,Indonesia,2,0,0,6,5,3.5,0.5,1,5,0,2,2,2,6,1,4,3,4,Universitas Indonesia,1,2,20.06920415,3.8,2,2
+1947,Indonesia,3,0,0,0,0,5.25,10.75,1,5,0,3,4,2,4,3,4,3,4,Universitas Gadjah Mada,1,1,19.46740129,3.4,2,2
+1668,Indonesia,1,0,0,3,4.75,3.25,9.75,1,5,0,3,1,1,2,4,1,4,3,Universitas Gadjah Mada,1,1,19.11111111,3.7,2,1
+5594,Indonesia,1,3,2.75,3,1.75,7.25,6.25,1,2,0,1,1,6,6,3,3,1,1,Universitas Indonesia,1,1,28.72008325,3.4,2,1
+4686,Indonesia,1,0,0,0,0,6.25,4.25,1,5,0,1,1,3,1,3,2,4,4,Universitas Indonesia,1,1,23.23345618,3.6,2,2
+5078,Indonesia,0,0,0,0,0,12,7.75,1,5,0,2,1,2,2,5,4,4,4,Universitas Indonesia,1,1,22.65625,3.4,2,2
+3896,Indonesia,1,0,0,1,2.75,15.25,6.75,1,5,0,1,1,7,1,1,3,1,3,Universitas Indonesia,1,1,24.609375,3.7,2,2
+2286,Indonesia,3,0,0,0,0,7.25,8.75,1,5,0,2,1,3,2,4,4,3,3,Universitas Gadjah Mada,2,1,17.25838264,3.8,2,2
+5049,Indonesia,1,0,0,0,0,9.25,5.75,1,5,0,1,1,1,6,4,3,4,4,Universitas Indonesia,1,1,20.07774787,3.6,2,2
+2767,Indonesia,0,0,0,0,3.25,9.25,7.75,1,4,0,1,2,1,2,4,5,3,3,Universitas Indonesia,3,2,26.2345679,3.1,2,2
+5155,Indonesia,0,0,0,0,0,13.25,7.75,2,5,0,7,3,4,3,4,1,2,2,Universitas Indonesia,1,1,20.06095444,3.7,2,2
+3944,Indonesia,0,0,0,1,4.25,10,7,1,5,0,6,4,2,2,2,3,3,3,Universitas Indonesia,1,1,19.47340663,3.5,2,2
+2326,Indonesia,1,0,0,0,0,2.25,8,1,5,0,1,1,3,2,3,3,4,4,Universitas Gadjah Mada,2,1,19.53125,3.8,2,2
+4838,Indonesia,2,2,3.25,1,2.25,4.25,7.75,1,5,0,1,1,1,2,3,4,2,3,Universitas Indonesia,1,1,20.70081674,3.6,2,2
+3551,Indonesia,0,0,0,0,0,11.25,4.75,1,5,0,2,1,4,4,2,3,3,3,Universitas Indonesia,1,1,29.82325337,3.8,2,2
+4652,Indonesia,2,0,4,1,3.75,7,2.25,1,1,0,8,8,3,3,5,5,5,5,Universitas Indonesia,1,2,17.35891933,3.3,2,1
+4422,Indonesia,2,0,0,1,3.75,4.25,3,1,5,0,1,1,2,4,5,5,5,5,Universitas Indonesia,1,2,19.03114187,3.5,2,1
+5391,Indonesia,2,0,0,0,0,9.25,3,1,5,0,1,1,1,4,4,4,4,2,Universitas Indonesia,1,2,20.0617284,3.5,2,2
+1874,Indonesia,2,0,0,0,0,14.75,6.25,2,5,0,2,2,6,3,5,3,4,4,Universitas Gadjah Mada,1,1,23.7332384,3.6,2,2
+2785,Indonesia,0,0,0,0,0,15.75,7.75,1,5,0,1,1,2,8,3,5,3,2,Universitas Indonesia,2,1,23.42355741,3.9,2,2
+2532,Indonesia,3,3,2,3,3.25,6.25,4.75,1,5,0,3,2,4,2,5,2,4,4,Universitas Gadjah Mada,1,1,18.75,3.8,2,2
+4897,Indonesia,1,0,0,0,0,8.75,5.5,1,5,0,2,2,3,4,3,4,4,4,Universitas Indonesia,1,2,28.68514468,3.5,2,2
+4917,Indonesia,2,0,0,7,2,6.25,6.25,1,3,0,3,3,1,4,3,3,3,4,Universitas Indonesia,1,2,22.30814991,3.4,2,2
+2438,Indonesia,0,0,0,0,0,14.25,9.75,1,5,0,1,1,1,2,2,2,3,4,Universitas Gadjah Mada,1,1,27.09925101,3.8,1,2
+5658,Indonesia,4,0,0,1,2.25,13.25,5.75,2,5,1,3,6,8,6,3,4,4,3,Universitas Indonesia,5,1,NA,NA,1,2
+5812,Indonesia,0,0,0,0,5,8,8.5,1,5,0,1,2,3,3,3,4,3,4,Unviersitas Airlangga,1,1,19.46740129,4.0,2,2
+4169,Indonesia,1,0,0,7,1.75,9.75,8,1,5,0,2,3,2,2,3,5,3,2,Universitas Indonesia,1,1,15.81685744,3.3,2,1
+4111,Indonesia,0,0,0,0,0,13.25,9.75,2,5,0,1,3,4,6,3,4,3,3,Universitas Indonesia,1,2,31.14186851,3.7,2,2
+4069,Indonesia,0,0,0,0,0,4.25,8.25,1,5,0,2,6,1,4,4,5,4,3,Universitas Indonesia,1,1,16.93703188,3.6,2,2
+3498,Indonesia,3,2,4.25,2,2.25,6,9.25,1,5,0,3,2,3,3,4,4,4,5,Universitas Indonesia,1,2,20.54988662,4.0,2,2
+2736,Indonesia,1,1,3.25,1,3.25,6.25,11.25,1,5,0,1,1,2,3,3,4,3,3,Universitas Indonesia,1,1,18.28989483,3.5,2,2
+2905,Indonesia,1,0,0,0,0,14.75,7.75,1,5,0,5,1,4,7,5,3,4,4,Universitas Indonesia,1,1,19.67516685,3.8,2,2
+3191,Indonesia,0,0,0,1,2.25,6,7.75,2,5,0,2,1,2,1,3,5,4,3,Universitas Indonesia,1,2,16.796875,3.7,2,2
+3337,Indonesia,0,0,0,0,0,4.25,9,1,5,0,2,3,2,2,2,4,3,2,Universitas Indonesia,1,1,20,3.9,2,2
+1746,Indonesia,2,0,0,0,0,14.75,8.75,1,5,0,2,3,2,1,4,4,4,3,Universitas Gadjah Mada,2,2,18.77834467,3.4,1,2
+5448,Indonesia,7,0,0,6,4.25,4.25,8.75,1,4,0,1,2,1,4,4,4,4,4,Universitas Indonesia,1,2,22.23098713,3.8,2,1
+4256,Indonesia,2,0,0,0,0,9.25,11.25,1,5,0,2,2,3,2,4,4,2,3,Universitas Indonesia,1,1,16.23309053,3.6,2,2
+2588,Indonesia,1,2,3.25,1,2.25,11.25,4.75,1,5,0,1,1,3,2,3,4,3,4,Universitas Indonesia,3,2,21.75546853,3.1,2,2
+5060,Indonesia,2,1,3.25,1,4.25,3.25,9.75,1,5,0,7,7,3,3,4,4,4,5,Universitas Indonesia,1,1,17.63085399,3.4,2,2
+2570,Indonesia,1,1,4,1,2.75,5.25,7.25,1,3,0,3,3,1,1,4,3,4,5,Universitas Gadjah Mada,3,2,29.6875,3.8,2,2
+4607,Indonesia,1,0,0,0,0,1.25,6.75,1,5,0,1,1,1,2,4,4,4,3,Universitas Indonesia,1,2,19.59183673,3.8,2,2
+5501,Indonesia,2,2,2.75,2,2,3.25,7.75,1,5,0,4,3,2,1,5,4,5,5,Universitas Indonesia,1,1,33.05785124,3.5,2,1
+4163,Indonesia,2,1,2,2,2.75,13.25,7.25,1,5,0,1,1,2,1,5,4,4,5,Universitas Indonesia,1,1,18.97453196,3.7,2,2
+5387,Indonesia,0,0,0,0,0,10.25,2.5,2,1,0,2,2,1,4,3,3,1,3,Universitas Indonesia,1,2,16.89623508,3.4,2,2
+1659,Indonesia,1,0,0,0,0,6.75,9.25,1,5,0,1,2,2,2,5,4,3,2,Universitas Gadjah Mada,1,1,19.22337562,3.6,1,2
+4941,Indonesia,1,2,1.75,0,0,9.25,8.25,1,5,0,3,2,2,1,3,3,3,3,Universitas Indonesia,1,2,16.8525225,3.6,2,2
+5740,Indonesia,0,0,0,0,0,6,3.75,1,5,0,1,2,1,1,4,4,4,3,Unviersitas Airlangga,3,1,33.203125,3.8,2,2
+3188,Indonesia,0,0,0,0,0,14.25,4.75,1,5,0,1,2,4,3,4,1,3,4,Universitas Indonesia,1,1,25.390625,3.3,2,2
+5600,Indonesia,1,0,0,0,0,14.25,7.75,1,5,1,1,1,3,6,4,2,3,3,Universitas Indonesia,1,1,NA,NA,1,1
+5629,Indonesia,2,0,0,2,4.25,5.25,7.75,1,5,0,1,2,4,2,4,4,3,4,Universitas Indonesia,1,1,NA,NA,1,2
+3675,Indonesia,3,5,2.75,2,3.75,9.25,0.5,1,5,0,3,3,2,2,4,4,4,4,Universitas Indonesia,1,1,18.359375,3.8,2,2
+5890,Indonesia,2,0,0,0,0,9.25,7.75,1,5,0,2,2,3,2,3,4,3,4,Unviersitas Airlangga,1,1,18.359375,4.0,2,1
+1946,Indonesia,3,1,2.75,2,2.75,4,7.75,2,5,0,3,4,2,8,4,4,3,4,Universitas Gadjah Mada,1,1,22.89281998,3.5,2,2
+3681,Indonesia,1,0,0,1,3,8,6.25,1,5,0,1,2,4,3,4,4,4,4,Universitas Indonesia,1,1,19.31295201,3.8,2,2
+3329,Indonesia,3,3,2.25,7,2.25,6.25,5.75,1,5,0,2,2,8,5,3,4,3,4,Universitas Indonesia,1,2,21.97133586,3.7,2,2
+2972,Indonesia,0,0,0,0,0,9.25,10.75,1,5,0,1,3,4,1,3,2,3,4,Universitas Indonesia,1,1,23.23345618,3.8,2,2
+4849,Indonesia,1,1,3.25,2,2.75,3.75,8.25,2,5,0,2,2,2,3,3,1,3,3,Universitas Indonesia,1,1,20.2020202,3.9,2,2
+1905,Indonesia,1,1,2.25,2,3,9.75,10.25,1,5,0,1,4,1,1,5,4,3,4,Universitas Gadjah Mada,1,2,20.19557823,3.8,2,2
+3557,Indonesia,1,0,0,0,0,3.75,10.25,1,3,0,2,1,5,2,4,4,4,4,Universitas Indonesia,1,2,21.71806609,3.6,2,2
+2575,Indonesia,0,0,0,3,3,12.25,7.5,1,1,0,1,1,8,6,4,3,4,5,Universitas Gadjah Mada,1,1,NA,NA,1,2
+3133,Indonesia,1,0,0,0,0,10,8.25,2,2,2,2,6,7,2,2,1,5,3,Universitas Indonesia,1,1,NA,3.9,2,1
+2595,Indonesia,2,0,0,2,2.75,6.25,7.25,1,4,0,1,1,1,3,3,2,4,3,Universitas Indonesia,4,2,30.47796622,3.4,2,2
+1791,Indonesia,3,0,0,0,0,1.25,2.75,1,5,0,2,1,2,2,4,3,4,3,Universitas Gadjah Mada,2,1,19.53125,3.7,2,2
+2167,Indonesia,0,0,0,1,2.75,9.5,8,1,5,0,1,2,2,8,3,3,4,3,Universitas Gadjah Mada,1,1,17.4817898,3.8,2,2
+4051,Indonesia,0,0,0,0,0,9.75,6.25,2,5,0,1,8,6,4,5,3,2,4,Universitas Indonesia,1,1,20.44674202,3.1,2,2
+4058,Indonesia,1,3,2.5,2,1.75,4.25,8.25,1,5,0,2,4,2,1,4,4,4,4,Universitas Indonesia,1,1,20.81165453,3.1,2,2
+3479,Indonesia,3,0,0,4,2,10.75,8.75,1,4,0,1,2,1,7,4,5,3,2,Universitas Indonesia,1,2,20.2812331,3.1,2,2
+5281,Indonesia,2,2,1.5,3,1.75,6.25,7.25,1,5,0,5,8,1,2,3,3,3,4,Universitas Indonesia,1,1,19.22337562,3.1,2,2
+2303,Indonesia,1,2,3.25,1,2.25,9.75,8.5,1,5,0,3,6,3,4,4,4,4,4,Universitas Gadjah Mada,2,2,23.80869017,3.8,2,2
+4311,Indonesia,4,0,0,4,1.75,8.25,7.75,1,2,0,5,4,4,2,4,5,4,5,Universitas Indonesia,1,1,34.72088268,3.6,2,2
+5300,Indonesia,0,0,0,0,0,10,6.75,1,5,0,1,1,5,1,3,2,3,3,Universitas Indonesia,1,1,24.45606342,3.6,2,2
+2924,Indonesia,1,1,2.75,3,2,4.25,9.25,2,5,0,1,1,2,3,3,4,4,3,Universitas Indonesia,1,2,27.39817568,3.2,2,2
+2993,Indonesia,2,2,3.25,1,3.25,9.25,10,1,5,0,2,2,3,5,4,4,4,4,Universitas Indonesia,1,1,20.76124567,3.6,2,2
+3686,Indonesia,0,0,0,0,0,7.25,9,1,5,0,2,1,7,3,4,5,3,2,Universitas Indonesia,1,2,24.21875,3.6,2,2
+5204,Indonesia,2,2,2.25,2,2.25,6.25,11,1,4,0,2,2,6,6,4,4,3,4,Universitas Indonesia,1,2,24.48979592,NA,2,2
+4620,Indonesia,3,0,0,0,0,3.75,7.5,1,5,0,2,2,2,2,4,4,4,4,Universitas Indonesia,1,1,23.14049587,3.5,2,2
+3990,Indonesia,0,7,2.25,0,0,13.25,8.5,2,5,0,1,1,1,1,1,1,3,3,Universitas Indonesia,1,2,23.53036634,3.8,2,2
+5131,Indonesia,0,0,0,0,0,11.25,7.75,1,5,0,3,1,2,2,3,3,3,2,Universitas Indonesia,1,1,25.224089,3.5,2,2
+2034,Indonesia,4,0,0,0,0,12.25,8.75,1,5,0,1,3,5,2,5,2,3,4,Universitas Gadjah Mada,2,1,16.64932362,3.6,2,2
+3174,Indonesia,0,0,0,0,0,15.25,3.25,1,5,0,1,2,2,2,1,4,3,2,Universitas Indonesia,1,2,21.23057202,3.7,2,1
+5961,Indonesia,4,0,0,4,3,4.25,5.75,1,5,0,3,3,5,8,5,4,4,4,Unviersitas Airlangga,3,1,20.95717116,3.3,2,2
+2039,Indonesia,0,0,0,0,0,15.75,7.25,1,4,0,1,1,1,3,4,3,3,3,Universitas Gadjah Mada,2,1,27.76709812,3.7,2,2
+5403,Indonesia,1,0,0,0,0,11.25,4.25,1,5,0,1,1,3,3,2,3,3,2,Universitas Indonesia,1,1,20.23950076,4.0,2,2
+3396,Indonesia,0,2,1.5,1,2,11.25,8.75,1,5,0,4,3,3,2,3,3,3,3,Universitas Indonesia,1,1,22.31327843,3.5,2,2
+4807,Indonesia,0,1,1.75,1,2.75,7.25,4.75,2,5,0,2,1,4,6,4,5,3,3,Universitas Indonesia,1,2,19.53125,3.6,2,2
+2865,Indonesia,1,1,2.5,0,0,15.25,7.75,1,5,0,2,3,1,8,3,5,4,3,Universitas Indonesia,1,2,19.13580247,3.5,2,2
+4338,Indonesia,0,0,0,0,0,7.25,8.75,1,5,0,1,1,7,3,4,3,4,2,Universitas Indonesia,1,2,24.21875,3.6,2,2
+2598,Indonesia,0,0,1.25,0,0,9.25,8.75,1,5,0,1,2,1,3,4,3,4,4,Universitas Indonesia,1,2,21.4532872,3.2,2,1
+5978,Indonesia,1,0,0,0,0,13.25,5.75,1,5,0,2,1,3,6,4,4,3,3,Unviersitas Airlangga,2,1,17.40437483,3.6,2,2
+4154,Indonesia,0,0,0,0,0,15.25,7.75,2,5,0,8,8,3,8,2,3,3,3,Universitas Indonesia,1,1,18.66666667,3.3,2,2
+1615,Indonesia,1,0,0,2,5,14,7.25,1,5,0,3,5,3,2,5,3,4,2,Universitas Gadjah Mada,2,2,19.94805977,3.2,2,2
+5212,Indonesia,0,0,0,0,0,9.75,8,1,5,0,1,1,8,4,3,3,3,2,Universitas Indonesia,1,1,16.796875,3.2,2,2
+2781,Indonesia,0,0,0,0,0,15.25,8,1,5,0,1,1,1,2,4,4,4,2,Universitas Indonesia,2,1,20.28479857,3.5,2,2
+2638,Indonesia,1,0,0,0,0,11.25,9.75,1,5,0,2,2,1,7,3,2,3,3,Universitas Indonesia,1,1,0,3.8,2,2
+1880,Indonesia,4,0,0,0,0,14.25,5.75,2,5,0,1,1,1,2,3,3,3,3,Universitas Gadjah Mada,1,1,17.4817898,3.6,2,2
+4144,Indonesia,1,0,0,1,2,9,8,1,5,0,3,3,2,2,4,4,3,4,Universitas Indonesia,1,2,32.19517958,3.4,2,2
+5057,Indonesia,0,0,0,0,0,14.25,8.5,2,5,0,1,3,1,1,2,3,2,4,Universitas Indonesia,1,2,19.10009183,3.8,2,2
+2592,Indonesia,2,1,4.25,0,1.25,9.25,6.75,1,5,0,2,3,4,3,3,4,2,2,Universitas Indonesia,1,2,18.40134298,3.1,2,1
+3391,Indonesia,2,0,0,0,0,13.25,10.75,1,5,0,1,1,3,3,2,3,2,2,Universitas Indonesia,1,1,23.046875,3.6,2,1
+2920,Indonesia,1,0,0,0,0,7.25,8.5,1,5,0,1,2,4,4,3,4,3,4,Universitas Indonesia,1,1,25.77777778,3.7,2,2
+1985,Indonesia,5,0,0,3,3.25,2.75,7.75,1,5,0,1,3,4,2,5,3,4,4,Universitas Gadjah Mada,2,2,21.2585034,3.4,2,2
+4215,Indonesia,0,0,0,0,0,7.25,2.75,2,5,0,1,1,2,7,4,2,2,3,Universitas Indonesia,1,1,20.57613169,3.7,2,2
+2197,Indonesia,1,1,1.5,5,2.75,11.25,10.75,1,5,0,3,2,4,6,2,2,2,2,Universitas Gadjah Mada,1,1,29.96878252,3.9,2,2
+4767,Indonesia,1,2,2.75,2,2.75,2.75,2.75,1,5,0,8,3,4,1,4,2,3,4,Universitas Indonesia,1,2,25.71166208,3.2,2,2
+2052,Indonesia,0,0,0,0,0,6.25,7.75,2,5,0,1,1,1,3,3,3,4,4,Universitas Gadjah Mada,1,1,15.7943067,3.5,2,1
+2322,Indonesia,1,0,0,1,2.75,6.25,6,1,5,0,4,2,2,2,3,4,3,2,Universitas Gadjah Mada,1,1,16.64932362,3.5,2,2
+5562,Indonesia,0,0,0,0,0,9.25,2.5,1,5,0,1,3,3,2,2,2,3,3,Universitas Indonesia,1,2,NA,NA,1,2
+4484,Indonesia,1,0,0,0,0,14.25,2.75,1,5,0,1,3,3,8,3,4,3,3,Universitas Indonesia,1,1,17.21108681,3.3,2,2
+5566,Indonesia,0,0,0,0,0,14.25,6.75,2,5,0,2,2,3,6,3,4,3,3,Universitas Indonesia,1,2,NA,NA,2,2
+3409,Indonesia,1,0,0,0,0,3.5,7.75,1,5,0,1,1,6,1,4,2,4,3,Universitas Indonesia,1,1,15.24157903,3.7,2,2
+2480,Indonesia,2,0,0,0,0,6.25,9.75,1,3,0,2,2,4,3,4,5,4,4,Universitas Gadjah Mada,2,2,20.52892163,3.3,2,2
+3864,Indonesia,0,0,4.75,0,0,6.25,9.75,1,5,0,1,1,3,8,3,2,4,3,Universitas Indonesia,1,2,29.64951156,3.5,2,2
+1961,Indonesia,0,0,0,1,3,3.75,8.75,1,4,0,4,5,3,2,5,5,5,5,Universitas Gadjah Mada,1,2,19.03114187,3.2,2,2
+5854,Indonesia,1,0,0,0,0,3.25,8.75,2,5,0,2,2,4,2,3,4,3,2,Unviersitas Airlangga,1,1,18.66666667,4.0,2,2
+5299,Indonesia,0,2,2.75,2,3.25,4.25,7,1,5,0,1,1,1,1,3,3,3,3,Universitas Indonesia,1,2,17.78324955,3.2,2,1
+5058,Indonesia,0,0,0,0,0,4.25,6.25,1,5,0,1,1,2,2,5,3,3,4,Universitas Indonesia,1,1,17.74584488,3.7,2,2
+1819,Indonesia,0,0,0,0,0,15.25,10.75,1,5,0,1,2,1,1,4,4,4,4,Universitas Gadjah Mada,2,1,17.77777778,3.5,2,2
+4933,Indonesia,3,0,0,0,0,12.5,6.75,1,5,0,1,2,3,2,5,5,3,5,Universitas Indonesia,1,1,20.02884153,3.2,2,2
+2331,Indonesia,2,0,0,0,0,14.75,5.25,2,5,0,1,1,2,4,4,4,4,5,Universitas Gadjah Mada,1,1,17.74584488,3.6,2,2
+5069,Indonesia,1,0,0,1,2,10,8.25,1,5,0,2,1,2,3,3,4,4,4,Universitas Indonesia,1,1,19.921875,3.8,2,2
+5579,Indonesia,0,0,0,0,0,5.75,8,1,5,0,1,6,4,3,2,5,3,3,Universitas Indonesia,1,2,NA,NA,2,2
+2709,Indonesia,0,0,0,0,0,9.25,6.75,1,5,0,1,1,1,2,3,4,2,2,Universitas Indonesia,4,2,20.44913742,3.5,2,2
+5630,Indonesia,2,2,2.25,2,3.25,2.75,4.75,2,5,0,1,1,3,6,4,4,3,3,Universitas Indonesia,1,1,NA,NA,1,1
+2945,Indonesia,0,0,0,0,0,15.25,8,2,5,0,2,3,3,2,2,4,3,2,Universitas Indonesia,1,1,21.8299522,NA,2,2
+5686,Indonesia,2,0,0,2,1.75,12.25,2.75,3,5,0,2,2,1,1,2,4,3,3,Universitas Indonesia,1,1,NA,NA,2,2
+5276,Indonesia,1,3,3.75,2,2.75,4,2,1,5,2,1,3,3,3,2,1,1,5,Universitas Indonesia,1,1,21.2585034,NA,2,2
+3240,Indonesia,3,3,2.25,3,2.75,2.75,6.25,1,5,0,2,2,4,4,4,4,4,4,Universitas Indonesia,1,2,19.10009183,3.5,2,2
+2454,Indonesia,0,0,0,0,0,7.25,5.75,1,5,0,1,1,2,1,4,4,3,4,Universitas Gadjah Mada,1,1,20.23950076,3.6,2,2
+4364,Indonesia,0,2,3.75,2,4.75,8.25,6.25,2,5,0,1,2,3,3,4,4,4,4,Universitas Indonesia,1,2,23.38868656,3.6,2,2
+1989,Indonesia,1,0,0,0,0,6.25,6.75,1,5,0,1,2,4,2,3,4,3,3,Universitas Gadjah Mada,2,1,23.58832922,3.9,2,2
+2245,Indonesia,3,1,3,1,4,8,5.5,1,5,0,1,2,1,2,4,3,4,4,Universitas Gadjah Mada,1,1,21.35991456,3.9,2,2
+3521,Indonesia,0,0,0,0,0,6.25,3.75,1,5,0,2,1,4,4,2,3,2,4,Universitas Indonesia,1,1,15.24390244,3.4,2,2
+1726,Indonesia,3,0,0,0,0,7.75,4.75,1,5,0,1,2,1,6,5,3,4,3,Universitas Gadjah Mada,2,1,20.3125,4.0,2,2
+4642,Indonesia,1,0,0,0,0,11.25,11.25,1,5,0,2,8,2,2,2,1,2,3,Universitas Indonesia,1,1,27.54820937,3.6,2,2
+2866,Indonesia,0,2,3.75,5,2.75,6.25,6.5,1,5,0,1,4,3,2,4,3,3,4,Universitas Indonesia,1,1,19.6282647,3.7,2,1
+5093,Indonesia,2,0,0,0,0,4.5,5,1,5,0,2,2,3,3,2,2,2,2,Universitas Indonesia,1,1,27.34375,3.6,2,2
+2541,Indonesia,0,0,0,0,0,11.25,7.25,1,5,0,5,3,3,1,4,2,2,4,Universitas Gadjah Mada,1,1,17.68978885,NA,1,2
+2237,Indonesia,4,4,3.25,2,3.25,9.25,7.75,1,4,0,3,4,1,3,3,4,4,5,Universitas Gadjah Mada,1,2,21.14631991,3.9,2,1
+2772,Indonesia,1,0,0,0,0,11.25,3,1,5,0,1,2,2,8,5,4,4,4,Universitas Indonesia,1,2,21.97133586,3.3,2,2
+3459,Indonesia,1,0,0,0,0,4.25,6.75,1,5,0,3,4,5,4,3,3,3,3,Universitas Indonesia,1,1,18.75,3.2,2,2
+5726,Indonesia,0,0,0,0,0,8.25,10.5,1,5,0,4,8,1,3,2,3,3,1,Unviersitas Airlangga,2,1,26.29848784,3.1,2,2
+3436,Indonesia,3,0,0,0,0,8,9.5,1,5,0,2,3,5,3,4,5,4,4,Universitas Indonesia,1,2,26.64359862,3.5,2,2
+5541,Indonesia,0,0,0,5,2,13.25,10.75,2,4,0,1,1,8,6,4,4,4,4,Universitas Indonesia,1,2,NA,NA,2,1
+5844,Indonesia,2,0,0,0,0,14.75,7.75,2,5,0,1,1,2,6,3,2,3,3,Unviersitas Airlangga,1,1,19.81892708,3.7,2,2
+3782,Indonesia,2,0,0,0,0,9.25,6.75,1,5,0,3,3,1,3,3,3,3,3,Universitas Indonesia,1,1,17.578125,3.6,2,2
+1795,Indonesia,3,0,0,3,1.25,9.25,8.25,1,5,0,1,3,3,4,5,4,4,4,Universitas Gadjah Mada,2,1,19.94805977,3.4,2,2
+2663,Indonesia,4,3,3,2,3,9.25,7.75,1,3,0,3,3,1,2,4,4,3,3,Universitas Indonesia,1,2,20.9572742,3.7,2,2
+3753,Indonesia,0,1,2.5,0,0,11.25,4.75,1,5,0,4,7,3,3,2,2,3,4,Universitas Indonesia,1,2,24.11150746,3.2,2,1
+3881,Indonesia,7,1,3,4,1.75,6.25,9.5,1,5,0,3,1,2,2,4,3,4,3,Universitas Indonesia,1,2,21.88707637,3.7,2,2
+5199,Indonesia,7,0,0,6,4.25,7,11.5,1,4,1,1,6,3,6,2,2,2,4,Universitas Indonesia,1,2,24.22145329,NA,1,2
+5271,Indonesia,3,3,2,2,1.75,4.25,7.75,2,5,0,2,2,2,5,3,4,4,3,Universitas Indonesia,1,1,18.59103675,3.7,2,2
+5296,Indonesia,3,2,2,1,2,2,9.75,1,5,0,2,1,2,2,4,3,3,3,Universitas Indonesia,1,2,24.48979592,3.5,2,2
+5145,Indonesia,1,0,0,0,0,9.75,9,1,5,0,2,4,3,2,3,5,4,4,Universitas Indonesia,1,1,0,3.2,2,2
+4160,Indonesia,0,0,0,0,0,9.25,5.75,1,4,0,1,1,7,4,3,3,3,3,Universitas Indonesia,1,1,16.52892562,3.6,2,1
+3936,Indonesia,2,2,2.5,0,3,5.75,7.25,1,1,7,4,8,1,1,3,5,3,3,Universitas Indonesia,1,2,23.52941176,3.5,2,1
+2797,Indonesia,1,0,0,0,0,12.25,7.25,2,4,0,1,1,3,3,4,5,3,4,Universitas Indonesia,1,2,21.3577956,3.2,2,2
+2995,Indonesia,2,0,0,1,2,10.25,5.75,1,5,0,2,3,1,1,3,2,4,3,Universitas Indonesia,1,1,NA,NA,2,2
+5135,Indonesia,2,2,3.25,1,1.25,15.75,2.75,2,5,0,1,2,5,5,1,1,2,1,Universitas Indonesia,1,1,28.25096981,3.7,2,2
+4037,Indonesia,2,1,2.25,1,2.25,3.25,9.75,1,5,0,2,2,2,2,4,4,4,4,Universitas Indonesia,1,1,19.57168128,3.4,2,2
+4353,Indonesia,5,0,0,1,4.25,9.25,6.75,2,5,0,1,3,4,5,3,4,3,3,Universitas Indonesia,1,1,17.26354454,3.7,2,2
+2269,Indonesia,0,0,0,2,3,10.25,4.75,1,5,0,2,1,3,4,3,4,3,4,Universitas Gadjah Mada,1,1,22.22222222,3.7,2,2
+2509,Indonesia,2,2,5,2,5,15.25,6.25,1,5,0,2,1,3,1,4,4,3,5,Universitas Gadjah Mada,1,1,20.88888889,3.6,2,2
+4029,Indonesia,3,0,0,3,3,1.5,6.75,1,5,0,1,1,1,3,4,3,3,3,Universitas Indonesia,1,2,21.56454491,3.5,2,2
+4272,Indonesia,0,0,0,0,0,11.25,6,1,5,0,1,1,4,3,3,4,3,4,Universitas Indonesia,1,1,18.66201469,3.6,2,2
+4537,Indonesia,1,1,2,1,2,11.25,9.25,1,5,0,8,5,2,3,3,2,3,3,Universitas Indonesia,1,1,17.26354454,3.5,2,2
+4784,Indonesia,0,0,0,0,0,13.5,6.25,1,2,0,4,3,7,7,4,3,4,5,Universitas Indonesia,1,2,23.183391,3.6,2,2
+3890,Indonesia,0,0,0,0,0,6.25,6.75,1,2,3,2,2,4,8,4,5,4,4,Universitas Indonesia,1,2,31.46267228,3.5,2,2
+2010,Indonesia,0,0,0,0,0,3.25,3.75,1,5,0,1,2,1,2,3,3,4,3,Universitas Gadjah Mada,1,1,16.0229381,3.8,2,2
+3767,Indonesia,4,0,0,0,0,4.25,7.75,1,5,0,2,2,3,1,4,2,3,4,Universitas Indonesia,1,1,22.65625,3.6,2,1
+3525,Indonesia,0,1,1.75,0,0,14.25,2.25,2,5,0,1,1,3,4,4,5,3,4,Universitas Indonesia,1,2,18.28989483,3.5,2,2
+5909,Indonesia,1,0,0,1,2,4.75,8.25,2,5,0,1,1,4,2,3,3,2,1,Unviersitas Airlangga,1,1,20.54569362,3.5,2,2
+3292,Indonesia,3,3,4.25,3,4.25,4.25,4.75,1,5,0,2,2,2,1,2,3,3,4,Universitas Indonesia,1,1,24.21875,3.8,2,1
+4823,Indonesia,0,0,0,0,0,6.25,9.25,1,5,0,1,1,2,1,3,4,4,4,Universitas Indonesia,1,1,20.9566075,3.6,2,2
+3432,Indonesia,3,2,3.25,2,3.25,11.25,10.75,2,3,0,1,2,1,2,4,2,4,4,Universitas Indonesia,1,2,22.09680791,3.5,2,1
+2212,Indonesia,5,0,0,0,0,6.25,8.25,1,5,0,5,7,6,1,3,4,3,5,Universitas Gadjah Mada,1,1,17.44492677,3.5,1,2
+3688,Indonesia,2,0,0,2,2.75,4.25,4,1,5,0,1,1,2,2,3,4,3,4,Universitas Indonesia,1,1,19.70553242,3.6,2,2
+2404,Indonesia,1,0,0,0,0,9.25,7.5,2,4,0,3,2,3,4,2,4,3,4,Universitas Gadjah Mada,1,1,21.67125803,3.4,2,2
+4637,Indonesia,0,0,0,0,0,15.25,9.75,2,5,0,2,1,2,6,3,2,2,2,Universitas Indonesia,1,1,18.98659072,3.1,2,2
+4471,Indonesia,0,0,0,0,0,6.25,7,1,5,0,1,2,3,3,2,2,3,2,Universitas Indonesia,1,1,16.44736842,3.8,2,2
+4834,Indonesia,0,0,0,0,0,7.75,6.5,1,5,0,1,1,2,1,4,3,4,3,Universitas Indonesia,1,2,26.64359862,3.7,2,2
+2883,Indonesia,1,0,0,0,0,6.25,9,1,5,0,1,2,5,2,4,3,4,4,Universitas Indonesia,1,1,18.25631871,3.5,2,2
+5367,Indonesia,1,0,0,0,0,2.25,8.25,2,5,0,2,1,3,3,3,3,3,3,Universitas Indonesia,1,1,20.13477975,3.2,2,2
+2055,Indonesia,3,0,0,1,1.75,5.5,8.75,2,5,0,5,6,1,4,5,5,5,5,Universitas Gadjah Mada,1,1,22.43230252,3.5,2,2
+1952,Indonesia,0,0,1.25,0,0,5.25,8.75,1,5,0,1,2,3,2,3,3,3,3,Universitas Gadjah Mada,2,1,22.18934911,3.8,2,2
+4802,Indonesia,0,0,0,0,1.75,6.25,3.75,1,5,0,3,3,1,1,5,4,3,4,Universitas Indonesia,1,2,18.12523512,3.3,2,2
+5881,Indonesia,0,0,0,0,0,11.75,8.75,2,5,0,3,3,3,6,3,2,3,4,Unviersitas Airlangga,1,1,17.7999288,4.0,2,2
+3697,Indonesia,3,0,0,3,1.75,14.25,3.5,2,5,0,2,8,3,7,3,4,3,3,Universitas Indonesia,1,1,20.82999519,3.1,2,2
+2806,Indonesia,2,1,3.75,0,0,7.75,8.75,1,1,0,1,1,2,3,3,3,3,4,Universitas Indonesia,1,2,23.4375,3.7,2,1
+1869,Indonesia,4,0,0,5,4.25,5.25,8.5,1,1,3,5,4,4,4,3,4,3,4,Universitas Gadjah Mada,2,2,23.03004535,3.6,2,1
+2504,Indonesia,1,1,2.25,0,0,14.25,6.25,2,5,0,1,2,1,1,4,3,4,4,Universitas Gadjah Mada,1,2,25.82644628,3.4,2,2
+3166,Indonesia,0,0,0,0,0,9.25,3.25,1,5,0,2,1,3,2,3,3,4,4,Universitas Indonesia,1,1,17.63085399,3.8,2,2
+3725,Indonesia,0,0,0,5,1.75,1.25,8.25,1,5,0,3,2,1,3,4,2,4,5,Universitas Indonesia,1,1,22.22222222,3.7,2,2
+3974,Indonesia,2,0,0,3,3,4.25,9,1,5,0,1,2,2,2,3,4,3,3,Universitas Indonesia,1,1,22.77318641,3.7,2,2
+4944,Indonesia,1,0,0,0,0,14.25,7.75,1,5,0,1,1,3,8,3,2,3,3,Universitas Indonesia,1,1,22.72043837,3.4,2,2
+3774,Indonesia,2,3,3,2,2,6.25,4.25,2,5,2,3,2,3,3,2,2,3,3,Universitas Indonesia,1,1,17.99816345,3.8,2,2
+1608,Indonesia,2,2,3.25,3,4.25,7.25,9,1,5,0,1,2,3,3,5,3,4,4,Universitas Gadjah Mada,1,1,21.09619051,3.9,2,2
+3236,Indonesia,3,0,0,3,3,7.25,9.75,1,5,0,8,3,2,1,3,4,4,4,Universitas Indonesia,1,1,22.32142857,3.9,2,2
+5517,Indonesia,0,0,0,0,0,15.75,3.75,1,5,0,3,4,1,3,5,3,3,5,Universitas Indonesia,1,1,24.34175829,3.8,2,2
+5398,Indonesia,1,0,0,0,0,6.75,6,2,5,0,2,1,6,8,2,2,2,3,Universitas Indonesia,1,1,21.04804761,3.2,2,2
+2447,Indonesia,2,0,0,0,0,14.25,7,1,5,0,2,1,3,2,3,4,2,4,Universitas Gadjah Mada,1,1,19.14672216,3.7,2,2
+2160,Indonesia,1,0,0,0,0,9.25,10.25,1,5,0,1,2,3,1,3,2,4,5,Universitas Gadjah Mada,1,1,19.72386588,3.7,2,2
+2493,Indonesia,0,0,0,1,1.75,6.25,5.25,2,5,0,1,3,3,6,4,4,4,3,Universitas Gadjah Mada,1,1,28.60476495,3.7,2,2
+4901,Indonesia,0,0,0,0,3,4.25,9.5,2,5,0,3,3,3,1,4,4,4,4,Universitas Indonesia,1,2,20,3.5,2,2
+2624,Indonesia,0,2,2.75,1,2.25,7.25,10,2,5,0,1,1,1,5,3,4,4,2,Universitas Indonesia,1,1,17.31301939,3.2,2,2
+4140,Indonesia,3,0,0,6,4.25,3.25,9.75,1,5,0,3,4,3,3,4,4,4,4,Universitas Indonesia,1,2,20.39542144,3.4,2,2
+1627,Indonesia,0,0,0,1,3,5.25,8.75,1,5,0,5,3,2,3,5,4,4,3,Universitas Gadjah Mada,1,1,20.39542144,3.8,2,1
+5628,Indonesia,2,1,2.75,2,3.25,5.25,10.75,1,5,0,2,2,2,3,5,3,4,4,Universitas Indonesia,3,1,NA,NA,2,1
+4726,Indonesia,1,0,0,0,0,9.25,9,2,5,0,4,3,1,1,4,3,4,4,Universitas Indonesia,1,1,17.62538055,3.1,2,2
+4356,Indonesia,1,0,0,1,3.25,15.25,5.25,2,5,0,1,1,2,3,2,5,3,3,Universitas Indonesia,1,1,17.31341037,3.6,2,2
+2062,Indonesia,0,0,0,0,0,14,8.75,1,5,0,1,2,1,2,2,2,1,2,Universitas Gadjah Mada,1,1,24.43518667,3.3,2,2
+5388,Indonesia,0,0,0,0,0,10.25,7.5,1,5,0,7,3,5,3,4,3,3,3,Universitas Indonesia,1,1,26.76977989,3.8,2,2
+2184,Indonesia,1,0,0,1,2.75,4.25,2.25,1,5,0,1,2,1,2,3,3,4,5,Universitas Gadjah Mada,1,1,16.64932362,3.6,2,2
+3060,Indonesia,1,0,0,0,0,10.25,8.75,1,5,0,6,3,4,1,2,2,2,5,Universitas Indonesia,1,1,21.79930796,3.7,2,2
+4689,Indonesia,4,4,3.5,3,3,5.75,7.25,1,5,0,3,3,3,3,3,2,3,4,Universitas Indonesia,1,1,23.33546614,3.4,2,2
+3701,Indonesia,0,0,0,1,3.25,4.75,5.75,1,5,0,1,1,4,1,4,4,4,4,Universitas Indonesia,1,2,24.34175829,3.8,2,2
+5417,Indonesia,3,3,2,3,2,5.25,5.5,1,5,0,3,4,4,4,2,2,3,3,Universitas Indonesia,1,1,25.5588462,3.7,2,2
+5291,Indonesia,1,1,2.25,1,2.25,4.25,10.75,1,5,0,1,8,1,1,5,5,3,1,Universitas Indonesia,1,2,20.51913409,3.4,2,2
+3314,Indonesia,1,0,0,0,0,9.25,7.75,1,5,0,1,2,5,1,4,2,2,4,Universitas Indonesia,1,1,18.13201651,3.9,2,2
+2660,Indonesia,3,0,0,2,5,3.5,2,1,5,0,1,1,3,1,5,2,3,4,Universitas Indonesia,1,1,17.54309022,3.8,2,2
+5477,Indonesia,3,0,0,0,0,5,9.25,2,5,0,1,1,1,3,3,4,3,3,Universitas Indonesia,1,1,NA,NA,2,1
+5930,Indonesia,4,0,0,2,3,7.25,8.5,1,4,0,2,3,4,6,4,4,3,5,Unviersitas Airlangga,3,2,21.07719523,3.8,2,1
+3856,Indonesia,3,0,0,0,0,15.25,8,2,4,0,1,4,5,3,3,5,4,5,Universitas Indonesia,1,2,20.76124567,3.9,2,2
+5782,Indonesia,5,0,0,0,0,3.25,7.5,1,5,0,1,2,1,3,5,5,2,3,Unviersitas Airlangga,3,1,19.22337562,3.8,2,2
+2320,Indonesia,2,2,3.5,1,3,6.5,9.75,1,5,0,2,2,1,3,4,5,4,3,Universitas Gadjah Mada,1,2,21.2585034,3.2,2,2
+4539,Indonesia,1,0,0,0,0,14.25,5.75,1,5,0,4,2,1,8,4,3,3,4,Universitas Indonesia,1,2,26.12244898,3.8,2,2
+2328,Indonesia,2,0,0,5,2.75,8.25,7.25,1,5,0,3,2,5,1,3,3,3,4,Universitas Gadjah Mada,2,1,19.47340663,3.5,2,2
+4911,Indonesia,4,4,3.75,4,3.75,3.25,5.75,1,4,0,2,1,1,2,3,3,4,4,Universitas Indonesia,1,1,20.44913742,3.8,2,1
+4586,Indonesia,0,0,0,0,0,7.25,9.75,1,5,0,1,1,1,6,3,3,3,4,Universitas Indonesia,1,1,16.52892562,NA,2,2
+4589,Indonesia,1,0,0,0,0,13.25,3.25,1,5,0,1,1,2,7,3,4,3,4,Universitas Indonesia,1,1,16.02307323,3.8,2,2
+2302,Indonesia,0,0,0,0,0,13.25,6.25,1,5,0,5,2,3,1,4,3,4,3,Universitas Gadjah Mada,1,1,19.23356075,3.5,2,2
+2263,Indonesia,0,0,1.25,2,2,2.5,2.25,1,5,0,3,6,1,1,2,2,2,2,Universitas Gadjah Mada,1,1,17.89802289,3.6,2,2
+5470,Indonesia,1,0,0,1,2.25,13.25,5.25,1,5,0,1,3,4,3,5,4,4,4,Universitas Indonesia,1,1,25.23634033,3.8,2,2
+4810,Indonesia,0,0,0,0,0,5.25,4.75,2,5,0,1,3,6,6,3,2,3,4,Universitas Indonesia,1,1,19.29012346,3.3,2,2
+4236,Indonesia,0,2,2.5,2,2.75,14.25,9,1,5,0,1,3,3,4,2,4,3,3,Universitas Indonesia,1,1,19.38214469,3.3,2,2
+5436,Indonesia,1,0,0,1,2.25,4.25,8.75,2,5,0,1,1,3,4,2,5,3,3,Universitas Indonesia,1,1,19.8791026,3.9,2,2
+2244,Indonesia,3,3,3.25,2,2.25,5.25,6.75,1,2,0,3,4,3,1,4,3,4,4,Universitas Gadjah Mada,1,2,21.30394858,3.5,2,1
+5268,Indonesia,3,0,0,3,4.25,9.25,8.75,1,5,0,1,1,5,4,4,4,4,4,Universitas Indonesia,1,1,25.77777778,3.3,2,2
+3889,Indonesia,0,0,0,0,0,3.75,8.5,1,5,0,1,1,4,6,5,3,4,5,Universitas Indonesia,1,2,17.89802289,3.4,2,2
+3515,Indonesia,3,0,0,0,0,13.25,7.75,2,5,0,1,1,4,1,3,4,3,2,Universitas Indonesia,1,1,20.95717116,3.6,2,2
+5640,Indonesia,2,3,3.75,1,4,12.25,9.25,1,5,0,1,1,8,6,4,4,3,2,Universitas Indonesia,3,1,NA,NA,1,1
+4859,Indonesia,0,0,0,0,0,4.25,5.75,1,5,0,2,2,5,3,4,3,3,3,Universitas Indonesia,1,1,19.36247266,3.8,2,2
+3253,Indonesia,1,0,0,0,0,6.25,5.75,2,5,0,1,2,1,2,4,2,3,3,Universitas Indonesia,1,1,16.40625,3.6,2,2
+5586,Indonesia,1,0,0,5,3,12.25,2.75,1,5,0,2,2,8,1,3,3,2,4,Universitas Indonesia,1,1,NA,NA,1,1
+3548,Indonesia,2,0,0,2,2.25,7.75,8.75,1,5,0,2,3,2,1,3,3,3,2,Universitas Indonesia,1,2,19.921875,3.8,2,2
+4246,Indonesia,1,1,2.75,0,0,12.5,7.75,2,5,0,2,2,6,3,3,1,3,1,Universitas Indonesia,1,2,17.99816345,3.1,2,2
+4400,Indonesia,2,0,0,3,2,3.5,11.25,2,5,0,3,3,1,2,2,2,2,3,Universitas Indonesia,1,1,27.70083102,3.2,2,2
+2253,Indonesia,1,0,0,2,3,14.25,9.75,1,4,0,1,1,3,3,2,3,3,3,Universitas Gadjah Mada,2,1,30.22222222,3.3,2,2
+4499,Indonesia,0,1,4.25,0,4.25,2.25,7.75,2,5,0,3,3,4,1,1,2,3,3,Universitas Indonesia,1,1,21.64127424,3.9,2,2
+4687,Indonesia,2,0,0,0,0,13.25,8.75,1,5,0,1,4,2,2,3,1,3,2,Universitas Indonesia,1,1,19.6282647,3.9,2,2
+5867,Indonesia,0,0,0,0,0,9,7.75,2,5,0,3,4,2,3,2,4,2,2,Unviersitas Airlangga,1,1,17.06555671,4.0,2,2
+4367,Indonesia,2,0,1.25,1,2,4.75,7.75,1,5,0,1,2,3,5,4,4,4,4,Universitas Indonesia,1,1,18.82711104,3.5,2,2
+3891,Indonesia,4,0,0,6,4,2.25,9.75,1,5,0,1,1,1,3,4,3,4,4,Universitas Indonesia,1,2,27.77777778,NA,2,1
+2473,Indonesia,1,0,0,0,0,8,6.75,1,4,0,1,2,5,2,3,4,3,4,Universitas Gadjah Mada,1,1,23.01117686,3.6,2,2
+3569,Indonesia,0,0,0,0,0,3.25,9.75,1,4,0,1,2,1,3,4,4,3,4,Universitas Indonesia,1,1,27.05515088,3.8,2,2
+3374,Indonesia,1,0,0,2,4,2.75,10.25,1,5,0,1,1,1,1,1,5,5,3,Universitas Indonesia,1,2,23.30668005,NA,1,2
+3487,Indonesia,1,0,0,0,0,14.75,2,1,5,0,1,1,5,2,3,3,2,3,Universitas Indonesia,1,1,24.609375,3.6,2,2
+2027,Indonesia,1,0,0,0,0,11.25,6.5,1,5,0,1,2,2,4,4,4,4,5,Universitas Gadjah Mada,1,1,23.49523687,3.6,2,2
+3735,Indonesia,3,1,2.75,3,3,8.5,6.25,2,5,0,1,1,2,2,3,2,3,4,Universitas Indonesia,1,2,21.10726644,3.7,2,1
+4870,Indonesia,2,0,0,2,3.75,7.25,8.75,1,5,0,3,1,2,3,3,2,2,3,Universitas Indonesia,1,1,20.07774787,NA,2,1
+3116,Indonesia,7,0,0,7,2.25,2.25,7.75,1,5,0,8,8,3,1,5,5,5,5,Universitas Indonesia,1,2,26.81359045,3.7,2,1
+5634,Indonesia,2,0,0,3,2,13.25,7.75,1,5,0,1,2,4,5,3,4,3,3,Universitas Indonesia,1,1,NA,NA,1,2
+4597,Indonesia,2,2,2.25,2,1.75,15.25,7.75,2,5,0,1,2,2,3,4,4,2,4,Universitas Indonesia,1,2,24.609375,3.6,2,2
+4658,Indonesia,0,0,0,0,0,7.25,2.75,1,5,0,1,1,3,8,3,4,2,2,Universitas Indonesia,1,1,20.42941836,3.9,2,2
+2417,Indonesia,2,2,4,1,4,6.25,7,1,5,1,2,3,4,8,4,3,2,2,Universitas Gadjah Mada,1,1,25.63691716,3.6,2,2
+3662,Indonesia,0,0,0,1,2,5.25,8.75,1,5,0,2,2,1,2,4,4,4,3,Universitas Indonesia,1,1,20.2020202,3.5,2,2
+3354,Indonesia,0,0,0,0,0,15.25,7.75,2,5,0,1,2,1,7,2,3,3,3,Universitas Indonesia,1,2,20.2020202,3.7,2,2
+5528,Indonesia,0,0,0,1,1.75,13.25,5.25,1,5,0,3,4,1,6,5,4,4,1,Universitas Indonesia,1,1,NA,NA,1,2
+3275,Indonesia,2,0,0,2,2.75,13.25,9.75,2,5,0,1,1,3,2,3,3,3,3,Universitas Indonesia,1,1,22.03172568,3.3,2,2
+3905,Indonesia,7,0,0,0,3.75,14.25,9.5,1,5,0,1,1,7,3,2,4,3,3,Universitas Indonesia,1,1,22.265625,NA,2,2
+2188,Indonesia,2,2,2.25,1,2.25,6.75,6.25,1,5,0,1,2,3,2,4,4,3,4,Universitas Gadjah Mada,1,1,25.71100827,3.7,1,2
+3892,Indonesia,2,3,3.75,3,3.75,6.75,6.75,2,5,0,2,1,3,3,3,3,2,5,Universitas Indonesia,1,2,23.25501864,3.6,2,2
+4379,Indonesia,0,0,0,0,0,9.75,9.25,2,5,0,2,2,3,3,3,4,2,3,Universitas Indonesia,1,2,29.74580855,3.8,2,2
+2852,Indonesia,1,0,0,0,0,8,8.75,1,5,0,5,4,5,5,3,3,4,4,Universitas Indonesia,2,1,33.32051775,3.5,2,2
+4109,Indonesia,3,0,0,4,5,8.75,7.75,2,4,0,3,1,3,4,4,3,4,5,Universitas Indonesia,1,2,29.0687733,3.9,2,2
+3206,Indonesia,5,0,0,6,5,9,5.75,1,2,6,5,6,8,7,3,3,4,3,Universitas Indonesia,1,2,24.61810377,3.6,2,2
+5536,Indonesia,0,0,0,0,0,14.25,7.75,1,5,0,1,1,8,8,3,4,4,4,Universitas Indonesia,1,1,NA,NA,1,1
+4166,Indonesia,0,0,0,0,0,5.25,2.75,1,5,0,2,1,3,4,3,3,3,2,Universitas Indonesia,1,2,23.87543253,3.6,2,2
+2281,Indonesia,2,1,3.75,1,3.75,3.25,8.75,1,5,0,1,2,6,3,3,4,2,2,Universitas Gadjah Mada,1,1,18.28989483,3.8,2,2
+5207,Indonesia,2,0,0,2,2,5.25,9.75,2,5,0,1,2,2,4,3,3,3,3,Universitas Indonesia,1,1,25.5588462,3.3,2,2
+2133,Indonesia,1,0,0,0,0,13.75,9.75,1,4,0,2,1,1,8,2,4,3,5,Universitas Gadjah Mada,1,2,23.14049587,NA,2,2
+2699,Indonesia,4,6,2.5,6,2.25,14.25,5.25,1,5,0,1,3,3,3,4,5,3,2,Universitas Indonesia,1,2,29.06060712,3.8,2,2
+4845,Indonesia,4,0,0,7,4.25,2.75,3.25,2,1,10,7,8,8,8,2,5,4,3,Universitas Indonesia,1,2,21.30394858,3.1,1,2
+2218,Indonesia,0,0,0,0,0,14.75,10.75,1,5,0,1,1,4,3,3,3,4,5,Universitas Gadjah Mada,1,1,20.39542144,3.8,2,2
+3994,Indonesia,0,0,0,0,0,15.25,3.75,1,2,0,1,2,3,5,4,4,3,2,Universitas Indonesia,1,2,31.04769454,3.6,2,2
+1917,Indonesia,4,0,0,0,0,9.75,8.25,1,5,0,6,6,4,7,4,4,3,4,Universitas Gadjah Mada,2,1,16.64932362,NA,2,2
+2714,Indonesia,0,1,1.75,3,4,2.75,4.25,1,5,0,2,2,1,1,4,2,4,3,Universitas Indonesia,1,1,21.87755102,3.7,2,2
+2876,Indonesia,0,0,0,0,0,11.25,5.75,2,5,0,1,2,1,2,4,3,4,2,Universitas Indonesia,1,2,19.05197378,3.9,2,2
+5849,Indonesia,3,0,0,1,3,4.25,6.75,1,5,0,3,1,3,4,1,3,3,3,Unviersitas Airlangga,1,1,NA,4.0,2,2
+3132,Indonesia,0,0,0,0,0,14.25,6.25,2,5,0,1,1,2,3,4,4,4,3,Universitas Indonesia,1,1,23.14814815,3.9,2,2
+5045,Indonesia,0,0,0,0,0,3.25,8.75,1,5,0,5,5,1,3,3,4,3,2,Universitas Indonesia,1,1,19.140625,3.7,2,2
+1662,Indonesia,0,0,0,0,0,13.25,8.75,1,5,0,1,1,2,5,4,4,4,4,Universitas Gadjah Mada,2,1,17.89802289,3.5,2,2
+3468,Indonesia,7,0,0,0,0,13.5,4.5,1,5,0,1,1,5,1,4,4,3,4,Universitas Indonesia,1,1,25.390625,3.8,2,2
+2600,Indonesia,2,2,1.25,1,2.75,3.25,7.75,1,2,0,2,2,2,2,3,4,4,3,Universitas Indonesia,1,2,22.75830678,3.8,2,2
+1926,Indonesia,1,2,3,0,0,8.25,6.75,1,5,0,2,5,3,7,2,3,2,3,Universitas Gadjah Mada,1,1,19.46740129,3.7,2,2
+3500,Indonesia,0,0,0,0,0,4.25,7.75,1,5,0,1,1,3,8,3,2,2,3,Universitas Indonesia,1,1,24.8015873,3.3,2,2
+4729,Indonesia,1,0,0,1,2,3.25,8.75,2,4,0,1,3,2,2,4,3,3,4,Universitas Indonesia,1,2,19.10009183,3.4,2,2
+2234,Indonesia,4,0,0,3,2.25,9.75,9.75,1,5,0,6,6,2,2,4,5,3,4,Universitas Gadjah Mada,2,1,16.64932362,3.8,2,2
+2465,Indonesia,1,0,0,0,0,8.75,3,2,5,0,6,3,2,2,4,4,2,3,Universitas Gadjah Mada,1,1,26.34649403,3.5,2,2
+3529,Indonesia,1,0,0,0,0,9.25,6.25,2,4,0,1,1,6,4,3,2,2,2,Universitas Indonesia,1,2,25.56495392,3.5,2,2
+3321,Indonesia,4,0,0,0,0,7.75,7.75,2,3,5,5,6,7,7,3,2,1,2,Universitas Indonesia,1,2,24.61810377,3.6,2,2
+2279,Indonesia,3,0,0,0,0,12.25,6,2,5,0,1,1,1,2,4,4,4,4,Universitas Gadjah Mada,1,1,23.55555556,3.6,2,2
+5649,Indonesia,3,1,2.25,1,2.25,12.25,11.25,1,5,0,2,3,3,2,4,3,5,3,Universitas Indonesia,5,2,NA,NA,1,2
+5745,Indonesia,0,0,0,0,0,11.25,7.75,2,5,0,1,3,1,2,2,3,3,1,Unviersitas Airlangga,2,1,22.0603538,3.2,2,2
+3731,Indonesia,2,0,0,0,0,6.5,9,2,5,0,3,3,4,5,2,4,3,3,Universitas Indonesia,1,1,19.10009183,3.7,2,2
+4773,Indonesia,2,0,0,0,0,11.25,7.5,1,5,0,3,2,4,4,3,4,4,3,Universitas Indonesia,1,1,0,3.5,2,2
+5950,Indonesia,0,0,0,0,0,3.25,7.5,1,5,0,2,4,1,2,3,4,4,4,Unviersitas Airlangga,1,1,22.03856749,3.8,2,2
+3344,Indonesia,0,0,0,0,0,14.25,7.75,2,5,0,2,2,3,8,3,1,3,2,Universitas Indonesia,1,1,18.98659072,3.7,2,2
+1646,Indonesia,2,0,0,1,2.75,10.25,10.75,1,5,0,1,2,2,4,2,3,3,2,Universitas Gadjah Mada,2,2,21.20310523,3.3,2,2
+2940,Indonesia,0,0,0,0,0,11.25,7.75,1,5,0,1,1,3,2,3,5,3,5,Universitas Indonesia,1,1,19.1953028,3.8,2,2
+4621,Indonesia,6,7,2.75,7,2.75,9.25,5.25,1,5,0,1,1,4,1,3,2,3,4,Universitas Indonesia,1,1,18.02595738,3.9,2,2
+3473,Indonesia,3,3,2,3,2,9.25,10.25,1,5,0,3,3,2,3,3,4,4,4,Universitas Indonesia,1,2,22.12973973,3.8,2,2
+2350,Indonesia,5,0,0,6,2.25,7.25,9.75,1,3,0,3,5,3,3,4,4,3,3,Universitas Gadjah Mada,1,2,27.04164413,3.6,2,2
+3528,Indonesia,5,0,0,1,2,8.25,9.75,1,5,0,3,2,3,3,2,2,4,5,Universitas Indonesia,1,1,17.99816345,3.5,2,2
+2931,Indonesia,1,0,0,1,2,13.25,6,1,3,0,1,1,3,8,3,3,3,2,Universitas Indonesia,1,2,20.2020202,3.5,2,2
+5692,Indonesia,5,0,2.75,6,3,14.25,7.75,1,5,0,1,1,2,1,3,5,3,2,Universitas Indonesia,3,1,21.49028551,3.3,2,1
+3407,Indonesia,1,0,0,1,1.75,4.25,8.5,1,5,0,3,3,3,3,4,4,4,2,Universitas Indonesia,1,1,24.4646016,3.7,2,2
+1887,Indonesia,0,0,0,0,0,4.75,3.75,1,5,0,1,2,3,1,5,5,4,5,Universitas Gadjah Mada,1,1,22.47658689,3.7,2,2
+4903,Indonesia,1,0,0,1,3,3.25,3.75,2,4,0,1,2,1,4,3,4,3,2,Universitas Indonesia,1,2,16.69327914,3.6,2,2
+5030,Indonesia,0,0,0,0,0,7.75,5.75,1,5,0,2,1,5,8,3,4,2,4,Universitas Indonesia,1,1,25.71166208,3.5,2,2
+2748,Indonesia,3,2,1.5,6,3,4.5,6.25,1,5,0,5,4,5,6,5,4,5,5,Universitas Indonesia,1,2,20.76124567,3.6,2,2
+2561,Indonesia,1,2,4.25,1,2.25,3.25,4.75,1,5,0,1,4,1,4,3,4,3,3,Universitas Gadjah Mada,2,1,NA,NA,1,2
+3380,Indonesia,1,1,3,1,2.75,2.25,7.25,1,3,0,2,2,3,4,4,3,4,4,Universitas Indonesia,1,2,27.77777778,3.8,2,1
+4928,Indonesia,2,0,0,0,0,13.25,8.25,2,5,0,3,4,2,6,5,3,4,4,Universitas Indonesia,1,1,18.66201469,3.3,2,2
+4177,Indonesia,1,1,3.5,1,3,15.5,9.75,1,1,0,1,1,2,2,2,2,2,2,Universitas Indonesia,1,2,17.30103806,NA,2,2
+5794,Indonesia,3,0,0,0,0,3.25,10.25,1,5,0,1,1,3,3,3,4,4,3,Unviersitas Airlangga,2,1,26.21882086,3.7,2,2
+3281,Indonesia,0,0,0,0,0,10.25,7,2,5,0,1,1,4,3,3,3,3,3,Universitas Indonesia,1,2,19.48696145,4.0,2,2
+4835,Indonesia,4,2,3.75,2,3.75,13.75,8.75,1,5,0,3,2,2,2,5,5,4,4,Universitas Indonesia,1,1,19.13265306,3.7,2,2
+2877,Indonesia,3,3,2.75,3,1.75,4.25,7.25,1,4,0,1,3,1,1,4,4,4,4,Universitas Indonesia,1,1,24.38652644,3.8,2,2
+4929,Indonesia,3,0,0,0,0,7.25,6,1,5,0,2,2,2,1,4,4,4,4,Universitas Indonesia,1,1,19.33372992,3.8,2,2
+4298,Indonesia,3,0,0,3,3,2.25,8.75,1,5,0,3,3,2,1,5,3,4,5,Universitas Indonesia,1,1,21.484375,3.6,2,2
+5852,Indonesia,0,0,0,0,0,12,7.25,1,5,0,5,2,1,8,4,3,4,1,Unviersitas Airlangga,1,1,16.86625063,3.9,2,2
+5338,Indonesia,5,0,0,7,3,15.25,9.75,1,5,0,1,4,4,2,5,3,4,2,Universitas Indonesia,1,1,18.77834467,3.6,2,2
+4006,Indonesia,1,0,0,0,0,9.25,5.75,1,5,0,1,2,4,8,2,2,3,4,Universitas Indonesia,1,1,20.93663912,3.5,2,2
+5374,Indonesia,3,4,2.75,4,2.75,4.25,5.75,1,5,0,2,2,2,3,3,4,3,4,Universitas Indonesia,1,1,19.81784449,4.0,2,2
+3222,Indonesia,2,0,0,0,0,5.25,6,1,5,0,1,1,4,3,3,4,4,4,Universitas Indonesia,1,2,18.06616734,3.5,2,2
+5409,Indonesia,0,0,0,0,0,14.25,4.75,1,5,0,3,3,2,5,5,5,5,3,Universitas Indonesia,1,2,23.99945917,3.4,2,2
+5301,Indonesia,1,0,0,0,0,4.25,6.75,1,3,0,2,2,4,5,2,3,4,2,Universitas Indonesia,1,2,26.42356982,4.0,2,2
+4716,Indonesia,0,0,0,1,2.25,3.5,10.75,1,5,0,1,2,4,3,2,2,3,3,Universitas Indonesia,1,1,20.02884153,NA,2,2
+2947,Indonesia,2,2,2.25,0,0,9.25,7.75,1,5,0,2,2,3,5,4,4,4,4,Universitas Indonesia,1,1,20.76124567,3.6,2,2
+4477,Indonesia,2,2,2.25,0,0,13.25,7.75,2,5,0,1,1,3,6,4,3,3,4,Universitas Indonesia,1,1,15.17962557,3.2,2,2
+3815,Indonesia,1,0,0,1,1.75,5.25,7.75,1,5,0,1,1,2,2,3,2,4,3,Universitas Indonesia,1,1,19.06771066,3.8,2,2
+6005,Indonesia,4,4,1.5,4,2,5.25,8.75,1,5,0,2,3,3,3,3,4,1,3,Unviersitas Airlangga,4,1,24.4646016,3.4,2,2
+3288,Indonesia,4,1,4.75,2,2.75,3.5,9.75,1,5,0,8,6,2,3,3,2,2,4,Universitas Indonesia,1,1,20.32225287,3.7,2,2
+5177,Indonesia,7,0,0,7,3.25,4.25,4.75,1,5,0,1,1,3,3,4,4,4,4,Universitas Indonesia,1,2,20.91070816,3.8,2,2
+3624,Indonesia,2,0,0,3,3,7.25,6.75,1,5,0,1,8,3,3,4,3,3,4,Universitas Indonesia,1,2,29.37758264,3.8,2,2
+4827,Indonesia,6,0,1.25,6,1.25,5.25,9.75,1,5,0,2,2,3,1,4,5,3,4,Universitas Indonesia,1,1,19.46740129,3.9,2,2
+4560,Indonesia,0,0,0,0,0,7.25,10.75,1,5,0,1,1,4,3,2,4,3,3,Universitas Indonesia,1,1,21.35991456,3.7,2,2
+1709,Indonesia,1,0,0,0,0,8.25,4.25,2,5,0,3,3,3,1,3,3,4,2,Universitas Gadjah Mada,1,2,29.01234568,3.9,2,2
+6027,Indonesia,1,0,0,1,3.25,3.5,9.25,1,5,0,1,2,3,2,4,4,4,5,Unviersitas Airlangga,1,2,23.828125,3.8,1,2
+2858,Indonesia,0,0,0,0,0,6.25,10,2,5,0,2,2,2,1,3,3,3,2,Universitas Indonesia,1,2,19.95935549,3.9,2,2
+2988,Indonesia,0,0,0,0,0,9.25,2.5,1,5,0,1,7,1,2,4,4,3,3,Universitas Indonesia,1,1,17.66929652,3.7,2,2
+3361,Indonesia,3,0,0,0,0,13.25,9.75,1,5,0,2,1,5,8,3,5,2,2,Universitas Indonesia,1,1,24.97398543,3.6,2,1
+5425,Indonesia,6,4,2.5,4,3,3.25,2,1,5,0,2,6,3,4,4,5,4,4,Universitas Indonesia,1,2,29.3877551,3.5,2,2
+1902,Indonesia,3,0,0,0,0,10.25,7,1,5,0,1,1,1,3,3,4,3,4,Universitas Gadjah Mada,2,1,17.31341037,3.7,2,2
+3786,Indonesia,3,2,3.75,2,2.75,7,6.75,2,5,0,1,3,2,2,3,4,3,5,Universitas Indonesia,1,1,18.06616734,3.8,2,2
+5505,Indonesia,2,0,0,0,0,15.75,7.75,1,4,0,1,1,4,3,1,1,1,1,Universitas Indonesia,1,2,18.49649888,3.1,2,2
+5222,Indonesia,0,0,0,0,0,4.5,3,2,5,0,1,2,4,1,2,3,5,5,Universitas Indonesia,1,1,18.82711104,3.4,2,2
+2831,Indonesia,3,0,0,0,0,3.25,4.75,1,5,0,1,2,1,3,4,2,4,3,Universitas Indonesia,1,2,18.44254582,3.8,2,2
+4574,Indonesia,1,0,0,2,2.25,2.25,8.5,2,5,0,1,2,2,4,3,4,3,4,Universitas Indonesia,1,1,22.0603538,3.7,2,2
+3765,Indonesia,1,0,0,0,0,14.25,10.25,2,5,0,1,3,3,3,5,4,3,5,Universitas Indonesia,1,1,21.33821064,3.6,2,2
+1999,Indonesia,2,0,0,3,1.75,5.25,7.75,1,5,0,1,4,2,2,3,5,5,5,Universitas Gadjah Mada,2,1,21.30394858,NA,2,2
+4451,Indonesia,4,0,0,4,3.25,8.25,8.75,1,5,0,7,6,1,1,4,3,3,3,Universitas Indonesia,1,1,17.578125,3.8,2,2
+5605,Indonesia,1,0,0,1,3,14.75,9,1,5,0,2,1,8,8,1,4,3,2,Universitas Indonesia,3,2,NA,NA,1,2
+4991,Indonesia,4,3,3.25,3,2.25,7.25,7.75,1,5,0,2,1,4,3,3,4,4,1,Universitas Indonesia,1,2,29.38475666,3.6,2,2
+4258,Indonesia,1,0,0,1,2.75,2.5,5.75,1,5,0,3,3,4,2,4,4,4,4,Universitas Indonesia,1,1,26.44628099,3.9,2,2
+4322,Indonesia,5,0,0,5,5,6.5,8.25,1,5,6,4,6,3,8,4,4,4,3,Universitas Indonesia,1,2,26.2345679,3.2,2,2
+5778,Indonesia,2,0,0,0,0,15.75,6.75,1,5,0,5,4,1,1,3,3,3,2,Unviersitas Airlangga,1,1,23.30905307,3.9,2,2
+3108,Indonesia,0,2,1.25,0,0,3.25,6.75,1,1,0,1,2,1,3,5,5,4,5,Universitas Indonesia,1,2,22.40817899,3.5,2,1
+5542,Indonesia,0,0,0,0,0,15.25,3.75,1,5,0,4,4,3,6,4,4,4,1,Universitas Indonesia,3,1,NA,NA,2,2
+5133,Indonesia,1,0,0,2,1.75,2.25,7,1,5,0,2,3,4,4,3,4,3,2,Universitas Indonesia,1,2,33.4251607,3.3,2,2
+4507,Indonesia,0,0,0,0,0,3.25,3.25,1,5,0,2,3,2,1,5,1,3,3,Universitas Indonesia,1,1,16.89623508,3.4,2,2
+2813,Indonesia,0,0,0,0,0,11.25,7.75,1,5,0,1,2,1,6,4,3,4,3,Universitas Indonesia,1,1,15.94387755,4.0,2,2
+4429,Indonesia,0,0,0,0,0,6.25,5.75,1,5,0,2,1,3,4,4,4,4,3,Universitas Indonesia,1,2,26.7299275,3.9,2,2
+5290,Indonesia,3,1,4.25,2,4.25,3.25,7.75,1,5,0,1,2,3,1,3,2,4,4,Universitas Indonesia,1,1,22.7189744,3.4,2,1
+2185,Indonesia,1,1,3.25,1,3.25,14.25,7,1,5,0,8,1,3,2,4,4,4,3,Universitas Gadjah Mada,1,1,22.31327843,3.6,2,2
+5447,Indonesia,1,0,0,0,0,11.25,2.75,1,4,0,3,4,4,3,2,4,3,2,Universitas Indonesia,1,1,18.08021039,3.9,2,2
+4698,Indonesia,1,0,0,0,0,9.25,7.25,1,5,0,1,1,6,2,2,3,2,2,Universitas Indonesia,1,1,32.8731098,3.9,2,2
+5402,Indonesia,0,0,0,0,0,9.25,9.25,1,5,0,1,2,4,3,4,4,4,4,Universitas Indonesia,1,1,21.79930796,3.1,2,2
+1641,Indonesia,1,0,0,0,0,13.25,2.75,1,5,0,2,1,1,1,3,2,3,3,Universitas Gadjah Mada,2,1,0,NA,2,2
+1806,Indonesia,1,0,0,2,2.25,13.25,4.75,1,5,0,1,2,1,2,4,5,4,3,Universitas Gadjah Mada,2,2,25.2825699,3.7,2,2
+1604,Indonesia,4,0,0,2,2.75,3.75,7,1,5,0,5,3,3,1,3,3,4,3,Universitas Gadjah Mada,3,2,20.41522491,3.6,2,2
+4496,Indonesia,1,0,0,0,0,8.25,6.75,2,5,0,2,2,1,1,3,3,3,3,Universitas Indonesia,1,1,26.66666667,3.9,2,2
+4385,Indonesia,2,3,2.75,0,0,11.25,9.25,1,4,0,4,3,5,5,4,4,3,4,Universitas Indonesia,1,2,21.3577956,3.6,2,2
+2515,Indonesia,1,0,0,0,0,6.25,8,1,5,0,2,4,5,5,3,3,3,2,Universitas Gadjah Mada,1,1,22.22222222,3.7,2,2
+1772,Indonesia,0,0,0,0,0,3.25,9.75,2,5,0,1,2,4,6,2,2,3,3,Universitas Gadjah Mada,1,1,18.359375,3.4,2,2
+2081,Indonesia,1,0,0,0,0,6.5,10.75,2,5,0,1,1,2,8,1,4,3,2,Universitas Gadjah Mada,1,1,16.44444444,3.2,2,2
+1825,Indonesia,7,7,3.25,0,0,4.25,3.75,1,5,0,1,1,4,6,5,3,4,4,Universitas Gadjah Mada,1,2,20.2020202,3.8,2,2
+2486,Indonesia,7,0,0,7,4,4.5,11,1,5,0,8,1,1,3,5,5,3,4,Universitas Gadjah Mada,1,1,20.02884153,3.8,2,2
+2895,Indonesia,2,0,0,0,0,6.25,9,2,5,0,1,3,3,3,4,4,4,3,Universitas Indonesia,1,1,20.81165453,3.8,2,2
+5479,Indonesia,1,1,2.25,1,2.25,7.25,9.75,1,5,0,8,8,2,4,4,3,4,4,Universitas Indonesia,1,2,29.3877551,3.5,2,2
+4942,Indonesia,2,0,0,1,1.75,5,5.25,1,5,0,3,3,1,1,2,5,2,4,Universitas Indonesia,1,1,23.828125,3.1,2,2
+6021,Indonesia,1,0,0,0,0,6.75,8.75,1,5,0,1,2,2,3,5,4,3,3,Unviersitas Airlangga,2,1,20,3.6,2,2
+3488,Indonesia,0,0,0,0,0,4.25,7.75,1,5,0,2,1,1,1,3,4,3,3,Universitas Indonesia,1,1,19.97918835,3.7,2,2
+4524,Indonesia,7,0,0,6,5,8.25,6.25,1,5,0,2,1,5,7,4,4,3,2,Universitas Indonesia,1,2,28.73174689,3.2,2,2
+3093,Indonesia,0,0,0,0,0,6.25,6.75,1,5,0,1,1,5,1,3,4,4,3,Universitas Indonesia,1,2,26.54320988,3.9,2,2
+2497,Indonesia,0,0,0,0,0,5.25,5.25,1,5,0,1,1,1,5,2,2,4,3,Universitas Gadjah Mada,2,1,17.47471743,3.4,2,2
+2240,Indonesia,0,0,0,0,0,15.25,8.25,1,5,0,2,2,1,2,2,4,2,2,Universitas Gadjah Mada,2,1,18.73048907,3.6,2,2
+3470,Indonesia,4,4,1.75,4,2,3.25,10.5,1,5,0,2,3,2,2,4,1,3,3,Universitas Indonesia,1,2,26.57312925,3.6,2,1
+3185,Indonesia,4,3,2.75,3,1.75,4.25,8.25,1,4,0,1,2,1,1,4,4,3,4,Universitas Indonesia,1,1,24.38652644,3.8,2,2
+2030,Indonesia,1,2,2.5,0,0,7.75,5,2,5,0,1,3,2,3,4,3,4,4,Universitas Gadjah Mada,1,1,23.87511478,3.6,2,2
+2659,Indonesia,0,0,0,2,2,15.25,5.75,1,5,0,2,1,1,6,3,5,4,4,Universitas Indonesia,3,1,19.26717144,3.9,2,2
+3019,Indonesia,3,3,2.75,3,3.75,9.25,3.75,1,5,0,1,3,3,4,3,3,3,2,Universitas Indonesia,1,1,20.07774787,3.8,2,2
+3971,Indonesia,3,2,1.75,2,2,6.25,7.75,1,5,0,1,2,3,3,4,2,4,2,Universitas Indonesia,1,1,23.87511478,3.5,2,2
+5644,Indonesia,3,1,1.25,3,2.25,9.25,7.25,1,5,0,2,5,2,2,3,2,3,5,Universitas Indonesia,1,1,NA,NA,1,2
+1994,Indonesia,1,0,0,0,0,2.25,9.25,1,5,0,1,1,2,3,3,5,4,4,Universitas Gadjah Mada,2,2,21.79930796,3.7,2,2
+4135,Indonesia,2,0,0,3,3.25,8.25,8.25,1,5,0,3,3,3,4,4,4,4,4,Universitas Indonesia,1,2,35.01123002,3.4,2,2
+3787,Indonesia,0,0,0,0,0,15.25,9.75,2,5,0,4,2,2,3,4,3,3,3,Universitas Indonesia,1,1,18.67093431,3.6,2,2
+5157,Indonesia,7,1,2.25,6,4,6.25,9.75,1,5,0,4,5,4,1,4,4,4,4,Universitas Indonesia,1,2,27.75510204,3.3,2,1
+2306,Indonesia,2,0,0,0,0,6.25,6.25,1,5,0,2,2,1,3,4,4,4,5,Universitas Gadjah Mada,1,1,19.11111111,3.7,2,2
+4602,Indonesia,1,0,0,1,2.75,14,10.75,1,2,0,3,3,3,3,4,4,4,4,Universitas Indonesia,1,2,24.48979592,3.5,2,2
+3959,Indonesia,2,0,0,2,2.25,11.25,9.75,2,5,0,2,2,1,1,4,2,4,4,Universitas Indonesia,1,1,22.43230252,3.7,2,2
+5392,Indonesia,3,0,0,0,0,10.25,7.75,1,5,0,1,1,3,1,4,4,4,3,Universitas Indonesia,1,1,20.69049454,3.8,2,2
+1835,Indonesia,4,0,0,0,0,14.25,7.75,1,5,0,2,1,1,1,3,4,3,2,Universitas Gadjah Mada,3,1,15.41644691,3.4,2,2
+3972,Indonesia,5,1,1.75,3,2.75,9.25,2.75,1,5,0,1,5,1,2,4,3,3,4,Universitas Indonesia,1,1,19.11111111,3.4,2,2
+4001,Indonesia,2,1,2.25,0,0,2.5,2,1,5,0,3,3,3,8,4,4,4,4,Universitas Indonesia,1,1,19.55555556,3.8,2,2
+5075,Indonesia,1,0,0,1,2,13.25,8.75,1,5,0,1,2,3,3,3,3,3,5,Universitas Indonesia,1,1,16.23307275,3.2,2,2
+4116,Indonesia,0,0,0,0,0,8.25,6.75,1,5,0,4,4,3,3,3,5,4,5,Universitas Indonesia,1,2,21.3577956,3.8,1,2
+5120,Indonesia,1,1,2.5,0,0,11.75,9.25,1,5,0,7,5,3,2,4,4,4,4,Universitas Indonesia,1,1,19.72386588,3.1,2,2
+1882,Indonesia,2,0,0,2,2.25,14.25,7.75,1,5,0,1,1,4,1,3,4,3,4,Universitas Gadjah Mada,1,1,14.199359,3.3,2,2
+4053,Indonesia,2,0,0,1,1.75,12.25,8.25,1,5,0,1,2,2,2,4,4,4,3,Universitas Indonesia,1,1,18.73048907,3.5,2,2
+2194,Indonesia,0,0,0,1,4,3.25,3.75,1,5,0,1,8,2,4,3,5,3,3,Universitas Gadjah Mada,1,1,18.7961895,3.4,2,2
+2581,Indonesia,6,7,3.25,5,1.75,4.25,8.75,1,5,0,2,5,1,6,4,3,3,4,Universitas Indonesia,1,1,21.35930625,3.6,2,2
+4289,Indonesia,2,2,2.75,1,3.75,4.75,7.5,1,5,0,2,2,8,3,3,3,3,3,Universitas Indonesia,1,2,21.4532872,3.8,2,1
+2255,Indonesia,1,0,0,2,4,2.5,7.25,1,5,0,1,2,5,2,3,2,4,4,Universitas Gadjah Mada,1,2,23.14049587,3.8,2,2
+4697,Indonesia,4,0,0,0,0,7.25,6.5,1,4,0,2,3,7,7,4,4,3,4,Universitas Indonesia,1,1,24.38237298,3.7,2,2
+2696,Indonesia,4,0,0,0,0,13.25,9.75,2,5,0,1,2,3,3,4,3,4,3,Universitas Indonesia,1,2,22.72043837,3.9,2,2
+2627,Indonesia,3,0,0,4,2.75,6.25,5.25,1,5,0,1,2,2,1,2,2,2,1,Universitas Indonesia,4,2,23.32341806,3.4,2,2
+4077,Indonesia,0,0,0,0,0,7.25,11.25,2,5,0,1,1,5,3,4,4,4,2,Universitas Indonesia,1,1,22.20633069,3.8,2,2
+4045,Indonesia,1,1,2.75,0,0,7.25,7.75,2,5,0,5,5,4,3,4,4,3,4,Universitas Indonesia,1,1,NA,3.8,2,2
+4082,Indonesia,0,0,0,0,0,9.25,2.25,1,5,0,3,4,4,4,3,2,4,2,Universitas Indonesia,1,1,20,3.8,2,2
+5947,Indonesia,2,0,0,2,1.75,5.25,7.25,1,5,0,2,2,5,8,4,4,3,2,Unviersitas Airlangga,1,1,27.70083102,3.5,2,2
+1775,Indonesia,2,0,0,0,0,14,9.5,1,5,0,1,3,1,3,2,5,3,2,Universitas Gadjah Mada,1,1,24.44444444,3.6,2,2
+5512,Indonesia,2,2,2.25,2,2.25,2.25,9.75,1,5,0,1,4,3,5,3,3,3,2,Universitas Indonesia,1,1,18.73048907,3.9,2,2
+4634,Indonesia,3,0,0,0,0,13.25,2,2,5,0,2,5,3,3,4,2,4,3,Universitas Indonesia,1,2,21.13885586,3.7,2,2
+3252,Indonesia,4,3,3.5,2,1.75,6,5,1,5,0,1,8,8,2,3,2,3,2,Universitas Indonesia,1,1,28.9340689,3.4,2,2
+2067,Indonesia,0,2,4.25,1,2.25,14.5,8.75,1,5,0,1,1,6,6,2,4,4,3,Universitas Gadjah Mada,1,2,16.45600644,3.3,2,1
+5548,Indonesia,0,0,0,0,0,9.25,6.75,2,5,0,4,6,3,3,3,5,4,3,Universitas Indonesia,1,1,NA,NA,2,1
+2500,Indonesia,2,0,0,2,1.75,4.25,6.5,1,4,0,1,2,3,6,4,3,4,3,Universitas Gadjah Mada,3,1,32.66076354,3.3,2,2
+5714,Indonesia,0,0,0,0,0,2.75,7.5,1,5,0,1,3,1,7,4,3,3,3,Unviersitas Airlangga,2,1,20.08765522,3.4,2,2
+1933,Indonesia,1,0,0,0,0,9.25,6.75,1,5,0,1,1,2,2,2,1,2,2,Universitas Gadjah Mada,1,1,26.57312925,3.6,2,1
+3474,Indonesia,1,0,0,0,0,15.25,11,1,5,0,1,1,2,3,2,4,2,1,Universitas Indonesia,1,1,20.39542144,3.2,2,2
+4704,Indonesia,2,0,0,3,2.25,10.25,8.75,1,5,0,1,1,2,3,4,4,3,2,Universitas Indonesia,1,1,18.66201469,3.7,2,2
+5370,Indonesia,1,1,2.75,5,2.25,13.25,7.25,1,5,0,2,2,3,3,4,4,4,4,Universitas Indonesia,1,1,19.57168128,3.6,2,1
+2045,Indonesia,0,0,0,0,0,4.25,9.75,2,5,0,1,2,3,3,3,2,3,2,Universitas Gadjah Mada,1,1,20.39542144,NA,2,2
+4748,Indonesia,4,0,0,1,1.75,4.25,6.75,1,5,0,1,3,4,1,3,2,2,4,Universitas Indonesia,1,1,19.43301326,3.8,2,2
+1866,Indonesia,0,0,0,0,0,4.25,5.25,1,5,0,1,2,4,6,3,4,4,3,Universitas Gadjah Mada,2,1,25.71100827,3.1,2,1
+3680,Indonesia,4,0,0,4,2,4,7.5,1,5,0,1,1,4,8,3,1,4,3,Universitas Indonesia,1,2,23.78121284,3.6,2,2
+2221,Indonesia,3,2,2.75,2,1.75,15,6.25,1,5,0,1,2,4,3,4,3,4,5,Universitas Gadjah Mada,1,1,24.65483235,3.9,2,1
+2428,Indonesia,0,0,0,0,0,3.25,8,1,5,0,1,1,1,1,4,4,4,3,Universitas Gadjah Mada,1,1,15.62249639,3.5,2,2
+5263,Indonesia,2,1,3.75,1,4.75,3.25,2.25,1,5,0,1,1,3,3,3,4,3,4,Universitas Indonesia,1,1,15.55555556,4.0,2,2
+3691,Indonesia,1,0,0,0,0,15.25,9.75,1,5,0,2,1,4,6,2,2,2,2,Universitas Indonesia,1,1,20.703125,3.8,2,2
+3750,Indonesia,1,0,2.25,0,2.25,1.25,2.5,1,5,1,1,1,5,1,1,4,4,3,Universitas Indonesia,1,1,17.36044134,NA,2,1
+1992,Indonesia,3,3,3,3,2.75,3.5,5.5,1,5,0,1,1,4,5,3,3,5,4,Universitas Gadjah Mada,2,1,16.64684899,3.3,2,2
+5172,Indonesia,2,0,0,0,0,7.25,7.5,1,5,0,2,1,1,4,2,4,3,3,Universitas Indonesia,1,1,NA,3.5,2,2
+5975,Indonesia,3,1,3,2,3,6,7.75,1,5,0,4,3,4,1,3,3,4,4,Unviersitas Airlangga,1,1,24.14151925,3.8,2,1
+1967,Indonesia,3,0,0,0,0,15.25,4.5,1,5,0,1,1,4,8,4,2,4,4,Universitas Gadjah Mada,2,1,34.17489,3.2,2,2
+2614,Indonesia,0,0,0,2,2,4.25,7.5,1,5,0,6,2,1,2,5,3,4,4,Universitas Indonesia,4,2,23.25501864,3.7,2,2
+1678,Indonesia,4,0,0,7,3,5.25,11,1,5,0,1,4,2,1,2,3,2,2,Universitas Gadjah Mada,1,1,23.42209073,3.6,2,2
+1705,Indonesia,2,0,0,2,3,6.25,7.75,1,5,0,1,1,2,1,3,4,3,4,Universitas Gadjah Mada,2,1,19.53125,3.5,2,2
+5678,Indonesia,0,0,0,0,0,10.25,8.5,1,5,0,1,1,1,8,4,2,3,3,Universitas Indonesia,1,1,NA,NA,2,2
+5128,Indonesia,2,0,0,2,4,8.25,8,1,5,0,2,3,2,1,3,3,3,4,Universitas Indonesia,1,1,22.83737024,3.7,2,2
+5741,Indonesia,0,0,0,0,0,8.25,6.75,1,5,0,6,2,1,2,5,2,3,3,Unviersitas Airlangga,3,1,20.66115702,3.6,2,2
+5444,Indonesia,0,0,0,0,0,3,6.25,1,2,0,1,3,1,3,1,1,1,1,Universitas Indonesia,1,2,22.72043837,3.6,2,2
+3832,Indonesia,2,0,0,2,2,3.25,7.75,1,5,0,1,2,3,4,4,3,3,3,Universitas Indonesia,1,2,17.7154195,3.7,2,2
+1958,Indonesia,0,0,0,0,0,10.75,8.75,1,5,0,2,1,7,7,2,4,3,4,Universitas Gadjah Mada,1,1,24.97398543,3.6,2,2
+2014,Indonesia,2,1,3.25,2,4.25,11.25,2.75,1,3,0,3,3,3,4,3,4,3,2,Universitas Gadjah Mada,1,2,20.06920415,3.5,2,2
+1975,Indonesia,1,3,3.5,1,1.75,7.25,7.75,1,5,0,1,1,6,3,5,5,4,3,Universitas Gadjah Mada,2,2,30.11937557,3.6,2,1
+2658,Indonesia,4,0,0,0,0,7.75,5.5,1,5,0,4,4,4,5,4,2,3,3,Universitas Indonesia,1,1,23.01117686,3.8,1,2
+2685,Indonesia,0,0,0,0,0,7.25,7.75,1,5,0,2,2,2,1,2,3,3,2,Universitas Indonesia,2,1,20,3.6,2,1
+4956,Indonesia,0,0,0,0,0,7.25,6.75,1,5,0,1,1,1,2,3,3,3,3,Universitas Indonesia,1,1,18.06616734,3.7,2,2
+3225,Indonesia,5,0,0,3,3.25,5.25,6.25,1,5,0,1,1,3,6,4,5,5,3,Universitas Indonesia,1,2,19.23356075,3.3,2,2
+5240,Indonesia,2,0,0,0,0,12.25,10.25,1,5,0,1,1,2,1,4,4,4,3,Universitas Indonesia,1,1,18.25631871,3.8,2,2
+5632,Indonesia,2,0,0,2,2.75,12.25,9.25,1,5,0,1,1,2,1,2,3,3,3,Universitas Indonesia,1,2,NA,NA,2,2
+2262,Indonesia,1,0,0,1,4.25,15.25,6.75,1,5,0,1,1,2,8,3,3,3,3,Universitas Gadjah Mada,1,1,17.77777778,3.5,2,2
+3821,Indonesia,3,2,1.5,2,1.75,9.25,9.75,1,5,0,1,3,1,1,4,2,4,4,Universitas Indonesia,1,1,22.47658689,3.3,2,2
+4016,Indonesia,2,2,1.75,0,0,12.5,6,1,5,0,5,4,7,3,4,3,2,3,Universitas Indonesia,1,1,20.02884153,3.3,2,2
+2391,Indonesia,0,2,3,2,3.75,6.25,5,1,5,0,1,2,3,4,3,4,1,3,Universitas Gadjah Mada,1,1,19.83471074,3.6,2,2
+4693,Indonesia,0,0,0,0,1.25,15.25,5.75,2,5,0,1,1,2,2,3,4,3,2,Universitas Indonesia,1,1,21.484375,3.2,2,2
+3756,Indonesia,0,1,3.75,0,0,13.25,8.75,1,5,0,1,2,4,3,1,4,3,1,Universitas Indonesia,1,1,32.38835543,3.6,2,2
+5863,Indonesia,0,1,2.5,1,3.75,11.25,6.75,2,5,0,1,1,2,1,3,4,3,4,Unviersitas Airlangga,1,1,20.45032889,3.8,2,2
+1645,Indonesia,0,0,0,0,2.75,15,7.75,1,5,0,1,2,2,3,2,5,3,2,Universitas Gadjah Mada,1,1,15.41644691,3.8,2,2
+3559,Indonesia,1,0,0,0,0,5.25,10.75,1,5,0,1,6,3,5,1,1,1,1,Universitas Indonesia,1,2,17.44126398,3.7,2,2
+5616,Indonesia,1,0,0,1,4.75,13.5,9.75,1,5,1,2,2,3,8,5,5,5,5,Universitas Indonesia,1,2,NA,NA,2,2
+2829,Indonesia,7,5,2.25,7,2.25,7.25,9,1,5,0,5,3,1,1,4,4,4,4,Universitas Indonesia,1,1,22.22906193,3.9,2,2
+3482,Indonesia,1,0,0,1,3,6.25,8.25,2,5,0,1,1,5,3,5,2,4,3,Universitas Indonesia,1,1,17.00882085,3.8,2,2
+2948,Indonesia,0,0,0,0,0,8.25,7.5,2,5,0,1,1,1,1,3,4,5,3,Universitas Indonesia,1,1,21.20844875,3.5,2,2
+2106,Indonesia,1,0,0,0,0,9.25,8.75,1,5,0,3,4,1,2,4,4,3,3,Universitas Gadjah Mada,1,1,19.05197378,3.8,2,2
+3794,Indonesia,2,2,2.5,1,1.75,6.25,9.75,1,3,0,2,2,4,8,3,4,4,3,Universitas Indonesia,1,2,18.30576947,3.4,2,2
+5039,Indonesia,1,0,0,0,0,15.25,7.75,1,5,0,1,2,3,4,2,4,4,3,Universitas Indonesia,1,1,26.37023814,3.1,2,2
+3887,Indonesia,1,0,0,0,0,10.25,4.25,1,5,0,3,3,2,4,1,4,3,4,Universitas Indonesia,1,1,24,3.7,2,2
+2925,Indonesia,0,0,0,0,0,9.25,7.5,1,5,0,1,1,3,2,3,4,2,3,Universitas Indonesia,1,1,22.0603538,3.5,2,2
+4412,Indonesia,5,0,0,0,0,5.25,10.5,1,5,0,1,2,4,4,5,3,4,5,Universitas Indonesia,1,2,16.22498648,3.7,2,2
+2537,Indonesia,3,0,0,3,2.25,3.25,8.25,1,5,0,2,2,2,2,4,3,3,4,Universitas Gadjah Mada,1,1,20.07774787,3.6,2,2
+1812,Indonesia,2,1,3,1,2.25,15.25,2.25,1,5,0,1,2,2,4,4,3,3,2,Universitas Gadjah Mada,2,1,25.390625,3.5,2,2
+3389,Indonesia,1,0,0,1,2.25,13.25,8.5,1,5,0,3,7,1,1,2,3,4,2,Universitas Indonesia,1,1,18.67093431,3.9,2,2
+3193,Indonesia,4,4,2.25,4,2.25,13.25,7.25,1,5,0,3,3,2,2,4,3,4,4,Universitas Indonesia,1,2,22.46003435,3.3,2,2
+3227,Indonesia,1,4,2,2,2,7.25,7.75,1,5,0,1,4,5,3,4,2,3,3,Universitas Indonesia,1,2,19.36983471,3.6,2,2
+4886,Indonesia,0,0,0,0,0,2.25,6.75,1,5,0,1,3,1,2,2,3,2,4,Universitas Indonesia,1,1,20.88888889,3.5,2,2
+3210,Indonesia,5,0,0,0,0,5,8.25,1,5,0,2,3,2,1,4,2,3,2,Universitas Indonesia,1,1,16.02307323,3.8,2,2
+4010,Indonesia,4,0,0,0,0,14.25,5,1,5,0,2,3,2,4,1,4,4,3,Universitas Indonesia,1,2,24.50894577,3.7,2,1
+5580,Indonesia,0,0,0,0,0,6.25,2.5,2,5,0,2,2,2,3,2,3,2,3,Universitas Indonesia,4,1,22.10028959,3.5,2,2
+5840,Indonesia,2,2,2.25,1,1.75,6.25,11,2,5,0,3,3,2,2,4,3,4,3,Unviersitas Airlangga,1,1,18.73048907,4.0,2,2
+5143,Indonesia,7,0,0,2,4.25,5.5,3,1,5,0,3,2,5,2,3,3,5,5,Universitas Indonesia,1,2,21.51385851,3.2,2,2
+6016,Indonesia,2,0,0,2,2.75,14.25,10,2,5,0,4,2,2,4,4,4,4,4,Unviersitas Airlangga,2,1,16.44459437,3.2,2,2
+4889,Indonesia,2,1,3.25,1,3.25,9.25,2.75,1,5,0,1,1,4,1,2,3,4,4,Universitas Indonesia,1,1,21.20844875,3.5,2,2
+6000,Indonesia,7,0,0,0,0,13.5,9.75,1,5,0,1,1,3,2,3,1,4,4,Unviersitas Airlangga,1,2,22.03856749,4.0,2,2
+3304,Indonesia,0,0,3.25,0,0,13.25,8.5,2,5,0,1,1,2,8,3,4,4,3,Universitas Indonesia,1,2,19.97918835,3.3,2,2
+3055,Indonesia,3,4,3.25,0,0,6.25,8.75,1,4,0,8,6,4,3,4,4,4,4,Universitas Indonesia,1,2,27.54820937,NA,2,1
+3908,Indonesia,2,0,0,0,0,2.25,6.75,1,5,0,1,1,2,2,3,4,3,4,Universitas Indonesia,1,1,24.44444444,3.4,2,2
+3012,Indonesia,2,0,0,2,2.75,2.25,6.75,1,5,0,2,1,2,1,3,3,4,4,Universitas Indonesia,1,1,22.49134948,3.8,2,2
+5656,Indonesia,4,3,3.25,0,0,8,2,1,4,0,3,4,1,5,2,4,3,3,Universitas Indonesia,1,2,NA,NA,2,2
+5348,Indonesia,0,1,2.25,1,2.25,15.25,9.75,2,5,0,3,5,1,1,4,2,3,2,Universitas Indonesia,1,1,24.38652644,3.8,2,2
+5167,Indonesia,1,0,0,0,0,14.25,7.25,1,5,0,1,1,3,1,3,2,2,1,Universitas Indonesia,1,2,31.8877551,3.6,2,2
+5895,Indonesia,3,2,2.25,2,2.25,14.25,9.75,1,5,0,7,8,2,4,4,3,3,3,Unviersitas Airlangga,1,1,25.71166208,3.7,2,2
+4173,Indonesia,2,2,4.75,2,4.75,13.5,8,2,5,0,3,2,2,2,3,3,3,3,Universitas Indonesia,1,2,26.06167931,3.9,2,2
+3784,Indonesia,1,1,2.5,1,3.25,3.25,6.5,1,5,0,3,4,1,2,3,4,4,4,Universitas Indonesia,1,2,24.38237298,3.8,2,1
+2470,Indonesia,1,0,0,0,0,9.25,6.75,1,5,0,1,5,4,4,2,2,3,2,Universitas Gadjah Mada,1,1,22.03856749,3.8,2,2
+5360,Indonesia,5,0,0,0,0,2.25,6,1,3,0,6,3,5,2,1,5,3,3,Universitas Indonesia,1,2,14.6092038,3.7,2,2
+2013,Indonesia,2,0,0,0,0,2.75,7.75,1,5,0,1,1,2,2,3,2,3,2,Universitas Gadjah Mada,2,2,19.25702882,3.3,2,2
+3722,Indonesia,3,0,0,2,2.25,3.75,9.25,1,5,0,1,2,2,3,3,4,3,4,Universitas Indonesia,1,1,26.91272587,3.5,2,2
+4473,Indonesia,6,1,4.25,7,1.75,5.25,6.25,1,5,0,3,2,3,5,5,5,4,4,Universitas Indonesia,1,2,25.0995016,3.6,2,1
+6022,Indonesia,1,0,0,1,2,13.75,10.25,1,5,0,2,1,4,3,3,4,2,2,Unviersitas Airlangga,2,1,21.93634741,3.8,2,2
+4768,Indonesia,0,0,0,1,4.25,9.75,9.25,1,5,0,2,2,1,3,3,4,4,2,Universitas Indonesia,1,1,24.34175829,3.7,2,2
+3818,Indonesia,3,1,2.5,2,2,9.25,10,1,5,0,1,1,2,4,4,3,4,3,Universitas Indonesia,1,1,18.82711104,3.6,2,2
+4501,Indonesia,7,0,0,5,3.25,13.25,7.75,1,5,0,3,1,4,3,5,5,5,5,Universitas Indonesia,1,1,25.390625,3.8,2,1
+3595,Indonesia,7,7,2.25,7,1.75,13.25,6.75,1,5,0,1,1,4,2,5,3,5,4,Universitas Indonesia,1,1,23.62444749,3.4,2,2
+2599,Indonesia,3,0,0,0,0,3.25,5.75,1,5,0,1,1,2,4,3,2,3,2,Universitas Indonesia,3,2,32.84660635,3.5,2,2
+4411,Indonesia,2,2,1.75,7,2,9.25,4.75,2,2,0,2,2,4,3,4,4,3,3,Universitas Indonesia,1,2,18.28571429,3.2,2,2
+5814,Indonesia,0,0,0,1,4,9.25,7.75,1,5,0,1,2,2,3,2,3,2,1,Unviersitas Airlangga,1,1,20.13477975,4.0,2,2
+3269,Indonesia,0,0,0,1,1.75,6.25,9.25,1,5,0,2,2,2,2,4,3,4,2,Universitas Indonesia,1,1,18.31425598,3.3,2,2
+2335,Indonesia,7,7,1.5,7,2,6.5,10.75,1,5,0,1,2,1,3,3,3,3,3,Universitas Gadjah Mada,2,2,25.71166208,3.3,1,2
+2474,Indonesia,5,2,3.75,2,4.25,3.25,7.75,1,5,0,3,4,2,3,5,4,3,4,Universitas Gadjah Mada,1,1,18.55677322,3.5,2,1
+3481,Indonesia,0,0,0,0,0,9.25,7.75,1,5,0,1,1,2,3,3,1,3,1,Universitas Indonesia,1,1,22.22222222,3.4,2,2
+4199,Indonesia,3,0,0,3,2,14.25,11.5,1,5,0,3,3,3,2,4,3,4,4,Universitas Indonesia,1,1,31.07354071,3.9,2,2
+4350,Indonesia,1,0,0,0,0,5.25,7.25,1,5,0,1,2,4,3,2,3,4,4,Universitas Indonesia,1,1,20.703125,3.8,2,2
+3492,Indonesia,2,0,0,4,3.25,14.25,5.75,1,5,1,1,3,6,1,3,2,3,4,Universitas Indonesia,1,1,19.05197378,3.8,2,2
+3451,Indonesia,4,4,3.25,4,3.25,6.25,5.75,1,2,0,8,8,4,8,4,4,4,4,Universitas Indonesia,1,2,22.63467632,3.5,2,2
+4084,Indonesia,0,0,0,0,0,6.75,8.75,1,5,0,1,1,4,4,4,5,4,3,Universitas Indonesia,1,1,20.32443826,3.4,2,2
+5620,Indonesia,2,0,0,0,0,14.25,7.75,1,5,0,4,4,8,2,4,4,2,3,Universitas Indonesia,1,1,NA,NA,1,2
+4198,Indonesia,2,2,2.25,2,3,3.5,2.75,1,2,0,1,1,1,1,4,4,4,4,Universitas Indonesia,1,2,24.8015873,3.4,2,2
+2607,Indonesia,1,1,4,0,0,6.25,3.75,1,5,0,2,1,3,4,4,4,4,4,Universitas Indonesia,4,1,19.97918835,NA,1,2
+5245,Indonesia,0,0,0,0,0,6.75,4.5,2,5,0,3,5,4,3,3,4,4,4,Universitas Indonesia,1,2,18.71094925,3.8,2,2
+4648,Indonesia,2,2,3.25,1,2.75,6.25,6.25,1,5,0,3,2,3,5,3,4,3,2,Universitas Indonesia,1,1,18.49112426,3.3,2,2
+1765,Indonesia,7,1,1.75,1,4.25,6.25,7.75,1,5,0,1,7,7,8,5,4,4,2,Universitas Gadjah Mada,1,1,19.53125,3.8,2,2
+4313,Indonesia,2,0,0,2,2.25,11.25,10.75,1,5,0,1,5,2,2,3,4,3,4,Universitas Indonesia,1,1,25.390625,3.4,2,2
+1740,Indonesia,2,2,1.75,0,0,14.25,5.75,1,5,0,2,2,2,3,3,3,3,4,Universitas Gadjah Mada,2,1,21.50446956,3.4,2,2
+5032,Indonesia,1,0,0,0,0,13.25,8.75,1,5,0,3,2,6,8,4,4,3,4,Universitas Indonesia,1,1,18.82711104,3.8,2,2
+5118,Indonesia,0,0,0,0,0,9.25,5.75,1,5,0,2,4,1,2,4,4,4,4,Universitas Indonesia,1,2,18.12523512,3.3,2,2
+4706,Indonesia,4,3,3,2,3.25,6.25,6.25,1,2,1,1,1,6,6,4,4,3,3,Universitas Indonesia,1,2,17.95918367,3.2,2,1
+3704,Indonesia,1,0,1.25,2,2.25,13.25,8.75,1,5,0,1,1,5,4,1,4,2,2,Universitas Indonesia,1,1,20.57613169,3.9,2,2
+2290,Indonesia,1,0,0,0,0,13.25,8.25,1,5,0,3,2,1,1,4,3,5,3,Universitas Gadjah Mada,1,1,21.67125803,3.8,2,2
+3533,Indonesia,1,1,2.75,1,1.75,5.25,7.75,1,5,0,1,2,3,3,4,3,4,2,Universitas Indonesia,1,1,27.54820937,3.7,2,2
+1733,Indonesia,1,1,2.25,1,2.25,7.25,9.75,1,5,0,4,4,2,1,4,4,4,4,Universitas Gadjah Mada,2,1,27.21730295,4.0,2,2
+3642,Indonesia,4,0,0,4,5,16,2.75,1,5,0,3,6,1,8,4,1,3,2,Universitas Indonesia,1,1,17.4817898,3.4,2,2
+2361,Indonesia,5,0,0,5,2,9.25,8.75,1,5,0,1,3,3,2,5,3,3,2,Universitas Gadjah Mada,1,1,20.39542144,3.7,2,2
+5582,Indonesia,0,0,0,0,0,13.25,2.75,1,5,0,1,1,2,2,5,3,3,3,Universitas Indonesia,1,1,20.54569362,3.9,2,2
+4179,Indonesia,2,0,0,0,0,7.25,7.75,1,5,6,1,3,2,2,4,5,5,5,Universitas Indonesia,1,2,23.67125363,3.6,2,2
+5902,Indonesia,3,0,0,0,0,9.25,8.75,1,5,0,3,2,2,3,3,5,5,3,Unviersitas Airlangga,1,1,20.82999519,3.9,2,2
+3898,Indonesia,0,0,0,1,2.25,14.25,2.75,2,5,0,6,4,1,7,4,4,3,2,Universitas Indonesia,1,2,26.7755102,3.1,2,2
+4882,Indonesia,3,5,1.75,4,1.75,5.25,2.75,1,5,0,2,3,3,3,3,4,3,3,Universitas Indonesia,1,1,21.23057202,2.8,2,2
+5511,Indonesia,2,2,1.75,1,2,13.25,5.5,2,3,0,1,1,8,1,4,4,3,4,Universitas Indonesia,1,2,22.75830678,3.4,2,2
+5471,Indonesia,3,2,3.25,2,3.75,14.25,4.5,1,3,0,2,2,3,1,3,5,3,4,Universitas Indonesia,1,2,19.37716263,3.6,2,2
+2692,Indonesia,2,1,2,1,2.75,13.25,9.75,1,5,0,3,2,1,6,3,4,3,3,Universitas Indonesia,3,1,23.30668005,3.4,2,2
+5080,Indonesia,0,0,0,0,0,5.25,7.25,1,5,0,1,1,1,1,4,2,4,2,Universitas Indonesia,1,1,17.11634611,3.5,2,2
+4220,Indonesia,2,2,2.25,3,3.25,4.25,6.75,1,5,0,3,2,3,3,3,4,4,3,Universitas Indonesia,1,1,19.53125,3.8,2,2
+4396,Indonesia,0,0,2.25,0,0,11.25,8.75,2,5,0,3,3,4,8,2,4,3,4,Universitas Indonesia,1,1,21.30394858,3.6,2,2
+1683,Indonesia,1,0,0,0,0,6.25,7.25,1,5,0,2,1,1,2,3,4,2,2,Universitas Gadjah Mada,3,1,21.30394858,3.6,2,2
+1663,Indonesia,1,0,0,0,0,5.75,8.75,2,4,0,1,1,1,2,3,4,2,3,Universitas Gadjah Mada,1,2,19.10009183,3.3,2,2
+5067,Indonesia,2,4,3.25,0,0,11.25,4.75,1,2,0,1,2,3,7,3,5,4,4,Universitas Indonesia,1,2,34.15977961,3.7,2,1
+5588,Indonesia,1,0,0,0,0,12.25,10.75,1,5,0,2,3,3,2,3,4,2,2,Universitas Indonesia,1,2,NA,NA,2,2
+4238,Indonesia,5,1,2.75,5,1.75,5.25,9.75,1,4,0,3,3,3,3,5,4,4,4,Universitas Indonesia,1,2,21.63331531,3.9,2,2
+4310,Indonesia,0,0,0,0,0,8.25,5.75,2,1,0,1,1,4,4,3,3,3,4,Universitas Indonesia,1,1,17.62538055,3.7,2,2
+3536,Indonesia,2,3,2.25,2,1.75,6.25,7.75,1,5,0,1,2,1,6,3,3,3,3,Universitas Indonesia,1,1,21.56454491,3.7,2,2
+2343,Indonesia,0,0,0,0,0,4.75,6.75,2,5,0,1,1,1,5,4,3,3,4,Universitas Gadjah Mada,1,1,16.015625,4.0,2,2
+5907,Indonesia,7,0,0,6,1.75,4.25,9.75,2,5,0,2,1,1,1,3,2,4,4,Unviersitas Airlangga,1,1,19.11111111,4.0,2,2
+3771,Indonesia,1,0,0,0,0,9.75,4.75,1,5,0,3,3,2,1,3,5,4,4,Universitas Indonesia,1,2,19.25702882,3.6,2,2
+2116,Indonesia,0,0,0,0,0,7.25,7.75,1,5,0,2,2,5,8,2,5,4,3,Universitas Gadjah Mada,1,1,15.05970096,3.8,2,2
+5575,Indonesia,0,0,0,0,0,15.75,6.75,1,2,1,8,8,8,6,2,3,2,3,Universitas Indonesia,1,2,NA,NA,1,1
+4955,Indonesia,0,0,0,0,0,14.25,8,1,5,0,2,3,2,2,4,4,4,4,Universitas Indonesia,1,1,22.93975069,3.8,2,2
+5964,Indonesia,0,0,0,2,3.25,5.25,9.75,1,5,0,2,1,1,5,2,4,3,3,Unviersitas Airlangga,3,1,21.77777778,3.8,2,2
+1875,Indonesia,2,3,2.75,3,2.75,3.25,4.25,1,5,0,2,3,1,1,3,1,4,4,Universitas Gadjah Mada,1,2,22.4996371,3.6,2,2
+1650,Indonesia,3,3,2.75,3,2,9.25,4,1,5,0,1,1,4,5,3,3,3,2,Universitas Gadjah Mada,2,1,27.54820937,3.2,2,2
+4133,Indonesia,3,3,2.25,1,1.75,7.25,8.25,1,5,0,8,3,1,1,4,4,4,3,Universitas Indonesia,1,1,22.32142857,3.9,2,2
+1910,Indonesia,1,0,0,1,1.75,7.5,11,1,5,0,1,3,3,2,3,4,3,3,Universitas Gadjah Mada,2,1,20.44444444,3.2,1,2
+4954,Indonesia,2,2,3.25,0,0,4.25,5.75,1,1,0,2,2,8,6,4,5,4,4,Universitas Indonesia,1,2,24.77209671,3.1,2,2
+3036,Indonesia,0,0,0,0,0,6.25,5.75,2,5,0,2,3,2,1,3,4,3,3,Universitas Indonesia,1,1,20.90419501,3.5,2,2
+1769,Indonesia,1,1,3.25,1,2.75,7.25,2.75,1,5,0,1,2,1,1,4,3,3,4,Universitas Gadjah Mada,1,2,24.72518293,3.8,2,1
+5682,Indonesia,0,0,0,0,0,15.25,5.5,2,2,0,1,1,8,6,3,4,2,4,Universitas Indonesia,5,2,NA,NA,2,2
+2629,Indonesia,0,0,0,0,0,11.25,5.75,1,1,0,1,3,1,4,3,3,3,3,Universitas Indonesia,1,2,22.4996371,3.4,2,2
+3239,Indonesia,0,0,0,0,0,11.25,5.25,1,5,0,4,3,3,1,4,4,3,3,Universitas Indonesia,1,1,35.5998576,3.5,2,2
+3788,Indonesia,0,0,0,0,0,14.25,7,2,5,0,2,2,6,4,2,3,1,4,Universitas Indonesia,1,2,24.21229339,3.7,2,2
+5087,Indonesia,2,0,0,0,0,6.25,3.25,1,5,0,1,1,3,2,3,2,3,3,Universitas Indonesia,1,1,20.77562327,3.7,2,2
+3169,Indonesia,1,0,0,0,0,5.25,8,2,5,0,1,1,3,3,3,3,3,3,Universitas Indonesia,1,1,19.10009183,NA,2,2
+4056,Indonesia,2,2,1.75,2,3,3.25,9.25,2,5,0,2,1,6,4,5,4,4,3,Universitas Indonesia,1,2,18.28677973,3.8,2,1
+4605,Indonesia,2,2,1.75,0,0,11.25,6.25,2,5,0,2,2,6,4,3,4,2,3,Universitas Indonesia,1,2,29.06060712,3.3,2,1
+4548,Indonesia,6,5,2.25,5,2.25,3.25,9.75,2,5,0,5,4,1,1,3,5,2,4,Universitas Indonesia,1,2,20.57613169,3.9,2,1
+1859,Indonesia,4,0,0,5,4,4.25,8.75,1,5,0,2,4,3,4,4,4,3,4,Universitas Gadjah Mada,3,2,19.26717144,3.2,2,2
+3872,Indonesia,1,3,4.25,2,2.75,6.25,6.25,1,5,0,2,2,1,2,3,3,4,3,Universitas Indonesia,1,2,23.37472608,3.6,2,1
+3850,Indonesia,0,0,0,0,0,4.25,6.25,1,4,0,3,5,1,4,3,2,4,3,Universitas Indonesia,1,1,20.703125,3.7,2,2
+3067,Indonesia,0,0,0,0,0,6.25,8.75,1,5,0,1,1,4,4,4,3,3,4,Universitas Indonesia,1,2,20.04744562,3.6,2,1
+2307,Indonesia,6,5,2.25,0,0,3.75,9.75,1,5,0,2,3,1,4,4,4,4,4,Universitas Gadjah Mada,2,2,33.61226848,3.8,2,2
+5055,Indonesia,0,0,0,2,2.25,7.25,7.75,1,5,0,1,1,3,3,1,3,1,1,Universitas Indonesia,1,1,28.3446712,3.6,2,2
+2226,Indonesia,6,0,0,6,2,1.75,6.75,1,5,0,3,3,1,2,3,5,3,5,Universitas Gadjah Mada,2,2,25.52964487,3.3,2,1
+3080,Indonesia,1,0,0,0,0,9.25,5.5,2,5,0,1,5,2,2,3,4,4,4,Universitas Indonesia,1,1,19.6282647,3.8,2,2
